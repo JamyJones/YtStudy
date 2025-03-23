@@ -32,14 +32,6 @@
     "icon": "https://yewtu.be/vi/rXkW3-qvB3A/mqdefault.jpg"
   },
   "S4": {
-    "name": "Study With Marte",
-    "url": "https://www.youtube.com/watch?v=1ez6N_24-68",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/1ez6N_24-68/mqdefault.jpg"
-  },
-  "S5": {
     "name": "Study with Sushii",
     "url": "https://www.youtube.com/watch?v=E8ucadQdan8",
     "live_status": "live",
@@ -47,31 +39,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/E8ucadQdan8/mqdefault.jpg"
   },
-  "S6": {
-    "name": "Sunnie's Study Caf\u00e9",
-    "url": "https://www.youtube.com/watch?v=ahAJIri6sU8",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/ahAJIri6sU8/mqdefault.jpg"
-  },
-  "S7": {
-    "name": "PYQ NEET-JEE Live",
-    "url": "https://www.youtube.com/watch?v=UXPcv0C2WEY",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/UXPcv0C2WEY/mqdefault.jpg"
-  },
-  "S8": {
-    "name": "OnlyIAS \u0939\u093f\u0928\u094d\u0926\u0940 \u092e\u093e\u0927\u094d\u092f\u092e",
-    "url": "https://www.youtube.com/watch?v=cpiz8avQQl0",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/cpiz8avQQl0/mqdefault.jpg"
-  },
-  "S9": {
+  "S5": {
     "name": "Cozy Studies",
     "url": "https://www.youtube.com/watch?v=OTQxLmahSlE",
     "live_status": "live",
@@ -79,63 +47,31 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/OTQxLmahSlE/mqdefault.jpg"
   },
-  "S10": {
-    "name": "Dr Prerana Somra",
-    "url": "https://www.youtube.com/watch?v=4yxAwiipEns",
+  "S6": {
+    "name": "Aryan Clouded",
+    "url": "https://www.youtube.com/watch?v=VUoD3XyeU9A",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/4yxAwiipEns/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/VUoD3XyeU9A/mqdefault.jpg"
   },
-  "S11": {
-    "name": "JHB-Narrations",
-    "url": "https://www.youtube.com/watch?v=EdwNIcZ3wR4",
+  "S7": {
+    "name": "StudyWithTigran",
+    "url": "https://www.youtube.com/watch?v=R0u0XdvW8yI",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/EdwNIcZ3wR4/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/R0u0XdvW8yI/mqdefault.jpg"
   },
-  "S12": {
-    "name": "MedicoChild",
-    "url": "https://www.youtube.com/watch?v=VGsvNWl6Oy4",
+  "S8": {
+    "name": "Nerdy Tales",
+    "url": "https://www.youtube.com/watch?v=81ujF_-fz3o",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/VGsvNWl6Oy4/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/81ujF_-fz3o/mqdefault.jpg"
   },
-  "S13": {
-    "name": "\ud835\udcd6\ud835\udcf5\ud835\udcf8\ud835\udcfc\ud835\udcfc\ud835\udcfc\ud835\udcee\ud835\udcea",
-    "url": "https://www.youtube.com/watch?v=2PE6WbCmKLg",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/2PE6WbCmKLg/mqdefault.jpg"
-  },
-  "S14": {
-    "name": "AceTheGrade",
-    "url": "https://www.youtube.com/watch?v=aoDIngN2JJs",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/aoDIngN2JJs/mqdefault.jpg"
-  },
-  "S15": {
-    "name": "Dev study",
-    "url": "https://www.youtube.com/watch?v=m7GsYRtekgo",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/m7GsYRtekgo/mqdefault.jpg"
-  },
-  "S16": {
-    "name": "Study Mood",
-    "url": "https://www.youtube.com/watch?v=DDEn2B6BBY4",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/DDEn2B6BBY4/mqdefault.jpg"
-  },
-  "S17": {
+  "S9": {
     "name": "study focus",
     "url": "https://www.youtube.com/watch?v=lOj6jK9p67c",
     "live_status": "live",
@@ -143,20 +79,84 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/lOj6jK9p67c/mqdefault.jpg"
   },
-  "S18": {
-    "name": "Study with Susmita",
-    "url": "https://www.youtube.com/watch?v=vjMh2QQ8dhc",
+  "S10": {
+    "name": "\ud835\udcd6\ud835\udcf5\ud835\udcf8\ud835\udcfc\ud835\udcfc\ud835\udcfc\ud835\udcee\ud835\udcea",
+    "url": "https://www.youtube.com/watch?v=2PE6WbCmKLg",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/vjMh2QQ8dhc/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/2PE6WbCmKLg/mqdefault.jpg"
   },
-  "S19": {
+  "S11": {
+    "name": "MedicoChild",
+    "url": "https://www.youtube.com/watch?v=VGsvNWl6Oy4",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/VGsvNWl6Oy4/mqdefault.jpg"
+  },
+  "S12": {
+    "name": "AceTheGrade",
+    "url": "https://www.youtube.com/watch?v=aoDIngN2JJs",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/aoDIngN2JJs/mqdefault.jpg"
+  },
+  "S13": {
+    "name": "tss",
+    "url": "https://www.youtube.com/watch?v=bYPrSdzOWtA",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/bYPrSdzOWtA/mqdefault.jpg"
+  },
+  "S14": {
+    "name": "Dev study",
+    "url": "https://www.youtube.com/watch?v=m7GsYRtekgo",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/m7GsYRtekgo/mqdefault.jpg"
+  },
+  "S15": {
+    "name": "Wake-up-stranger",
+    "url": "https://www.youtube.com/watch?v=SEtXSVb6Wy8",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/SEtXSVb6Wy8/mqdefault.jpg"
+  },
+  "S16": {
+    "name": "Mass Study",
+    "url": "https://www.youtube.com/watch?v=VwVx6Jt7D1o",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/VwVx6Jt7D1o/mqdefault.jpg"
+  },
+  "S17": {
     "name": "Study with Mahdi",
     "url": "https://www.youtube.com/watch?v=5dF9OkaIQ5E",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/5dF9OkaIQ5E/mqdefault.jpg"
+  },
+  "S18": {
+    "name": "STUDY AND FUN",
+    "url": "https://www.youtube.com/watch?v=EmBh06JQsQ0",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/EmBh06JQsQ0/mqdefault.jpg"
+  },
+  "S19": {
+    "name": "studyfriendsonline",
+    "url": "https://www.youtube.com/watch?v=HKXMdMVZgco",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/HKXMdMVZgco/mqdefault.jpg"
   }
 }
