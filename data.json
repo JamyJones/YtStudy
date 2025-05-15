@@ -40,14 +40,6 @@
     "icon": "https://yewtu.be/vi/Yn0hvWXFSQw/mqdefault.jpg"
   },
   "S9": {
-    "name": "Sunnie's Study Caf\u00e9",
-    "url": "https://www.youtube.com/watch?v=XInaqBEpEUQ",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/XInaqBEpEUQ/mqdefault.jpg"
-  },
-  "S10": {
     "name": "divyanshi jha",
     "url": "https://www.youtube.com/watch?v=DTgw7AWuLl8",
     "live_status": "live",
@@ -55,15 +47,15 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/DTgw7AWuLl8/mqdefault.jpg"
   },
-  "S11": {
-    "name": "\ub85c\ud14c\ub514 Lawteady",
-    "url": "https://www.youtube.com/watch?v=6hBCp3h1x8c",
+  "S10": {
+    "name": "Sunnie's Study Caf\u00e9",
+    "url": "https://www.youtube.com/watch?v=XInaqBEpEUQ",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/6hBCp3h1x8c/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/XInaqBEpEUQ/mqdefault.jpg"
   },
-  "S12": {
+  "S11": {
     "name": "MEDGIRL \ud83e\ude7a",
     "url": "https://www.youtube.com/watch?v=cMmlbjdWtiQ",
     "live_status": "live",
@@ -71,7 +63,23 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/cMmlbjdWtiQ/mqdefault.jpg"
   },
+  "S12": {
+    "name": "\ub85c\ud14c\ub514 Lawteady",
+    "url": "https://www.youtube.com/watch?v=6hBCp3h1x8c",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/6hBCp3h1x8c/mqdefault.jpg"
+  },
   "S13": {
+    "name": "\ud5c8\ub2c8\ub2c8\ub2c8",
+    "url": "https://www.youtube.com/watch?v=_LSPsOo2ELw",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/_LSPsOo2ELw/mqdefault.jpg"
+  },
+  "S14": {
     "name": "\uc870\uc211\uadf8\ub9ac song",
     "url": "https://www.youtube.com/watch?v=KauhkiLZULc",
     "live_status": "live",
@@ -79,7 +87,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/KauhkiLZULc/mqdefault.jpg"
   },
-  "S16": {
+  "S15": {
     "name": "Tina Lin\u2019s database \ud83d\udcf7",
     "url": "https://www.youtube.com/watch?v=XK4u0IDUJeE",
     "live_status": "live",
@@ -87,7 +95,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/XK4u0IDUJeE/mqdefault.jpg"
   },
-  "S17": {
+  "S16": {
     "name": "Divit Gaur",
     "url": "https://www.youtube.com/watch?v=zDuCdrmL75c",
     "live_status": "live",
@@ -95,7 +103,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/zDuCdrmL75c/mqdefault.jpg"
   },
-  "S18": {
+  "S17": {
     "name": "Essential New York",
     "url": "https://www.youtube.com/watch?v=flHmQStenm8",
     "live_status": "live",
@@ -103,13 +111,21 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/flHmQStenm8/mqdefault.jpg"
   },
-  "S19": {
+  "S18": {
     "name": "\uc774\ube10 enliven",
     "url": "https://www.youtube.com/watch?v=FfEp7lxcMLc",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/FfEp7lxcMLc/mqdefault.jpg"
+  },
+  "S19": {
+    "name": "Study with Hamza",
+    "url": "https://www.youtube.com/watch?v=x2Qpt3auIj4",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/x2Qpt3auIj4/mqdefault.jpg"
   },
   "S20": {
     "name": "Sangharsh gaming",
@@ -120,54 +136,14 @@
     "icon": "https://yewtu.be/vi/6R3CpLPmjcA/mqdefault.jpg"
   },
   "S21": {
-    "name": "SiddharthIRL",
-    "url": "https://www.youtube.com/watch?v=2T6Ph15DapY",
+    "name": "CA Madhu Thakuria (Life & Audit)",
+    "url": "https://www.youtube.com/watch?v=HCY800ZzrCw",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/2T6Ph15DapY/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/HCY800ZzrCw/mqdefault.jpg"
   },
   "S22": {
-    "name": "Study with Elaine",
-    "url": "https://www.youtube.com/watch?v=Qw-yBeWAkO8",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/Qw-yBeWAkO8/mqdefault.jpg"
-  },
-  "S23": {
-    "name": "Study with Sushii",
-    "url": "https://www.youtube.com/watch?v=cnVw-nmxWHY",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/cnVw-nmxWHY/mqdefault.jpg"
-  },
-  "S24": {
-    "name": "Study with Hamza",
-    "url": "https://www.youtube.com/watch?v=x2Qpt3auIj4",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/x2Qpt3auIj4/mqdefault.jpg"
-  },
-  "S25": {
-    "name": "Studyistic",
-    "url": "https://www.youtube.com/watch?v=1OtdnQEVqG8",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/1OtdnQEVqG8/mqdefault.jpg"
-  },
-  "S26": {
-    "name": "Yashwant Kumar Live Study",
-    "url": "https://www.youtube.com/watch?v=TBqw2q2AdeI",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/TBqw2q2AdeI/mqdefault.jpg"
-  },
-  "S27": {
     "name": "wait... why don't we study together?",
     "url": "https://www.youtube.com/watch?v=UWY65WmZ32U",
     "live_status": "live",
@@ -175,47 +151,47 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/UWY65WmZ32U/mqdefault.jpg"
   },
+  "S23": {
+    "name": "SiddharthIRL",
+    "url": "https://www.youtube.com/watch?v=2T6Ph15DapY",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/2T6Ph15DapY/mqdefault.jpg"
+  },
+  "S24": {
+    "name": "Twinkle - Study With Me",
+    "url": "https://www.youtube.com/watch?v=UKVZLDUDQ8A",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/UKVZLDUDQ8A/mqdefault.jpg"
+  },
+  "S25": {
+    "name": "Study with Elaine",
+    "url": "https://www.youtube.com/watch?v=Qw-yBeWAkO8",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/Qw-yBeWAkO8/mqdefault.jpg"
+  },
+  "S26": {
+    "name": "Study with Sushii",
+    "url": "https://www.youtube.com/watch?v=cnVw-nmxWHY",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/cnVw-nmxWHY/mqdefault.jpg"
+  },
+  "S27": {
+    "name": "Yashwant Kumar Live Study",
+    "url": "https://www.youtube.com/watch?v=TBqw2q2AdeI",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/TBqw2q2AdeI/mqdefault.jpg"
+  },
   "S28": {
-    "name": "The UPSC Dervish",
-    "url": "https://www.youtube.com/watch?v=_0q9OxLBGxc",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/_0q9OxLBGxc/mqdefault.jpg"
-  },
-  "S29": {
-    "name": "just-Nico",
-    "url": "https://www.youtube.com/watch?v=Y_I_o6P9g10",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/Y_I_o6P9g10/mqdefault.jpg"
-  },
-  "S30": {
-    "name": "\uc774\ub791\uc18c Rangso Lee",
-    "url": "https://www.youtube.com/watch?v=w2RHOjKQrJE",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/w2RHOjKQrJE/mqdefault.jpg"
-  },
-  "S31": {
-    "name": "\ud558\ub8e82\ud2c0",
-    "url": "https://www.youtube.com/watch?v=JT4Ke8k2cls",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/JT4Ke8k2cls/mqdefault.jpg"
-  },
-  "S32": {
-    "name": "\uc575\ub450\uc0c8",
-    "url": "https://www.youtube.com/watch?v=gS0OL2yxtaw",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/gS0OL2yxtaw/mqdefault.jpg"
-  },
-  "S33": {
     "name": "Dr. Kurd",
     "url": "https://www.youtube.com/watch?v=YqM6NcLh1mo",
     "live_status": "live",
@@ -223,31 +199,23 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/YqM6NcLh1mo/mqdefault.jpg"
   },
-  "S34": {
-    "name": "kunal tiwary",
-    "url": "https://www.youtube.com/watch?v=SRWPtVG3gE8",
+  "S29": {
+    "name": "\uc575\ub450\uc0c8",
+    "url": "https://www.youtube.com/watch?v=gS0OL2yxtaw",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/SRWPtVG3gE8/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/gS0OL2yxtaw/mqdefault.jpg"
   },
-  "S35": {
-    "name": "\ub450\uc78a doit",
-    "url": "https://www.youtube.com/watch?v=zDTINf4Xj5w",
+  "S30": {
+    "name": "Studyistic",
+    "url": "https://www.youtube.com/watch?v=1OtdnQEVqG8",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/zDTINf4Xj5w/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/1OtdnQEVqG8/mqdefault.jpg"
   },
-  "S36": {
-    "name": "Shivangi Medico",
-    "url": "https://www.youtube.com/watch?v=IREavAZnAdo",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/IREavAZnAdo/mqdefault.jpg"
-  },
-  "S37": {
+  "S31": {
     "name": "Manten -\u52c9\u5f37\u30e9\u30a4\u30d6\u914d\u4fe1\u3057\u7d9a\u3051\u308b\u7537-",
     "url": "https://www.youtube.com/watch?v=pp2AOG_QkRY",
     "live_status": "live",
@@ -255,21 +223,69 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/pp2AOG_QkRY/mqdefault.jpg"
   },
-  "S38": {
-    "name": "Chill with Taiki",
-    "url": "https://www.youtube.com/watch?v=azV9PMW5-Ro",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/azV9PMW5-Ro/mqdefault.jpg"
-  },
-  "S39": {
+  "S32": {
     "name": "Inspector Dabas",
     "url": "https://www.youtube.com/watch?v=nh5qaY5Y4CQ",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/nh5qaY5Y4CQ/mqdefault.jpg"
+  },
+  "S33": {
+    "name": "\ud558\ub8e82\ud2c0",
+    "url": "https://www.youtube.com/watch?v=JT4Ke8k2cls",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/JT4Ke8k2cls/mqdefault.jpg"
+  },
+  "S34": {
+    "name": "Alexander Mayhue",
+    "url": "https://www.youtube.com/watch?v=DjeSLIiveVc",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/DjeSLIiveVc/mqdefault.jpg"
+  },
+  "S35": {
+    "name": "\uc774\ub791\uc18c Rangso Lee",
+    "url": "https://www.youtube.com/watch?v=w2RHOjKQrJE",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/w2RHOjKQrJE/mqdefault.jpg"
+  },
+  "S36": {
+    "name": "The UPSC Dervish",
+    "url": "https://www.youtube.com/watch?v=_0q9OxLBGxc",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/_0q9OxLBGxc/mqdefault.jpg"
+  },
+  "S37": {
+    "name": "just-Nico",
+    "url": "https://www.youtube.com/watch?v=Y_I_o6P9g10",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/Y_I_o6P9g10/mqdefault.jpg"
+  },
+  "S38": {
+    "name": "Lost in Awww",
+    "url": "https://www.youtube.com/watch?v=KGwO0LzuhW4",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/KGwO0LzuhW4/mqdefault.jpg"
+  },
+  "S39": {
+    "name": "\u0643\u0648\u0643\u0628 \u0641\u0631\u0635\u0647  | Biso",
+    "url": "https://www.youtube.com/watch?v=tr8-b5xk1XI",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/tr8-b5xk1XI/mqdefault.jpg"
   },
   "S40": {
     "name": "\u3086\u3063\u304b / yucca",
@@ -280,70 +296,14 @@
     "icon": "https://yewtu.be/vi/KJ65BfYubfw/mqdefault.jpg"
   },
   "S41": {
-    "name": "Moments with Ravindra",
-    "url": "https://www.youtube.com/watch?v=KFT6TTGwBMk",
+    "name": "\ub450\uc78a doit",
+    "url": "https://www.youtube.com/watch?v=zDTINf4Xj5w",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/KFT6TTGwBMk/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/zDTINf4Xj5w/mqdefault.jpg"
   },
   "S42": {
-    "name": "ChillStudy",
-    "url": "https://www.youtube.com/watch?v=vMA-LfWHltM",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/vMA-LfWHltM/mqdefault.jpg"
-  },
-  "S43": {
-    "name": "Study With Aspirants",
-    "url": "https://www.youtube.com/watch?v=QrJX5Q824P8",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/QrJX5Q824P8/mqdefault.jpg"
-  },
-  "S44": {
-    "name": "Sangam Kumar",
-    "url": "https://www.youtube.com/watch?v=nUplAGW4K-c",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/nUplAGW4K-c/mqdefault.jpg"
-  },
-  "S45": {
-    "name": "Satya Prakash Satyam",
-    "url": "https://www.youtube.com/watch?v=Ju9lplsrRXY",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/Ju9lplsrRXY/mqdefault.jpg"
-  },
-  "S46": {
-    "name": "Zeal Kothwala",
-    "url": "https://www.youtube.com/watch?v=zTMTvAUpLeY",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/zTMTvAUpLeY/mqdefault.jpg"
-  },
-  "S47": {
-    "name": "Onsam",
-    "url": "https://www.youtube.com/watch?v=gBxdqru7oNE",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/gBxdqru7oNE/mqdefault.jpg"
-  },
-  "S48": {
-    "name": "Shubham",
-    "url": "https://www.youtube.com/watch?v=2Kl6cGz-BiE",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/2Kl6cGz-BiE/mqdefault.jpg"
-  },
-  "S49": {
     "name": "DudeOTTO",
     "url": "https://www.youtube.com/watch?v=_mhlaJaoXOc",
     "live_status": "live",
@@ -351,79 +311,39 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/_mhlaJaoXOc/mqdefault.jpg"
   },
-  "S50": {
-    "name": "Titanium Nikhil \ud83d\udda4 #Oxytitanium",
-    "url": "https://www.youtube.com/watch?v=7l1xbJ9skM4",
+  "S43": {
+    "name": "Moments with Ravindra",
+    "url": "https://www.youtube.com/watch?v=KFT6TTGwBMk",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/7l1xbJ9skM4/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/KFT6TTGwBMk/mqdefault.jpg"
   },
-  "S51": {
-    "name": "Himanshi sayssss",
-    "url": "https://www.youtube.com/watch?v=rr_eb-tBelc",
+  "S44": {
+    "name": "ChillStudy",
+    "url": "https://www.youtube.com/watch?v=vMA-LfWHltM",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/rr_eb-tBelc/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/vMA-LfWHltM/mqdefault.jpg"
   },
-  "S52": {
-    "name": "Elliott Einstein",
-    "url": "https://www.youtube.com/watch?v=lz8GaQ7IpQg",
+  "S45": {
+    "name": "Study With Aspirants",
+    "url": "https://www.youtube.com/watch?v=QrJX5Q824P8",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/lz8GaQ7IpQg/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/QrJX5Q824P8/mqdefault.jpg"
   },
-  "S53": {
-    "name": "Safar UPSC Kaa",
-    "url": "https://www.youtube.com/watch?v=OlAW0PqrxY4",
+  "S46": {
+    "name": "Sangam Kumar",
+    "url": "https://www.youtube.com/watch?v=nUplAGW4K-c",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/OlAW0PqrxY4/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/nUplAGW4K-c/mqdefault.jpg"
   },
-  "S54": {
-    "name": "studiahmet",
-    "url": "https://www.youtube.com/watch?v=3fKqCqcjP7s",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/3fKqCqcjP7s/mqdefault.jpg"
-  },
-  "S55": {
-    "name": "Mohamed up energy",
-    "url": "https://www.youtube.com/watch?v=bJKj7UvQZJA",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/bJKj7UvQZJA/mqdefault.jpg"
-  },
-  "S56": {
-    "name": "locked in guy",
-    "url": "https://www.youtube.com/watch?v=sGEPMxZP6Tg",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/sGEPMxZP6Tg/mqdefault.jpg"
-  },
-  "S57": {
-    "name": "Santoshi official",
-    "url": "https://www.youtube.com/watch?v=GlY5ydtfNTg",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/GlY5ydtfNTg/mqdefault.jpg"
-  },
-  "S58": {
-    "name": "CS Yaatra with me",
-    "url": "https://www.youtube.com/watch?v=vIzkqWoWZ1U",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/vIzkqWoWZ1U/mqdefault.jpg"
-  },
-  "S59": {
+  "S47": {
     "name": "108 cores",
     "url": "https://www.youtube.com/watch?v=u8-5Bqrek6o",
     "live_status": "live",
@@ -431,7 +351,79 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/u8-5Bqrek6o/mqdefault.jpg"
   },
-  "S60": {
+  "S48": {
+    "name": "Zeal Kothwala",
+    "url": "https://www.youtube.com/watch?v=zTMTvAUpLeY",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/zTMTvAUpLeY/mqdefault.jpg"
+  },
+  "S49": {
+    "name": "Onsam",
+    "url": "https://www.youtube.com/watch?v=gBxdqru7oNE",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/gBxdqru7oNE/mqdefault.jpg"
+  },
+  "S50": {
+    "name": "Shubham",
+    "url": "https://www.youtube.com/watch?v=2Kl6cGz-BiE",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/2Kl6cGz-BiE/mqdefault.jpg"
+  },
+  "S51": {
+    "name": "Titanium Nikhil \ud83d\udda4 #Oxytitanium",
+    "url": "https://www.youtube.com/watch?v=7l1xbJ9skM4",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/7l1xbJ9skM4/mqdefault.jpg"
+  },
+  "S52": {
+    "name": "Himanshi sayssss",
+    "url": "https://www.youtube.com/watch?v=rr_eb-tBelc",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/rr_eb-tBelc/mqdefault.jpg"
+  },
+  "S53": {
+    "name": "studiahmet",
+    "url": "https://www.youtube.com/watch?v=3fKqCqcjP7s",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/3fKqCqcjP7s/mqdefault.jpg"
+  },
+  "S54": {
+    "name": "Cram Crusader",
+    "url": "https://www.youtube.com/watch?v=8oLHY44r_MM",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/8oLHY44r_MM/mqdefault.jpg"
+  },
+  "S55": {
+    "name": "locked in guy",
+    "url": "https://www.youtube.com/watch?v=sGEPMxZP6Tg",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/sGEPMxZP6Tg/mqdefault.jpg"
+  },
+  "S56": {
+    "name": "CS Yaatra with me",
+    "url": "https://www.youtube.com/watch?v=vIzkqWoWZ1U",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/vIzkqWoWZ1U/mqdefault.jpg"
+  },
+  "S57": {
     "name": "cappuccino Live",
     "url": "https://www.youtube.com/watch?v=m7V3OTz4Kr4",
     "live_status": "live",
@@ -439,7 +431,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/m7V3OTz4Kr4/mqdefault.jpg"
   },
-  "S61": {
+  "S58": {
     "name": "Daily Preparing Dreams",
     "url": "https://www.youtube.com/watch?v=U8tt71Vtczs",
     "live_status": "live",
@@ -447,7 +439,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/U8tt71Vtczs/mqdefault.jpg"
   },
-  "S62": {
+  "S59": {
     "name": "MR ka Ramlal \ud83d\ude0e",
     "url": "https://www.youtube.com/watch?v=U6qyZ94MMB8",
     "live_status": "live",
@@ -455,29 +447,45 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/U6qyZ94MMB8/mqdefault.jpg"
   },
-  "S63": {
-    "name": "Studywithmayank",
-    "url": "https://www.youtube.com/watch?v=U7t_czf9LWk",
+  "S60": {
+    "name": "Elliott Einstein",
+    "url": "https://www.youtube.com/watch?v=lz8GaQ7IpQg",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/U7t_czf9LWk/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/lz8GaQ7IpQg/mqdefault.jpg"
   },
-  "S64": {
-    "name": "\u51e1\u4eba",
-    "url": "https://www.youtube.com/watch?v=zyauWGZjGic",
+  "S61": {
+    "name": "Nagesh Ghodekar",
+    "url": "https://www.youtube.com/watch?v=AcX-SKpPY9E",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/zyauWGZjGic/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/AcX-SKpPY9E/mqdefault.jpg"
   },
-  "S65": {
+  "S62": {
     "name": "The Sherry Formula",
     "url": "https://www.youtube.com/watch?v=zlSKDeDJ9H0",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/zlSKDeDJ9H0/mqdefault.jpg"
+  },
+  "S64": {
+    "name": "ANS TV new newU",
+    "url": "https://www.youtube.com/watch?v=kjM1N2XbhEo",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/kjM1N2XbhEo/mqdefault.jpg"
+  },
+  "S65": {
+    "name": "ATO's Focus Area",
+    "url": "https://www.youtube.com/watch?v=EhvC5WkFwYc",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/EhvC5WkFwYc/mqdefault.jpg"
   },
   "S66": {
     "name": "Study with danbia",
@@ -488,14 +496,22 @@
     "icon": "https://yewtu.be/vi/1Tfaix0EjRE/mqdefault.jpg"
   },
   "S67": {
-    "name": "Cram Crusader",
-    "url": "https://www.youtube.com/watch?v=8oLHY44r_MM",
+    "name": "kunal tiwary",
+    "url": "https://www.youtube.com/watch?v=SRWPtVG3gE8",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/8oLHY44r_MM/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/SRWPtVG3gE8/mqdefault.jpg"
   },
   "S68": {
+    "name": "Satya Prakash Satyam",
+    "url": "https://www.youtube.com/watch?v=Ju9lplsrRXY",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/Ju9lplsrRXY/mqdefault.jpg"
+  },
+  "S69": {
     "name": "Study With Han",
     "url": "https://www.youtube.com/watch?v=5OPDWM6Uy8k",
     "live_status": "live",
@@ -503,23 +519,23 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/5OPDWM6Uy8k/mqdefault.jpg"
   },
-  "S69": {
-    "name": "CA Madhu Thakuria (Life & Audit)",
-    "url": "https://www.youtube.com/watch?v=HCY800ZzrCw",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/HCY800ZzrCw/mqdefault.jpg"
-  },
   "S70": {
-    "name": "Rozu Verse",
-    "url": "https://www.youtube.com/watch?v=p1-RS1XiAP4",
+    "name": "Santoshi official",
+    "url": "https://www.youtube.com/watch?v=GlY5ydtfNTg",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/p1-RS1XiAP4/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/GlY5ydtfNTg/mqdefault.jpg"
   },
   "S71": {
+    "name": "\ud83d\udcdaStudy Tips & Tricks\ud83e\udd1e",
+    "url": "https://www.youtube.com/watch?v=npUKew4ogYo",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/npUKew4ogYo/mqdefault.jpg"
+  },
+  "S72": {
     "name": "Mirin",
     "url": "https://www.youtube.com/watch?v=f-hTNmJPSz4",
     "live_status": "live",
@@ -527,7 +543,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/f-hTNmJPSz4/mqdefault.jpg"
   },
-  "S72": {
+  "S73": {
     "name": "\uae08\ube5b\uacf0",
     "url": "https://www.youtube.com/watch?v=eiphqCXfUtA",
     "live_status": "live",
@@ -535,7 +551,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/eiphqCXfUtA/mqdefault.jpg"
   },
-  "S73": {
+  "S74": {
     "name": "SMStudy",
     "url": "https://www.youtube.com/watch?v=f6vLzI-l_t0",
     "live_status": "live",
@@ -543,7 +559,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/f6vLzI-l_t0/mqdefault.jpg"
   },
-  "S74": {
+  "S75": {
     "name": "Parkunan",
     "url": "https://www.youtube.com/watch?v=v948K0faeIA",
     "live_status": "live",
@@ -551,7 +567,31 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/v948K0faeIA/mqdefault.jpg"
   },
-  "S75": {
+  "S76": {
+    "name": "Studywithmayank",
+    "url": "https://www.youtube.com/watch?v=U7t_czf9LWk",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/U7t_czf9LWk/mqdefault.jpg"
+  },
+  "S77": {
+    "name": "\u51e1\u4eba",
+    "url": "https://www.youtube.com/watch?v=zyauWGZjGic",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/zyauWGZjGic/mqdefault.jpg"
+  },
+  "S78": {
+    "name": "Safar UPSC Kaa",
+    "url": "https://www.youtube.com/watch?v=OlAW0PqrxY4",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/OlAW0PqrxY4/mqdefault.jpg"
+  },
+  "S79": {
     "name": "Sync\u2019d Sessions",
     "url": "https://www.youtube.com/watch?v=zU91lcGWKqU",
     "live_status": "live",
@@ -559,15 +599,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/zU91lcGWKqU/mqdefault.jpg"
   },
-  "S76": {
-    "name": "Ajay is busy in study",
-    "url": "https://www.youtube.com/watch?v=DixCD35ZYS4",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/DixCD35ZYS4/mqdefault.jpg"
-  },
-  "S77": {
+  "S80": {
     "name": "Study With Me: APSC AE Edition",
     "url": "https://www.youtube.com/watch?v=IbZToZ_C4zc",
     "live_status": "live",
@@ -575,7 +607,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/IbZToZ_C4zc/mqdefault.jpg"
   },
-  "S78": {
+  "S81": {
     "name": "Bachelor's Academy",
     "url": "https://www.youtube.com/watch?v=355teOUI-58",
     "live_status": "live",
@@ -583,7 +615,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/355teOUI-58/mqdefault.jpg"
   },
-  "S79": {
+  "S82": {
     "name": "Study With Me",
     "url": "https://www.youtube.com/watch?v=xSal1jSYbN0",
     "live_status": "live",
@@ -591,7 +623,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/xSal1jSYbN0/mqdefault.jpg"
   },
-  "S80": {
+  "S83": {
     "name": "Chill Vibes",
     "url": "https://www.youtube.com/watch?v=JzFy-wcYJhE",
     "live_status": "live",
@@ -599,15 +631,15 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/JzFy-wcYJhE/mqdefault.jpg"
   },
-  "S81": {
-    "name": "Nagesh Ghodekar",
-    "url": "https://www.youtube.com/watch?v=AcX-SKpPY9E",
+  "S84": {
+    "name": "Candle Study",
+    "url": "https://www.youtube.com/watch?v=uyLoo7czmSQ",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/AcX-SKpPY9E/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/uyLoo7czmSQ/mqdefault.jpg"
   },
-  "S82": {
+  "S85": {
     "name": "Neetology",
     "url": "https://www.youtube.com/watch?v=YhYNVTutLv0",
     "live_status": "live",
@@ -615,7 +647,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/YhYNVTutLv0/mqdefault.jpg"
   },
-  "S83": {
+  "S86": {
     "name": "Swati Singh",
     "url": "https://www.youtube.com/watch?v=mSi_-HJ_2ZM",
     "live_status": "live",
@@ -623,7 +655,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/mSi_-HJ_2ZM/mqdefault.jpg"
   },
-  "S84": {
+  "S87": {
     "name": "marvelstreak",
     "url": "https://www.youtube.com/watch?v=Vfxkusgd-so",
     "live_status": "live",
@@ -631,7 +663,15 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/Vfxkusgd-so/mqdefault.jpg"
   },
-  "S85": {
+  "S88": {
+    "name": "Raw Productive Space",
+    "url": "https://www.youtube.com/watch?v=4jOJTy93tbI",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/4jOJTy93tbI/mqdefault.jpg"
+  },
+  "S89": {
     "name": "Abhishek Studie",
     "url": "https://www.youtube.com/watch?v=x8ilqbTO2O4",
     "live_status": "live",
@@ -639,23 +679,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/x8ilqbTO2O4/mqdefault.jpg"
   },
-  "S86": {
-    "name": "ANS TV new newU",
-    "url": "https://www.youtube.com/watch?v=kjM1N2XbhEo",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/kjM1N2XbhEo/mqdefault.jpg"
-  },
-  "S87": {
-    "name": "ATO's Focus Area",
-    "url": "https://www.youtube.com/watch?v=EhvC5WkFwYc",
-    "live_status": "live",
-    "concurrent_view_count": 0,
-    "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/EhvC5WkFwYc/mqdefault.jpg"
-  },
-  "S88": {
+  "S90": {
     "name": "Eun TV",
     "url": "https://www.youtube.com/watch?v=yXSG0DiJ_Ys",
     "live_status": "live",
@@ -663,7 +687,7 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/yXSG0DiJ_Ys/mqdefault.jpg"
   },
-  "S89": {
+  "S91": {
     "name": "REYA",
     "url": "https://www.youtube.com/watch?v=tXU5rRIEWjs",
     "live_status": "live",
@@ -671,15 +695,15 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/tXU5rRIEWjs/mqdefault.jpg"
   },
-  "S90": {
-    "name": "Bento Study \u30d9\u30f3\u30c8",
-    "url": "https://www.youtube.com/watch?v=mMr7Yn_3enY",
+  "S92": {
+    "name": "Pankaj Lakhani",
+    "url": "https://www.youtube.com/watch?v=S4hD-tyGwNI",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
-    "icon": "https://yewtu.be/vi/mMr7Yn_3enY/mqdefault.jpg"
+    "icon": "https://yewtu.be/vi/S4hD-tyGwNI/mqdefault.jpg"
   },
-  "S91": {
+  "S93": {
     "name": "Hamesha Topper",
     "url": "https://www.youtube.com/watch?v=94dCb-L4d4w",
     "live_status": "live",
@@ -687,12 +711,36 @@
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/94dCb-L4d4w/mqdefault.jpg"
   },
-  "S92": {
+  "S94": {
     "name": "\u0639\u0644\u064a",
     "url": "https://www.youtube.com/watch?v=uP1ZaDJHDmc",
     "live_status": "live",
     "concurrent_view_count": 0,
     "release_timestamp": 0,
     "icon": "https://yewtu.be/vi/uP1ZaDJHDmc/mqdefault.jpg"
+  },
+  "S96": {
+    "name": "Bento Study \u30d9\u30f3\u30c8",
+    "url": "https://www.youtube.com/watch?v=-CjYL7b7aBI",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/-CjYL7b7aBI/mqdefault.jpg"
+  },
+  "S97": {
+    "name": "\u306f\u3058\u3081\u3068\u304a\u3000\u52c9\u5f37\u30e9\u30a4\u30d6",
+    "url": "https://www.youtube.com/watch?v=Kb3IRa5zuPQ",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/Kb3IRa5zuPQ/mqdefault.jpg"
+  },
+  "S98": {
+    "name": "\uacf5\ubd80\ud574\uc6b0(\u6d77\u96e8)",
+    "url": "https://www.youtube.com/watch?v=Lerx-GgrzT8",
+    "live_status": "live",
+    "concurrent_view_count": 0,
+    "release_timestamp": 0,
+    "icon": "https://yewtu.be/vi/Lerx-GgrzT8/mqdefault.jpg"
   }
 }
