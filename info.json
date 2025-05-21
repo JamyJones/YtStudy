@@ -316,7 +316,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 3233291,
-    "concurrent_view_count": 16045,
+    "concurrent_view_count": 15997,
     "channel": "Lofi Girl",
     "channel_follower_count": 15000000,
     "channel_is_verified": true,
@@ -341,7 +341,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791940,
+    "epoch": 1747791953,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -639,7 +639,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 31,
-    "concurrent_view_count": 245,
+    "concurrent_view_count": 243,
     "channel": "Study with Laura",
     "channel_follower_count": 8840,
     "uploader": "Study with Laura",
@@ -663,7 +663,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791941,
+    "epoch": 1747791954,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -917,7 +917,7 @@
     "description": "\ud83d\udcc5 SCHEDULE\nMon-Fri 7:30 - 22:30 KST\nSaturday is flexible.\nHere's the link for the conversion table: https://shorturl.at/o8HMu\n\n\n\ud83d\udcccCHAT RULES\nBe kind and respectful to everyone.\nNo swear words are allowed in any context.\nNo expressions of hatred are allowed in any form.\n\n\ud83d\udcac COMMANDS\n[Task Bot]\n!a my-task: add my-task to list\n!n next-task: finish the existing task and add next-task to list\n!f: finish the existing task\n!e edited-task: edit the existing task to edited-task\n!r: remove the existing task\n!c: check your current task\n\n[General]\n!lurk: tell me you're here w/o telling me you're here\n!unlurk: tell me you're here w/o saying hi\n!tuck user: say sweet dreams to user\n!pat user: a virtual pat to user\n!love user: send love to user\n!bookstand\n\n\ud83d\udce2 Join  https://discord.gg/d9wZGK3Psv for updates\n\n\n#studywithme #studywithmelive  #pomodoro  #coworking #studymotivation #studytogether",
     "channel_id": "UC04ZvCEOuMInjSPX2emYsiw",
     "channel_url": "https://www.youtube.com/channel/UC04ZvCEOuMInjSPX2emYsiw",
-    "view_count": 255,
+    "view_count": 256,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=p0u-w6ap4-8",
@@ -925,7 +925,7 @@
       "People & Blogs"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747780198,
@@ -980,7 +980,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791942,
+    "epoch": 1747791955,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -1386,7 +1386,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791943,
+    "epoch": 1747791956,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -1679,7 +1679,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 7,
-    "concurrent_view_count": 128,
+    "concurrent_view_count": 127,
     "channel": "\uc559\uae08\uc815 anggeumjeong",
     "channel_follower_count": 6460,
     "uploader": "\uc559\uae08\uc815 anggeumjeong",
@@ -1703,7 +1703,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791944,
+    "epoch": 1747791956,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -2021,7 +2021,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791945,
+    "epoch": 1747791957,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -2031,6 +2031,365 @@
     }
   },
   "S7": {
+    "id": "AvGbepg86JA",
+    "title": "\u3010\u30e9\u30a4\u30d6\u3011\u30aa\u30f3\u30e9\u30a4\u30f3\u81ea\u7fd2\u5ba4 #\u4f5c\u696d\u7528 #\u52c9\u5f37 #\u81ea\u7fd2\u5ba4 study with me 2025-05-21 01:45",
+    "formats": [],
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/3_live.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/3_live.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/2_live.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/2_live.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/1_live.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/1_live.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/mq3_live.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/mq3_live.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/mq2_live.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/mq2_live.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/mq1_live.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/mq1_live.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hq3_live.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/hq3_live.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hq2_live.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/hq2_live.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hq1_live.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/hq1_live.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/sd3_live.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/sd3_live.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/sd2_live.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/sd2_live.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/sd1_live.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/sd1_live.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/default_live.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/default_live.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/mqdefault_live.jpg",
+        "preference": -11,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/mqdefault_live.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/0_live.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/0_live.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hqdefault_live.jpg",
+        "preference": -7,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hqdefault.jpg?v=6794461d&sqp=CJzgtMEG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAyUG8Xq7N1kBdiAt8w0oQQUvpvQA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hqdefault.jpg?v=6794461d&sqp=CJzgtMEG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3tjNKQ6tXcDZEOTsLrn5lcjjM4w",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hqdefault.jpg?v=6794461d&sqp=CJzgtMEG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDamMoh306SRSYr92GDPqyrRH4ZpQ",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "33",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hqdefault.jpg?v=6794461d&sqp=CJzgtMEG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt2l6_TgCFLQFm3aah-sIPKEjylg",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "34",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/hqdefault_live.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/sddefault_live.jpg",
+        "preference": -5,
+        "id": "36"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/sddefault_live.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/hq720_live.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/hq720_live.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/maxresdefault.jpg?v=6794461d",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/maxresdefault_live.jpg",
+        "preference": -1,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/AvGbepg86JA/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "42",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/AvGbepg86JA/maxresdefault_live.webp",
+        "preference": 0,
+        "id": "43"
+      }
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/AvGbepg86JA/maxresdefault.jpg",
+    "description": "\u30c1\u30e3\u30c3\u30c8\u3067\u5165\u308c\u308b\u30aa\u30f3\u30e9\u30a4\u30f3\u4f5c\u696d\u90e8\u5c4b\u3002\n\n\u4e16\u754c\u521d\u306eYoutube\u30e9\u30a4\u30d6\u6620\u50cf\uff06\u30c1\u30e3\u30c3\u30c8\u3092\u5229\u7528\u3057\u305f\u5b8c\u5168\u81ea\u52d5\u578b\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u5165\u9000\u5ba4\u30b7\u30b9\u30c6\u30e0\uff08\u4eba\u6570\u7121\u5236\u9650\uff09\uff0824\u6642\u9593\uff09\u914d\u4fe1\u3067\u3059\u3002\n\n\u81ea\u7fd2\u5ba4\u3068\u3044\u3046\u30bf\u30a4\u30c8\u30eb\u3067\u306f\u3042\u308a\u307e\u3059\u304c\u3001\u3053\u3053\u3067\u306f\u52c9\u5f37\u4ee5\u5916\u306e\u3055\u307e\u3056\u307e\u306a\u4f5c\u696d\uff08\u6563\u6b69\uff0c\u30e8\u30ac\uff0c\u4eee\u7720\uff0c\u7791\u60f3\uff0c\u30b2\u30fc\u30e0\uff0c\u6383\u9664\u306a\u3069\uff09\u3082\u3067\u304d\u307e\u3059\u3002\n\n\u203b\u30b9\u30d1\u30e0\u9632\u6b62\u306e\u305f\u3081\u3001\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u8005\u306e\u307f\u30e2\u30fc\u30c9\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\ud83d\ude4f\u305d\u306e\u3068\u304d\u306f\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3059\u308b\u3068\u3059\u3050\u306b\u5229\u7528\u3067\u304d\u307e\u3059\u3002\n\n\ud83d\udd30\u3010\u4f7f\u3044\u65b9\u3011\ud83d\udd30\n\u3069\u306a\u305f\u3067\u3082\u4eca\u3059\u3050\u5165\u5ba4\u3067\u304d\u307e\u3059\uff01\n\u6700\u521d\u306f\u6b21\u306e2\u3064\u306e\u30b3\u30de\u30f3\u30c9\u3060\u3051\u304a\u307c\u3048\u308c\u3070\u5341\u5206\u3067\u3059\u3002\n\n\u30fb\u30eb\u30fc\u30e0\u306b\u5165\u3063\u3066\u4f5c\u696d\u3092\u59cb\u3081\u308b\n\u30c1\u30e3\u30c3\u30c8\u306b\u300c!in\u300d\u3068\u66f8\u304f\u3002\n\u4f5c\u696d\u5185\u5bb9\u3082\u3064\u3051\u305f\u3044\u5834\u5408\u306f\u300c!in  \u4f5c\u696d\u5185\u5bb9\u300d\u3068\u66f8\u304f\u3002\n\n\u30fb\u30eb\u30fc\u30e0\u3092\u51fa\u308b\n\u30c1\u30e3\u30c3\u30c8\u306b\u300c!out\u300d\u3068\u66f8\u304f\u3002\n\nBot\u304b\u3089\u8fd4\u4e8b\u304c\u3042\u308b\u307e\u3067\u5f85\u3063\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u30b3\u30de\u30f3\u30c9\u4e00\u89a7\uff1ahttps://kani3camp.github.io/youtube-study-space/docs/essential\n\n\n\ud83c\udf49\u3010\u4f5c\u696d\u540d\u3092\u66f8\u304f\u306b\u306f\u3011\ud83c\udf49\n\u30fb\u5165\u5ba4\u3059\u308b\u3068\u304d\u306b\u300c!in   \u56fd\u8a9e\u300d\u306e\u3088\u3046\u306b\u66f8\u304f\u3002\n\u30fb\u3059\u3067\u306b\u5165\u5ba4\u3057\u3066\u3044\u308b\u5834\u5408\u306f\u3001\u300c!change   \u56fd\u8a9e\u300d\u306e\u3088\u3046\u306b\u66f8\u304f\u3002\n\n\u3010\u4f5c\u696d\u540d\u306e\u898f\u5236\u306b\u95a2\u3057\u3066\u3011\n\u3053\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u4f5c\u696d\u90e8\u5c4b\u3067\u306f\u3001\u3042\u3048\u3066\u81ea\u7531\u5ea6\u306e\u9ad8\u3044\u4f5c\u696d\u540d\u306e\u8868\u73fe\u3092\u8a31\u5bb9\u3057\u3066\u3044\u307e\u3059\u3002\u305d\u306e\u305f\u3081\u3001\u52c9\u5f37\u3068\u306f\u95a2\u4fc2\u306a\u3044\u4f5c\u696d\u540d\u304c\u76ee\u306b\u5165\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002\n\n\n\ud83c\udf6b\u3010\u4e3b\u306a\u30b3\u30de\u30f3\u30c9\u3011\ud83c\udf6b\n\u30fb!seat\n\u4eca\u5ea7\u3063\u3066\u3044\u308b\u5ea7\u5e2d\u756a\u53f7\u3068\u3001\u5165\u5ba4\u304b\u3089\u306e\u7d4c\u904e\u6642\u9593\u3001\u81ea\u52d5\u9000\u5ba4\u307e\u3067\u306e\u6b8b\u308a\u6642\u9593\u3092Bot\u304c\u6559\u3048\u3066\u304f\u308c\u307e\u3059\u3002\n\n\u30fb!\u5e2d\u756a\u53f7\n\u5e2d\u3092\u6307\u5b9a\u3057\u3066\u5165\u5ba4\u3067\u304d\u307e\u3059\u3002\u7a7a\u3044\u3066\u3044\u308b\u5ea7\u5e2d\u3092\u753b\u9762\u304b\u3089\u63a2\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\uff08\u4f8b\uff1a\u300c!32\u300d\u306732\u756a\u306e\u5e2d\u306b\u5165\u5ba4\uff09\n\n\u30fb!more\n\u4f5c\u696d\u6642\u9593\u3092\u5ef6\u9577\u3059\u308b\u3002\uff08\u4f8b\uff1a\u300c!more  100\u300d\u3067100\u5206\u5ef6\u9577\uff09\n\n\u30fb!break\n\u5165\u5ba4\u4e2d\u306b\u5c11\u3057\u4f11\u61a9\u3059\u308b\u3002\u57fa\u672c15\u5206\u3001\u6700\u592730\u5206\u3002\n\n\u30fb!change\n\u4f5c\u696d\u540d\u3084\u5165\u5ba4\u6642\u9593\u306e\u5909\u66f4\u3092\u3059\u308b\u3002\u5165\u5ba4\u6642\u9593\u3068\u306f\u3001\u5165\u5ba4\u3057\u3066\u304b\u3089\u81ea\u52d5\u9000\u5ba4\u307e\u3067\u306e\u6642\u9593\u3002\n\uff08\u4f8b\uff1a\u300c!change  work  \u6570\u5b66  min  70\u300d\u3067\u4f5c\u696d\u540d\u3092\u6570\u5b66\u306b\u3057\u3066\u3001\u5165\u5ba4\u6642\u9593\u309270\u5206\u306b\u5909\u66f4\u3059\u308b\u3002\u4f8b\u3048\u3070\u5165\u5ba4\u304b\u308930\u5206\u7d4c\u3063\u3066\u3044\u305f\u3089\u3001\u81ea\u52d5\u9000\u5ba4\u307e\u306740\u5206\u304c\u8a2d\u5b9a\u3055\u308c\u308b\u3002\uff09\n\n\u30fb!info\n\u7d2f\u8a08\u4f5c\u696d\u6642\u9593\u3068\u3001\u672c\u65e5\u306e\u7d2f\u8a08\u4f5c\u696d\u6642\u9593\u3092Bot\u304c\u6559\u3048\u3066\u304f\u308c\u307e\u3059\u3002\n\n\u30fb!report\n\u26a0\ufe0f\u7dca\u6025\u6642\u4ee5\u5916\u4f7f\u7528\u3057\u306a\u3044\u3067\u304f\u3060\u3055\u3044\uff01\u26a0\ufe0f \n\u7ba1\u7406\u4eba\u3068\u30e2\u30c7\u30ec\u30fc\u30bf\u30fc\u306b\u9023\u7d61\u304c\u3044\u304d\u307e\u3059\u3002\u30b9\u30da\u30fc\u30b9\u3092\u3042\u3051\u3066\u5831\u544a\u5185\u5bb9\u3092\u66f8\u3044\u3066\u304f\u3060\u3055\u3044\u3002\n\u4f8b\uff1a\u300c!report  \u8352\u3089\u3057\u304c\u3044\u307e\u3059\u300d\u300c!report  100\u756a\u5e2d\u306e\u4f5c\u696d\u540d\u304c\u4e0d\u5feb\u3067\u3059\u300d\n\u203b\u7ba1\u7406\u4eba\u3084\u30e2\u30c7\u30ec\u30fc\u30bf\u30fc\u304c\u3059\u3050\u306b\u6765\u308c\u306a\u3044\u3053\u3068\u3082\u3042\u308a\u307e\u3059\u3002\n\u203b\u8cea\u554f\u3084\u554f\u3044\u5408\u308f\u305b\u306f\u3001!report\u3067\u306f\u306a\u304f\u6982\u8981\u6b04\u306b\u3042\u308b\u554f\u3044\u5408\u308f\u305b\u30d5\u30a9\u30fc\u30e0\u304b\u3089\u3002\n\n\u30fb\u30b3\u30de\u30f3\u30c9\u4e00\u89a7\uff1ahttps://kani3camp.github.io/youtube-study-space/docs/essential\n\n\n\ud83c\udf08\u3010\u5ea7\u5e2d\u306e\u8272\u306b\u3064\u3044\u3066\u3011\ud83c\udf08\n\u7d2f\u7a4d\u4f5c\u696d\u6642\u9593\u306b\u5fdc\u3058\u3066\u5e2d\u306e\u8272\u304c\u5909\u5316\u3057\u307e\u3059\u3002\n\u5ea7\u5e2d\u306e\u8272\u5206\u3051\uff1ahttps://youtube-study-space.notion.site/3fc22ea1b4214b3f976b03331c51d113\n\n\ud83c\udf93\u3010\u30e9\u30f3\u30af\u6a5f\u80fd\u3011\ud83c\udf93\n\u30d9\u30fc\u30bf\u7248\u306e\u30e9\u30f3\u30af\u30dd\u30a4\u30f3\u30c8(RP)\u30b7\u30b9\u30c6\u30e0\u3092\u5c0e\u5165\u3057\u3066\u307e\u3059\n\u30eb\u30fc\u30eb\uff1ahttps://youtube-study-space.notion.site/RP-977cf4a86075448ebe94f0fcebc7a5d3\n\n\n\ud83c\udf4a\u3010\u304a\u77e5\u3089\u305b\u3011\ud83c\udf4a2025/03/20 \u66f4\u65b0\n\u30fb2025/03/20 \u30b3\u30de\u30f3\u30c9\u8aac\u660e\u66f8\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\uff01\u3068\u3053\u308d\u3069\u3053\u308d\u5909\u308f\u3063\u3066\u3044\u307e\u3059\ud83d\udca1\nhttps://kani3camp.github.io/youtube-study-space/\n\n\u30fb2025/03/18 \u30b3\u30de\u30f3\u30c9\u306e\u66f8\u304d\u65b9\u304c\u5c11\u3057\u697d\u306b\u306a\u308a\u307e\u3057\u305f\uff01\u30b3\u30de\u30f3\u30c9\u8aac\u660e\u66f8\u306f\u3053\u308c\u304b\u3089\u66f4\u65b0\u3057\u307e\u3059\u306e\u3067\u3001\u3057\u3070\u3089\u304f\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\n\n\u30fb2025/03/12 \u3010Q&A\u3011\u66f4\u65b0\u3057\u307e\u3057\u305f\u3002\n\n\u30fb2024/12/31 \u30a2\u30d7\u30c7\n\u30d5\u30fc\u30c9\u30fb\u30c9\u30ea\u30f3\u30af\u30e1\u30cb\u30e5\u30fc\u6ce8\u6587\u6a5f\u80fd\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002\n\u753b\u9762\u53f3\u306b\u8868\u793a\u3055\u308c\u308b\u30e1\u30cb\u30e5\u30fc\u3092\u6ce8\u6587\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\n1\u65e55\u56de\u307e\u3067\u6ce8\u6587\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\uff080\u6642\u30ea\u30bb\u30c3\u30c8\uff09\uff08\u30e1\u30f3\u30d0\u30fc\u3055\u3093\u306f\u7121\u5236\u9650\uff09\n\u30b3\u30de\u30f3\u30c9\u306e\u8a73\u7d30\uff1ahttps://kani3camp.github.io/youtube-study-space/docs/basic#order\n\n\u30fb2024/6/22 \u30a2\u30d7\u30c7\n\u753b\u9762\u30c7\u30b6\u30a4\u30f3\u3068\u3001\u4e00\u90e8\u5ea7\u5e2d\u306e\u30c7\u30b6\u30a4\u30f3\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\u3002\n\n\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u4f5c\u696d\u90e8\u5c4b\u306e\u8cc7\u6599\uff1ahttps://youtube-study-space.notion.site/5021213988a34747a7513f1067deb76d\n\n\u30fb\u8996\u8074\u8005\u4ea4\u6d41\u7528Discord\u30b5\u30fc\u30d0\u30fc\uff1ahttps://discord.gg/h9SenAvawT\n\n\n\ud83c\udf79\u3010\u30c1\u30e3\u30c3\u30c8\u5229\u7528\u30eb\u30fc\u30eb\u3011\ud83c\udf79\n\u30fb\u30c1\u30e3\u30c3\u30c8\u3067\u306e\u96d1\u8ac7\u306f\u5168\u7136OK\u3067\u3059\n\u30fb\u4f5c\u696d\u306b\u96c6\u4e2d\u3057\u305f\u3044\u4eba\u306f\u30c1\u30e3\u30c3\u30c8\u3092\u9589\u3058\u307e\u3057\u3087\u3046\u3002\n\n\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u66f8\u304d\u8fbc\u307f\u3084\u884c\u70ba\u306f\u7981\u6b62\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\u30fb\u500b\u4eba\u3092\u7279\u5b9a\u3067\u304d\u308b\u5185\u5bb9\n\u30fb\u7279\u5b9a\u306e\u4eba\u306b\u5e2d\u3092\u8b72\u308b\u884c\u70ba\n\u30fb\u8907\u6570\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u540c\u6642\u306b\u4f7f\u7528\u3057\u30662\u500b\u4ee5\u4e0a\u306e\u5ea7\u5e2d\u3092\u5360\u6709\u3059\u308b\u884c\u70ba\n\u30fb\u4ed6\u4eba\u3092\u4e0d\u5feb\u306b\u3059\u308b\u53ef\u80fd\u6027\u306e\u3042\u308b\u5185\u5bb9\u30fb\u884c\u70ba\n\u30fb\u4ed6\u306e\u4eba\u306e\u96c6\u4e2d\u3092\u59a8\u3052\u308b\u5185\u5bb9\u30fb\u884c\u70ba\n\u30fb\u30c1\u30e3\u30c3\u30c8\u4e0a\u3067\u30e1\u30f3\u30b7\u30e7\u30f3\u304c\u3067\u304d\u306a\u3044\uff08\u307e\u305f\u306f\u3057\u3065\u3089\u3044\uff09\u30c1\u30e3\u30f3\u30cd\u30eb\u540d\n\u30fb\u305d\u306e\u4ed6\u3001\u30e2\u30c7\u30ec\u30fc\u30bf\u30fc\u304c\u4e0d\u9069\u5207\u3068\u5224\u65ad\u3059\u308b\u5185\u5bb9\n\u7981\u6b62\u3055\u308c\u305f\u3053\u3068\u3092\u8a71\u3059\u3068\u3001\u30d6\u30ed\u30c3\u30af\u3055\u308c\u307e\u3059\u3002\n\u203b\u4f5c\u696d\u540d\u3084\u30c1\u30e3\u30f3\u30cd\u30eb\u540d\u3082\u3001\u4e0d\u9069\u5207\u306a\u8868\u73fe\u306fNG\u3067\u3059\u3002\n\u8a73\u7d30 https://youtube-study-space.notion.site/b25373358d9c4ff2bb5e080e02b1c4ef\n\n\n\u2753\u3010Q&A\u3011\u2753\n\u8a73\u7d30\u306f https://youtube-study-space.notion.site/FAQ-494da77e1cd5489298500c66866f47bd\n\nQ. \u5ea7\u5e2d\u306b\u5ea7\u308b\u3068\u4f55\u304c\u8d77\u3053\u308b\u306e\u3067\u3057\u3087\u3046\uff1f\nA. \u5165\u5ba4\u3059\u308b\u3068\u30e9\u30a4\u30d6\u6620\u50cf\u5185\u306b\u7686\u3055\u3093\u306e\u540d\u524d\u3084\u4f5c\u696d\u5185\u5bb9\u304c\u8868\u793a\u3055\u308c\u307e\u3059\u3002\n\nQ. \u3053\u306e\u81ea\u7fd2\u5ba4\u3092\u4f7f\u3046\u610f\u5473\u3063\u3066\u4f55\u3067\u3059\u304b\uff1f\nA. \u73fe\u5b9f\u306e\u81ea\u7fd2\u5ba4\u3084\u56f3\u66f8\u9928\u306b\u884c\u304b\u306a\u304f\u3066\u3082\u3001\u4ed6\u306e\u4eba\u3068\u540c\u3058\u6642\u9593\u30fb\u7a7a\u9593\u3067\u52c9\u5f37\u3057\u3066\u3044\u308b\u3088\u3046\u306b\u611f\u3058\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u307e\u305f\u3001\u4ed6\u306e\u4eba\u306e\u4f5c\u696d\u5185\u5bb9\u3092\u898b\u3066\u3001\u300c\u307f\u3093\u306a\u3053\u3046\u3044\u3046\u3053\u3068\u52c9\u5f37\u3057\u3066\u308b\u3093\u3060\u306a\u300d\u300c\u3053\u306e\u4eba\u79c1\u3068\u540c\u3058\u3053\u3068\u3084\u3063\u3066\u308b\u306a\u300d\u306a\u3069\u3068\u601d\u3048\u3066\u3001\u30e2\u30c1\u30d9\u30fc\u30b7\u30e7\u30f3\u304c\u3042\u304c\u308b\u4eba\u3082\u3044\u307e\u3059\u3002\n\nQ. \u5165\u5ba4\u6642\u9593\u306e\u5ef6\u9577\u306f\u3069\u3053\u307e\u3067\u51fa\u6765\u307e\u3059\u304b\uff1f\nA. \u3084\u308d\u3046\u3068\u601d\u3048\u3070\u7121\u9650\u306b\u3067\u304d\u307e\u3059\u3002\u4f8b\u3048\u3070\u300c!more  m=100\u300d\u3092100\u5206\u3054\u3068\u306b\u66f8\u304d\u7d9a\u3051\u308c\u3070\u3044\u3044\u3067\u3059\u3002\u305f\u3060\u3057\u3001\uff11\u3064\u306e\u5ea7\u5e2d\u306b\u5ea7\u308c\u308b\u6642\u9593\u306e\u4e0a\u9650\u304c\u3042\u308b\u305f\u3081\u3001\u9014\u4e2d\u3067\u5f37\u5236\u3067\u5e2d\u79fb\u52d5\u3059\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002\n\nQ. \u81ea\u52d5\u9000\u5ba4\u3063\u3066\uff1f\nA. !out\u3092\u3057\u5fd8\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u306e\u3067\u3001\u81ea\u52d5\u9000\u5ba4\u306e\u6a5f\u80fd\u304c\u3042\u308a\u307e\u3059\u3002\u81ea\u52d5\u9000\u5ba4\u307e\u3067\u306e\u6642\u9593\u306f\u57fa\u672c120\u5206\u30fb\u6700\u5927360\u5206\u3067\u3059\u3002\u5165\u5ba4\u6642\u306b\u6307\u5b9a\u3057\u305f\u308a\u3001\u5ef6\u9577\u3057\u305f\u308a\u3067\u304d\u307e\u3059\u3002\n\nQ. \u4f5c\u696d\u306e\u7d2f\u8a08\u6642\u9593\u306f\u30ea\u30bb\u30c3\u30c8\u3067\u304d\u307e\u3059\u304b\uff1f\nA. \u7d2f\u8a08\u4f5c\u696d\u6642\u9593\u3092\u30ea\u30bb\u30c3\u30c8\u3059\u308b\u6a5f\u80fd\u306f\u4eca\u306f\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u4eca\u5f8c\u3001\u9031\u3054\u3068\u30fb\u6708\u3054\u3068\u306e\u7d2f\u8a08\u4f5c\u696d\u6642\u9593\u3092\u30ab\u30a6\u30f3\u30c8\u3059\u308b\u6a5f\u80fd\u3092\u8ffd\u52a0\u3057\u3088\u3046\u3068\u8003\u3048\u3066\u3044\u307e\u3059\u3002\n\nQ. \u5e2d\u3092\u66f8\u3044\u3066\u3082\u5f8c\u306b\u30c1\u30e3\u30c3\u30c8\u3057\u305f\u4eba\u306b\u5e2d\u304c\u53d6\u3089\u308c\u307e\u3059\nA. \u9045\u5ef6\u306b\u3088\u3063\u3066\u3042\u306a\u305f\u306b\u3060\u3051\u305d\u3046\u898b\u3048\u3066\u3044\u307e\u3059\ud83d\ude13\u30b3\u30de\u30f3\u30c9\u306f\u9806\u756a\u901a\u308a\u306b\u51e6\u7406\u3055\u308c\u307e\u3059\u3002https://youtube-study-space.notion.site/d85d84bad3b24e6f8e88601f9e74df0a \u3092\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\n\nQ. \u753b\u9762\u53f3\u4e0b\u306e\u30bf\u30a4\u30de\u30fc\u306e\u6642\u9593\u5272\u3042\u308a\u307e\u3059\u304b\uff1f\nA. https://youtube-study-space.notion.site/385f89e0e7d14be7906555e1971f9ed0\n\nQ. \u3053\u308c\u3044\u3064\u307e\u3067\u914d\u4fe1\u3057\u3066\u307e\u3059\u304b\uff1f\u59cb\u307e\u308a\u3068\u7d42\u308f\u308a\u306f\u4f55\u6642\u3067\u3059\u304b\uff1f\nA. 24\u6642\u9593365\u65e5\u3084\u3063\u3066\u3044\u307e\u3059\u3002\u305f\u3060\u3001\u305f\u307e\u306b\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u3092\u3057\u305f\u308a\u3001\u914d\u4fe1\u30c8\u30e9\u30d6\u30eb\u30fb\u30b7\u30b9\u30c6\u30e0\u30c8\u30e9\u30d6\u30eb\u304c\u8d77\u3053\u3063\u3066\u4e00\u6642\u7684\u306b\u8996\u8074\u3067\u304d\u306a\u304f\u306a\u308b\u3053\u3068\u3082\u3042\u308a\u307e\u3059\u3002\n\nQ. Youtube\u306e\u753b\u9762\u3092\u9589\u3058\u3066\u3082\u5927\u4e08\u592b\u3067\u3059\u304b\uff1f\nA. \u5927\u4e08\u592b\u3067\u3059\u3002\u914d\u4fe1\u3092\u898b\u308b\u306e\u3092\u3084\u3081\u3066\u3082\u9000\u5ba4\u3055\u305b\u3089\u308c\u308b\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3002\n\nQ. \u4f5c\u696d\u305b\u305a\u5165\u308b\u3060\u3051\u306e\u4eba\u304c\u51fa\u3066\u304f\u308b\u3068\u601d\u3046\u306e\u3067\u3059\u304c\u3001\u305d\u3053\u306f\u3069\u3046\u8003\u3048\u3066\u3044\u307e\u3059\u304b\uff1f\nA. \u305d\u306e\u901a\u308a\u3067\u3001\u771f\u9762\u76ee\u306b\u4f7f\u308f\u306a\u3044\u4eba\u306f\u5fc5\u305a\u3044\u308b\u3068\u601d\u3044\u307e\u3059\u3002\u6c17\u306b\u3057\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002\u3061\u306a\u307f\u306b\u3001\u7d2f\u7a4d\u4f5c\u696d\u6642\u9593\u306b\u5fdc\u3058\u3066\u5e2d\u306e\u8272\u304c\u5909\u308f\u308b\u30e9\u30f3\u30af\u8868\u793a\u6a5f\u80fd\u306f\u3001\u4ed6\u4eba\u3068\u6bd4\u8f03\u3059\u308b\u305f\u3081\u3067\u306f\u306a\u304f\u3001\u81ea\u5206\u306e\u52aa\u529b\u306e\u7a4d\u307f\u91cd\u306d\u306e\u6307\u6a19\u3068\u3057\u3066\u6d3b\u7528\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u3002\n\nQ. \u30d5\u30fc\u30c9\u30b5\u30fc\u30d3\u30b9\u306f\u672c\u7269\u306e\u98df\u4e8b\u3067\u306f\u306a\u3044\u3067\u3059\u304b\u3002\u672c\u7269\u3067\u306a\u3044\u306a\u3089\u6a5f\u80fd\u306e\u76ee\u7684\u306f\u306a\u3093\u3067\u3059\u304b\nA. !order\u306b\u3088\u308b\u6ce8\u6587\u306f\u3001\u3042\u304f\u307e\u3067\u4eee\u60f3\u7684\u306a\u3082\u306e\u3067\u3059\u3002\u3053\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u4f5c\u696d\u90e8\u5c4b\u81ea\u4f53\u304c\u4eee\u60f3\u7684\u306a\u3082\u306e\u3067\u3001\u305d\u306e\u306a\u304b\u3067\u3067\u304d\u308b\u3053\u3068\u3092\u5897\u3084\u3057\u3066\u3044\u307e\u3059\u3002\u73fe\u5b9f\u3067\u306f\u306a\u3044\u3067\u3059\u304c\u3001\u4f5c\u696d\u306e\u304a\u4f9b\u3068\u3057\u3066\u6d3b\u7528\u3055\u308c\u308b\u65b9\u3082\u3044\u308b\u3068\u601d\u3044\u307e\u3059\u3002\n\n\n\ud83c\udf4f\u3010\u610f\u898b\u30fb\u554f\u3044\u5408\u308f\u305b\uff08\u533f\u540d\uff09\u3011\ud83c\udf4f\n\u307e\u305a\u3053\u306e\u6982\u8981\u6b04\u3068\u30b3\u30de\u30f3\u30c9\u8a73\u7d30\u30da\u30fc\u30b8\u306e\u5168\u3066\u306b\u76ee\u3092\u901a\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\u9023\u7d61\u30d5\u30a9\u30fc\u30e0\uff1ahttps://forms.gle/2y7WJ6U22p9cchDR6\n\n\u203b\u3053\u306e\u81ea\u7fd2\u5ba4\u914d\u4fe1\u306f\u4e00\u500b\u4eba\u304c\u8da3\u5473\u3067\u904b\u55b6\u3057\u3066\u3044\u307e\u3059\u3002\n\n\n\u2757\ufe0f\u3010\u7dca\u6025\u6642\u9023\u7d61\u7528\u30d5\u30a9\u30fc\u30e0\uff08\u533f\u540d\uff09\u3011\u2757\ufe0f\nhttps://forms.gle/jSHWYu5HvniKnwFK8\n\u3053\u306e\u81ea\u7fd2\u5ba4\u306e\u30b7\u30b9\u30c6\u30e0\u306e\u69d8\u5b50\u304c\u304a\u304b\u3057\u3044\u3068\u304d\u306f\u3001\u3053\u306e\u30d5\u30a9\u30fc\u30e0\u306b\u3066\u9023\u7d61\u304f\u3060\u3055\u3044\u3002\n\n\n\ud83e\udd5d\u3010\u30e2\u30c7\u30ec\u30fc\u30bf\u30fc\u306b\u3064\u3044\u3066\u3011\ud83e\udd5d\nhttps://youtube-study-space.notion.site/fbd6ba5ba5474881a477afb779841fef\n\n\n\u2708\u3010\u4eca\u5f8c\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u4e88\u5b9a\u3011\u2708\nhttps://youtube-study-space.notion.site/e58108beaad2425fbc687e8d912791c4\n\n\n\u958b\u767a\u7528\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u305f\u307e\u30fc\u306b\u30c6\u30b9\u30c8\u914d\u4fe1\u3057\u307e\u3059\u3002\u65b0\u6a5f\u80fd\u304c\u8a66\u305b\u307e\u3059\u3002\n[\u958b\u767a\u7528] \u4f5c\u696d\u90e8\u5c4b\u30c1\u30e3\u30f3\u30cd\u30eb\uff1ahttps://www.youtube.com/channel/UChBj4xZePvWyGmTKct5FBcg\n\n\nMusic from #Uppbeat\nhttps://uppbeat.io\n\n\u52b9\u679c\u97f3\u63d0\u4f9b\uff1aPIXTA\nhttps://pixta.jp/\n\n\u753b\u50cf\u63d0\u4f9b\uff1a Freepik\n\n\n\u304a\u4ed5\u4e8b\u306b\u95a2\u3059\u308b\u304a\u554f\u3044\u5408\u308f\u305b\uff1a\nhttps://forms.gle/efnhj1ZrBNqPkKx28\n\nX\uff1ahttps://twitter.com/osr_soraride\n\u958b\u767a\u8005X\uff1ahttps://twitter.com/kani3camp\n\n#\u4f5c\u696d\u7528BGM\n#\u30aa\u30f3\u30e9\u30a4\u30f3\u81ea\u7fd2\u5ba4\n#\u30dd\u30e2\u30c9\u30fc\u30ed\u30bf\u30a4\u30de\u30fc\n#\u30dd\u30e2\u30c9\u30fc\u30ed",
+    "channel_id": "UCXuD2XmPTdpVy7zmwbFVZWg",
+    "channel_url": "https://www.youtube.com/channel/UCXuD2XmPTdpVy7zmwbFVZWg",
+    "view_count": 2423755,
+    "average_rating": null,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=AvGbepg86JA",
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "online study",
+      "\u52c9\u5f37",
+      "\u52c9\u5f37\u30e9\u30a4\u30d6",
+      "\u4f5c\u696d\u914d\u4fe1",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u52c9\u5f37",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u4f5c\u696d",
+      "\u4f5c\u696d\u30e9\u30a4\u30d6",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u4f5c\u696d\u90e8\u5c4b",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u52c9\u5f37\u90e8\u5c4b",
+      "\u5165\u5ba4",
+      "\u52c9\u5f37\u914d\u4fe1",
+      "study with me",
+      "24/7",
+      "\u52c9\u5f37\u751f\u914d\u4fe1",
+      "\u52c9\u5f37\u52d5\u753b",
+      "\u4f5c\u696d\u52d5\u753b",
+      "\u52c9\u5f37\u3057\u3088\u3046",
+      "\u8010\u4e45",
+      "\u52c9\u5f37\u8010\u4e45",
+      "\u52c9\u5f37\u30aa\u30ea\u30f3\u30d4\u30c3\u30af",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u30eb\u30fc\u30e0",
+      "\u4f5c\u696d\u8010\u4e45",
+      "\u52c9\u5f37live",
+      "\u4f5c\u696dlive",
+      "\u5168\u96c6\u4e2d",
+      "\u81ea\u7fd2",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u81ea\u7fd2",
+      "\u81ea\u7fd2\u5ba4",
+      "\u30aa\u30f3\u30e9\u30a4\u30f3\u81ea\u7fd2\u5ba4",
+      "pomodoro",
+      "studywithme",
+      "\u30dd\u30e2\u30c9\u30fc\u30ed",
+      "\u30dd\u30e2\u30c9\u30fc\u30ed\u6cd5",
+      "\u30bf\u30a4\u30de\u30fc",
+      "\u30dd\u30e2\u30c9\u30fc\u30ed\u30bf\u30a4\u30de\u30fc",
+      "\u4e00\u7dd2\u306b\u52c9\u5f37",
+      "work",
+      "working",
+      "\u30b3\u30ef\u30fc\u30ad\u30f3\u30b0\u30b9\u30da\u30fc\u30b9",
+      "\u30dd\u30e2\u30c9\u30fc\u30ed\u5f0f",
+      "\u4f5c\u696d\u7528BGM"
+    ],
+    "playable_in_embed": null,
+    "live_status": "is_live",
+    "media_type": "livestream",
+    "release_timestamp": 1666669395,
+    "_format_sort_fields": [
+      "quality",
+      "res",
+      "fps",
+      "hdr:12",
+      "source",
+      "vcodec",
+      "channels",
+      "acodec",
+      "lang",
+      "proto"
+    ],
+    "automatic_captions": {},
+    "subtitles": {
+      "live_chat": [
+        {
+          "url": "https://www.youtube.com/watch?v=AvGbepg86JA&bpctr=9999999999&has_verified=1",
+          "video_id": "AvGbepg86JA",
+          "ext": "json",
+          "protocol": "youtube_live_chat"
+        }
+      ]
+    },
+    "comment_count": null,
+    "chapters": null,
+    "heatmap": null,
+    "like_count": 18567,
+    "concurrent_view_count": 99,
+    "channel": "Online Study Room",
+    "channel_follower_count": 82600,
+    "uploader": "Online Study Room",
+    "uploader_id": "@online-workspace",
+    "uploader_url": "https://www.youtube.com/@online-workspace",
+    "upload_date": "20221025",
+    "timestamp": 1666669211,
+    "availability": "public",
+    "original_url": "https://www.youtube.com/watch?v=AvGbepg86JA",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist": null,
+    "playlist_index": null,
+    "display_id": "AvGbepg86JA",
+    "fulltitle": "\u3010\u30e9\u30a4\u30d6\u3011\u30aa\u30f3\u30e9\u30a4\u30f3\u81ea\u7fd2\u5ba4 #\u4f5c\u696d\u7528 #\u52c9\u5f37 #\u81ea\u7fd2\u5ba4 study with me",
+    "release_date": "20221025",
+    "release_year": 2022,
+    "is_live": true,
+    "was_live": false,
+    "requested_subtitles": null,
+    "_has_drm": null,
+    "epoch": 1747791958,
+    "_type": "video",
+    "_version": {
+      "version": "2025.04.30",
+      "current_git_head": null,
+      "release_git_head": "505b400795af557bdcfd9d4fa7e9133b26ef431c",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "S8": {
     "id": "NWJ6T06NxDU",
     "title": "STUDY WITH ME LIVE AT 5:00 AM || 33 DAYS CHALLANGE DAY 19/33!!! resheduled at 5:30 2025-05-21 01:45",
     "formats": [],
@@ -2275,7 +2634,7 @@
     "description": "\ud83d\udcc5 33 Days Study Challenge | Daily 5 AM Live Study Sessions with me\n\nJoin me for the next 33 days as I take on a powerful challenge\u2014waking up and studying live at 5 AM every day!\nThis is your chance to build discipline, consistency, and a strong study habit alongside me. Whether you're preparing for NEET/JEE or any exam, you're welcome to join, study, and stay accountable.\n\n\ud83d\udd54 Live Every Morning at 5:00 AM\n\ud83d\udcda Get ready and prepared, set your goals, and let\u2019s conquer this challenge together!\n\ud83d\udcac Use the live chat to stay connected.\n\nMy Instagram: https://www.instagram.com/divyanshijha_27?igsh=azZtZnBtZ3V4bGU1\n\nMy WhatsApp channel: https://whatsapp.com/channel/0029Vao1e5ZCBtxLn8iZNl2p\n\nMy Telegram Channel: https://t.me/+6nXNKIACJR00ZTdl",
     "channel_id": "UCJBtJmE1JGbCTzlrME2hEnQ",
     "channel_url": "https://www.youtube.com/channel/UCJBtJmE1JGbCTzlrME2hEnQ",
-    "view_count": 831,
+    "view_count": 833,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=NWJ6T06NxDU",
@@ -2283,7 +2642,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747786055,
@@ -2313,7 +2672,7 @@
     "comment_count": null,
     "chapters": null,
     "heatmap": null,
-    "like_count": 57,
+    "like_count": 58,
     "concurrent_view_count": 63,
     "channel": "divyanshi jha",
     "channel_follower_count": 27600,
@@ -2338,7 +2697,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791946,
+    "epoch": 1747791959,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -2347,7 +2706,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S8": {
+  "S9": {
     "id": "DXXe4jZSGs4",
     "title": "5.21.WED [\ubc95\ubb34\uc0ac \uc218\ud5d8\uc0dd] Study with Me in Jeju / \uc7a5\uc791asmr\ud83d\udd25 / 1991 / INFJ / \ub178\ub825\uae30\ub85d / effort / record 2025-05-21 01:45",
     "formats": [],
@@ -2600,7 +2959,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747789467,
@@ -2632,7 +2991,7 @@
     "heatmap": null,
     "location": "JEJU ISLAND",
     "like_count": 6,
-    "concurrent_view_count": 35,
+    "concurrent_view_count": 36,
     "channel": "\uafb8\uc900\ub9e8 \ubd80\ub9e8 steady Boo_man",
     "channel_follower_count": 4030,
     "uploader": "\uafb8\uc900\ub9e8 \ubd80\ub9e8 steady Boo_man",
@@ -2656,7 +3015,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791947,
+    "epoch": 1747791959,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -2665,9 +3024,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S9": {
+  "S10": {
     "id": "sEGOogpgm_c",
-    "title": "Study With Me 4K | 5 Hours of Productivity with Pomodoro (50/10) & Gentle Rain - Cat cute 2025-05-21 01:45",
+    "title": "Study With Me 4K | 5 Hours of Productivity with Pomodoro (50/10) & Gentle Rain - Cat cute 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -2983,7 +3342,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 3791,
-    "concurrent_view_count": 34,
+    "concurrent_view_count": 31,
     "channel": "Hilary - Study With Me",
     "channel_follower_count": 5910,
     "uploader": "Hilary - Study With Me",
@@ -3007,7 +3366,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791948,
+    "epoch": 1747791960,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -3016,9 +3375,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S10": {
+  "S11": {
     "id": "nv5UVXtMkDE",
-    "title": "\ud83d\udea8 5.21 \uc218 I D-101 | \uc2a4\ud130\ub514\uc717\ubbf8 \uc2e4\uc2dc\uac04 study with me | \ub9e4\uc77c \ubaa9\ud45c \ub2ec\uc131 \ud568\uaed8\ud574\uc694\ud83d\udd25 2025-05-21 01:45",
+    "title": "\ud83d\udea8 5.21 \uc218 I D-101 | \uc2a4\ud130\ub514\uc717\ubbf8 \uc2e4\uc2dc\uac04 study with me | \ub9e4\uc77c \ubaa9\ud45c \ub2ec\uc131 \ud568\uaed8\ud574\uc694\ud83d\udd25 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -3324,7 +3683,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791949,
+    "epoch": 1747791961,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -3333,9 +3692,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S11": {
+  "S12": {
     "id": "6wk679pCWzI",
-    "title": "\ud83c\udf4025.05.21.\uc218\ud83c\udf40study with me\u3163CPA\u3163\ud68c\uc2dc\uc0dd\u3163real sound 2025-05-21 01:45",
+    "title": "\ud83c\udf4025.05.21.\uc218\ud83c\udf40study with me\u3163CPA\u3163\ud68c\uc2dc\uc0dd\u3163real sound 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -3641,7 +4000,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791949,
+    "epoch": 1747791962,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -3650,9 +4009,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S12": {
+  "S13": {
     "id": "n7uv4pOFVEE",
-    "title": "12 Hour STUDY WITH ME Live | 50/10 Pomodoro | Study with Lenka 2025-05-21 01:45",
+    "title": "12 Hour STUDY WITH ME Live | 50/10 Pomodoro | Study with Lenka 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -3925,7 +4284,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 11,
-    "concurrent_view_count": 28,
+    "concurrent_view_count": 27,
     "channel": "Lenka Study 365",
     "channel_follower_count": 995,
     "uploader": "Lenka Study 365",
@@ -3949,7 +4308,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791950,
+    "epoch": 1747791963,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -3958,9 +4317,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S13": {
+  "S14": {
     "id": "-mChrK5DWsg",
-    "title": "Study With Me LIVE |3 Hours (3 sessions)| 60/10 Pomodoro |Rain Sound 2025-05-21 01:45",
+    "title": "Study With Me LIVE |3 Hours (3 sessions)| 60/10 Pomodoro |Rain Sound 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -4211,7 +4570,7 @@
       "People & Blogs"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747780381,
@@ -4242,7 +4601,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 15,
-    "concurrent_view_count": 28,
+    "concurrent_view_count": 27,
     "channel": "Tymurp",
     "channel_follower_count": 1770,
     "uploader": "Tymurp",
@@ -4266,7 +4625,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791951,
+    "epoch": 1747791963,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -4275,9 +4634,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S14": {
+  "S15": {
     "id": "7Z3uYcMdtvM",
-    "title": "D-185 \uac10\uae30 \uc870\uc2ec \ub514\uc2a4\ud06c \uc870\uc2ec | \uc2a4\ud130\ub514\uc717\ubbf8, study with me, 50/10 \ubf40\ubaa8\ub3c4\ub85c, pomodoro, \uc784\uace0\uc0dd, \uc784\uc6a9\uace0\uc2dc, asmr 2025-05-21 01:45",
+    "title": "D-185 \uac10\uae30 \uc870\uc2ec \ub514\uc2a4\ud06c \uc870\uc2ec | \uc2a4\ud130\ub514\uc717\ubbf8, study with me, 50/10 \ubf40\ubaa8\ub3c4\ub85c, pomodoro, \uc784\uace0\uc0dd, \uc784\uc6a9\uace0\uc2dc, asmr 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -4520,7 +4879,7 @@
     "description": "\uc911\ub4f1\uc784\uc6a9 \uc804\ubb38\uc0c1\ub2f4 \uc900\ube44\uc911\uc778 \uc784\uace0\uc0dd\uc785\ub2c8\ub2e4.\n\n9am ~ 10pm \uc2e4\uc2dc\uac04 \uc2a4\ud130\ub514\uc717\ubbf8 \ubc29\uc1a1\ud569\ub2c8\ub2e4.\n50/10 \ubf40\ubaa8\ub3c4\ub85c \uae30\uc900 9~11\uc138\uc158 \uc9c4\ud589\ud574\uc694!\n\uc810\uc2ec, \uc800\ub141 \uc2dc\uac04\uc5d0 \uc720\ub3d9\uc801\uc73c\ub85c \uc790\ub9ac \ube44\uc6c1\ub2c8\ub2e4\n(\ud654, \ubaa9\uc740 \ud544\ub77c\ud14c\uc2a4\uac00 \uc788\uc5b4\uc11c 5pm~7:10pm \uc790\ub9ac \ube44\uc6b8 \uc608\uc815)\nasmr\uc740 \uc7a5\uc791 - \ube44 - \ucc9c\ub465 \uc18c\ub9ac\ub97c \ubc88\uac08\uc544\uac00\uba70 \ud2c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uc8fc\ub9d0 \uc911 \ud558\ub8e8\ub294 \ud734\ubc29\uc785\ub2c8\ub2e4. \n\n\ucc44\ud305\uc740 \uc26c\ub294\uc2dc\uac04\uc5d0 \ud655\uc778\ud569\ub2c8\ub2e4!\n\uc624\ub298\ub3c4 \ud638\uc774\ucbb8!\n\n\n\u2014 \uc815\ubcf4 \u2014 \n\n\ud2f4\ud2b8 : \ub86c\uc564 \ube14\ub7ec \ud37c\uc9c0 \ud2f4\ud2b8 07 \ucfe8\ub85c\uc988\uc5c5\n\n2\ub2e8 \ub3c5\uc11c\ub300\nhttps://smartstore.naver.com/iroomprime/products/7709337692\n\n\uc5d8\ub808\ubca0\uc774\ud130 \ub3c5\uc11c\ub300\nhttps://smartstore.naver.com/iroomfd/...\n\n\uae30\ud654\ud39c\nhttps://www.coupang.com/vp/products/5498848866?itemId=8536479438&vendorItemId=75823893318&pickType=COU_PICK&sourceType=srp_product_ads&clickEventId=a7c2d670-006b-11f0-8505-fa58d3988d66&korePlacement=15&koreSubPlacement=1&q=\uae30\ud654\ud39c&itemsCount=36&searchId=f3382a1b3310159&rank=0&searchRank=0&isAddedCart=\n\n\ud0a4\ubcf4\ub4dc : \ub85c\uc9c0\ud14d \ud0a4\uc988\ud22c\uace0\n\n\ucd2c\uc601 \uce74\uba54\ub77c : \ub85c\uc9c0\ud14d c920\n\ub178\ud2b8\ubd81 : \ub9e5\ubd81 \uc5d0\uc5b4 m1\n\n\uacf5\ubd80\ud558\ub294 \uc7a5\uc18c & \uac00\uaca9 : \uc2a4\ud130\ub514\uce74\ud398 \uac1c\ubc29\ud615 \uace0\uc815\uc11d / 12\uc8fc\uad8c 39\ub9cc\uc6d0\n\n\ucd94\ucc9c\ud574\uc8fc\uc2e0 \ubcfc\ud39c \ubaa9\ub85d : \n\uc81c\ud2b8\uc2a4\ud2b8\ub9bc / \uc2dc\uadf8\ub178 um-100 / \uc2dc\uadf8\ub178 \ub178\ud06c\uc2dd / \uc96c\uc2a4\uc5c5 / \ubaa8\ub098\ubbf8 fx zeta / \uc5d0\ub108\uac94 / \uc81c\ube0c\ub77c \uc0ac\ub77c\uc0ac\n\n\uc5f4\ud488\ud0c0 \uc18c\uae61 \uacf5\ubd80\ubc29 1 (\ube44\ubc88 0720)\nhttps://link.yeolpumta.com/P3R5cGU9Z3JvdXBJbnZpdGUmaWQ9NDc1MzA4MA==\n\n\uc5f4\ud488\ud0c0 \uc18c\uae61 \uacf5\ubd80\ubc29 2 (\ube44\ubc88 0720)\nhttps://link.yeolpumta.com/P3R5cGU9Z3JvdXBJbnZpdGUmaWQ9NDc1NjAyMg==\n\n\uc5f4\ud488\ud0c0 \uc18c\uae61 \uacf5\ubd80\ubc29 3 (\ube44\ubc88 0720)\nhttps://link.yeolpumta.com/P3R5cGU9Z3JvdXBJbnZpdGUmaWQ9NDgwMjAzOA==\n\n\uc5f4\ud488\ud0c0 \uc18c\uae61 \uacf5\ubd80\ubc29 4 (\ube44\ubc88 0720\nhttps://link.yeolpumta.com/P3R5cGU9Z3JvdXBJbnZpdGUmaWQ9NDk2MjU2OQ==\n\n\uacf5\uc2a4\ud0c0 \uc5c6\uc5b4\uc694!\n\uc2a4\ud130\ub514 x / all \uc778\uac15\n\n\uc9c0\uc6d0 \uc9c0\uc5ed, \uae09\uac04 \uc9c8\ubb38\uc740 \ubc1b\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4\n\n\n\nHello, I am a Korean. I graduated from graduate school.\nI am studying to become a school counselor. I study counseling theory, personality psychology, family counseling, group counseling, career counseling, psychological test, special child counseling, ideal psychology, and introduction to psychology. \nThis is a private study room.\nI'll check the chat during my break. Thank you.",
     "channel_id": "UCJosh61Pthubz46hy0rTB2Q",
     "channel_url": "https://www.youtube.com/channel/UCJosh61Pthubz46hy0rTB2Q",
-    "view_count": 44,
+    "view_count": 47,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=7Z3uYcMdtvM",
@@ -4558,7 +4917,7 @@
     "comment_count": null,
     "chapters": null,
     "heatmap": null,
-    "like_count": 0,
+    "like_count": 1,
     "concurrent_view_count": 30,
     "channel": "\uc18c\uae61\uc774",
     "channel_follower_count": 4820,
@@ -4583,7 +4942,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791952,
+    "epoch": 1747791964,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -4592,9 +4951,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S15": {
+  "S16": {
     "id": "kChQ65zrSXw",
-    "title": "Study with me 24 hours | \u0630\u0627\u0643\u0631 \u0645\u0639\u064a\u0662\u0664 \u0633\u0627\u0639\u0647 \u0648\u0644\u0645 \u0627\u0644\u0645\u062a\u0631\u0627\u0643\u0645 \u062a\u0627\u0644\u062a\u0647 \u062b\u0627\u0646\u0648\u064a 2025-05-21 01:45",
+    "title": "Study with me 24 hours | \u0630\u0627\u0643\u0631 \u0645\u0639\u064a\u0662\u0664 \u0633\u0627\u0639\u0647 \u0648\u0644\u0645 \u0627\u0644\u0645\u062a\u0631\u0627\u0643\u0645 \u062a\u0627\u0644\u062a\u0647 \u062b\u0627\u0646\u0648\u064a 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -4900,7 +5259,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791953,
+    "epoch": 1747791965,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -4909,9 +5268,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S16": {
+  "S17": {
     "id": "sVu8gO__kQM",
-    "title": "9 Hour Evening Study with Me LIVE | Medical School M2S1E2 | 50/10/70 Pomodoro w/ Lofi (05/20/25) 2025-05-21 01:45",
+    "title": "9 Hour Evening Study with Me LIVE | Medical School M2S1E2 | 50/10/70 Pomodoro w/ Lofi (05/20/25) 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -5162,7 +5521,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747770848,
@@ -5193,7 +5552,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 12,
-    "concurrent_view_count": 21,
+    "concurrent_view_count": 22,
     "channel": "It's Kind of a Study Story",
     "channel_follower_count": 627,
     "uploader": "It's Kind of a Study Story",
@@ -5217,7 +5576,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791954,
+    "epoch": 1747791966,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -5226,9 +5585,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S17": {
+  "S18": {
     "id": "Qw-yBeWAkO8",
-    "title": "Study With Me Livestream \ud83d\udcd6 60/10 Pomodoro Sessions \u231b | cozy fireplace sounds 2025-05-21 01:45",
+    "title": "Study With Me Livestream \ud83d\udcd6 60/10 Pomodoro Sessions \u231b | cozy fireplace sounds 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -5510,7 +5869,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 367,
-    "concurrent_view_count": 19,
+    "concurrent_view_count": 21,
     "channel": "Study with Elaine",
     "channel_follower_count": 9130,
     "uploader": "Study with Elaine",
@@ -5534,7 +5893,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791955,
+    "epoch": 1747791966,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -5543,9 +5902,9 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S18": {
+  "S19": {
     "id": "PDU56BfZr8U",
-    "title": "LIVE Study With Me | 3 Hour Pomodoro (90/10) | CPA candidate |Rain sound| Deep Focus session 2025-05-21 01:45",
+    "title": "LIVE Study With Me | 3 Hour Pomodoro (90/10) | CPA candidate |Rain sound| Deep Focus session 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -5858,324 +6217,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791955,
-    "_type": "video",
-    "_version": {
-      "version": "2025.04.30",
-      "current_git_head": null,
-      "release_git_head": "505b400795af557bdcfd9d4fa7e9133b26ef431c",
-      "repository": "yt-dlp/yt-dlp"
-    }
-  },
-  "S19": {
-    "id": "XK4u0IDUJeE",
-    "title": "STUDY WITH Me \u2728 | Med student and her cats \ud83d\udc08 | 60/10 2025-05-21 01:45",
-    "formats": [],
-    "thumbnails": [
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/3_live.jpg",
-        "preference": -37,
-        "id": "0"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/3_live.webp",
-        "preference": -36,
-        "id": "1"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/2_live.jpg",
-        "preference": -35,
-        "id": "2"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/2_live.webp",
-        "preference": -34,
-        "id": "3"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/1_live.jpg",
-        "preference": -33,
-        "id": "4"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/1_live.webp",
-        "preference": -32,
-        "id": "5"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/mq3_live.jpg",
-        "preference": -31,
-        "id": "6"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/mq3_live.webp",
-        "preference": -30,
-        "id": "7"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/mq2_live.jpg",
-        "preference": -29,
-        "id": "8"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/mq2_live.webp",
-        "preference": -28,
-        "id": "9"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/mq1_live.jpg",
-        "preference": -27,
-        "id": "10"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/mq1_live.webp",
-        "preference": -26,
-        "id": "11"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hq3_live.jpg",
-        "preference": -25,
-        "id": "12"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/hq3_live.webp",
-        "preference": -24,
-        "id": "13"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hq2_live.jpg",
-        "preference": -23,
-        "id": "14"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/hq2_live.webp",
-        "preference": -22,
-        "id": "15"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hq1_live.jpg",
-        "preference": -21,
-        "id": "16"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/hq1_live.webp",
-        "preference": -20,
-        "id": "17"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/sd3_live.jpg",
-        "preference": -19,
-        "id": "18"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/sd3_live.webp",
-        "preference": -18,
-        "id": "19"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/sd2_live.jpg",
-        "preference": -17,
-        "id": "20"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/sd2_live.webp",
-        "preference": -16,
-        "id": "21"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/sd1_live.jpg",
-        "preference": -15,
-        "id": "22"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/sd1_live.webp",
-        "preference": -14,
-        "id": "23"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/default_live.jpg",
-        "preference": -13,
-        "id": "24"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/default_live.webp",
-        "preference": -12,
-        "id": "25"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/mqdefault_live.jpg",
-        "preference": -11,
-        "id": "26"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/mqdefault_live.webp",
-        "preference": -10,
-        "id": "27"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/0_live.jpg",
-        "preference": -9,
-        "id": "28"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/0_live.webp",
-        "preference": -8,
-        "id": "29"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hqdefault_live.jpg",
-        "preference": -7,
-        "id": "30"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hqdefault.jpg?v=67e21e81&sqp=CJzgtMEG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDizwlKStcBM0j0vz-JdE15FQMiBA",
-        "height": 94,
-        "width": 168,
-        "preference": -7,
-        "id": "31",
-        "resolution": "168x94"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hqdefault.jpg?v=67e21e81&sqp=CJzgtMEG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQxCHC2Ac4Ec2J5DIXOYSSGcJutQ",
-        "height": 110,
-        "width": 196,
-        "preference": -7,
-        "id": "32",
-        "resolution": "196x110"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hqdefault.jpg?v=67e21e81&sqp=CJzgtMEG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2MEdxRaVW4V6UC__ru6YWPmrXIQ",
-        "height": 138,
-        "width": 246,
-        "preference": -7,
-        "id": "33",
-        "resolution": "246x138"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hqdefault.jpg?v=67e21e81&sqp=CJzgtMEG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzhhF6B7TzbP2jArKx0cbNkq6-4g",
-        "height": 188,
-        "width": 336,
-        "preference": -7,
-        "id": "34",
-        "resolution": "336x188"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/hqdefault_live.webp",
-        "preference": -6,
-        "id": "35"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/sddefault_live.jpg",
-        "preference": -5,
-        "id": "36"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/sddefault_live.webp",
-        "preference": -4,
-        "id": "37"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/hq720_live.jpg",
-        "preference": -3,
-        "id": "38"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/hq720_live.webp",
-        "preference": -2,
-        "id": "39"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/maxresdefault.jpg?v=67e21e81",
-        "preference": -1,
-        "id": "40"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/maxresdefault_live.jpg",
-        "preference": -1,
-        "id": "41"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/XK4u0IDUJeE/maxresdefault.jpg",
-        "height": 1080,
-        "width": 1920,
-        "preference": -1,
-        "id": "42",
-        "resolution": "1920x1080"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/XK4u0IDUJeE/maxresdefault_live.webp",
-        "preference": 0,
-        "id": "43"
-      }
-    ],
-    "thumbnail": "https://i.ytimg.com/vi/XK4u0IDUJeE/maxresdefault.jpg",
-    "description": "[GIVEAWAY TIME! \ud83c\udf89 ]\nTo thank you for all the love during my livestreams, I\u2019m giving away 10 free trials of Smart Headshot \u2014 it\u2019s been a game-changer and I\u2019d love for you to try it too!\n\nHow to enter:\n1. Follow me on Instagram\n2. Subscribe to my YouTube\n3. Comment on this post \u2014 say hi or anything you\u2019d like to share! \ud83d\udcac\nhttps://www.instagram.com/p/DJafewzS6V_/?igsh=eTlka2hnN2trbWRj\n\nPrizes:\n\ud83c\udfaf 10 winners (5 picked by me + 5 random)\n\ud83d\udcc5 Winners announced May 16\n\nThanks so much for being here \u2014 good luck! \ud83d\udc96\n- \nThis is a recorded version of my 'Study With Me' sessions!\nIf you prefer a live experience, I also do live streams\u2014\ncheck out my study schedule below for details. \nYou can find my live streams right here on my channel!\n\n- \nI'm a final year med student preparing for exam from Taiwan (GMT+8)\nJoin me if you ever felt lonely, unable to focus when studying.\n\u6211\u662f\u4e00\u500b\u4f86\u81ea\u53f0\u7063\u7684\u91ab\u5b78\u751f\uff01\u6b61\u8fce\u8ddf\u6211\u4e00\u8d77\u8b80\u66f8\uff01\n-\n[ My Study Schedule ]\n\ud83d\uddd3\ufe0f My study schedule calendar : https://reurl.cc/L5q1xL\n\ud83c\udf3b LIVE: 8:00am - 22:00pm (GMT+8) (I do lunch break, gym and dinner break.)\n\ud83c\udf31 Recorded: 22:00pm - 8:00 am (+1D) (GMT+8)\n-\n[ About the Stream ]\n\ud83c\udf45 I do 60/10 pomodoro sessions\n\ud83d\udccd Time zone here in Taiwan is GMT+8. \n\ud83c\udf73 Whenever I go have lunch/dinner/workout, the livestream stays on even while I\u2019m at it.\n\ud83c\udfc3\u200d\u2640\ufe0f Working out boosts my energy\u2014way better than caffeine. Try it !\n\ud83d\udcac Feel free to say hi ,chat, or ask me questions in chat room, I'll reply in break time.\n-\n[ I Have Two Cats, They Love Studying with Me ]\n\ud83d\ude3b Didi : a cuddly 13-year-old orange grandpa cat.\n\ud83d\udc08 Gui Gui : an adorable 4-year-old orange and white cat.\nKitty Insta: https://www.instagram.com/_kittyfamily_/\n- \n[ Feel Free to Join and Say Hi ! ]\n\ud83d\udcac Discord: https://discord.gg/mxEgNukd\n-\n[ Support My Channel ]\nIf you enjoy my content and would like to support me in a small way, you can :\n\u2615\ufe0f Buy me a coffee : https://buymeacoffee.com/tinalin\n\nThank you for being part of my community! \nYour support means everything. \ud83d\ude0a\n-\n[ Gadgets ]\n\ud83d\udcbb Laptop - MacBook Air (M2, 2022) : https://amzn.to/40IOApS\n\ud83d\udcf1 Pad - iPad Air (5th generation): https://amzn.to/4gbbpqI\n\ud83c\udfa7 Earphone - AirPods Pro : https://amzn.to/40Hndwx\n\ud83c\udfa7 Earphone - Bose QC45 : https://amzn.to/42pHTu9\n- \n\ud83c\udfb6 Background music Today\uff1a\n- \n #studywithmelive  #studywithme  #medicalstudent #\u5b78\u7fd2 #\u91ab\u5b78\u751f",
-    "channel_id": "UCjFe-ijK3dzPNBJzhTJ_75Q",
-    "channel_url": "https://www.youtube.com/channel/UCjFe-ijK3dzPNBJzhTJ_75Q",
-    "view_count": 84946,
-    "average_rating": null,
-    "age_limit": 0,
-    "webpage_url": "https://www.youtube.com/watch?v=XK4u0IDUJeE",
-    "categories": [
-      "Education"
-    ],
-    "tags": [],
-    "playable_in_embed": true,
-    "live_status": "is_live",
-    "media_type": "livestream",
-    "release_timestamp": 1742872247,
-    "_format_sort_fields": [
-      "quality",
-      "res",
-      "fps",
-      "hdr:12",
-      "source",
-      "vcodec",
-      "channels",
-      "acodec",
-      "lang",
-      "proto"
-    ],
-    "automatic_captions": {},
-    "subtitles": {
-      "live_chat": [
-        {
-          "url": "https://www.youtube.com/watch?v=XK4u0IDUJeE&bpctr=9999999999&has_verified=1",
-          "video_id": "XK4u0IDUJeE",
-          "ext": "json",
-          "protocol": "youtube_live_chat"
-        }
-      ]
-    },
-    "comment_count": null,
-    "chapters": null,
-    "heatmap": null,
-    "like_count": 1715,
-    "concurrent_view_count": 19,
-    "channel": "Tina Lin\u2019s database \ud83d\udcf7",
-    "channel_follower_count": 6780,
-    "uploader": "Tina Lin\u2019s database \ud83d\udcf7",
-    "uploader_id": "@tinalinsdatabase0916",
-    "uploader_url": "https://www.youtube.com/@tinalinsdatabase0916",
-    "upload_date": "20250325",
-    "timestamp": 1742872193,
-    "availability": "public",
-    "original_url": "https://www.youtube.com/watch?v=XK4u0IDUJeE",
-    "webpage_url_basename": "watch",
-    "webpage_url_domain": "youtube.com",
-    "extractor": "youtube",
-    "extractor_key": "Youtube",
-    "playlist": null,
-    "playlist_index": null,
-    "display_id": "XK4u0IDUJeE",
-    "fulltitle": "STUDY WITH Me \u2728 | Med student and her cats \ud83d\udc08 | 60/10",
-    "release_date": "20250325",
-    "release_year": 2025,
-    "is_live": true,
-    "was_live": false,
-    "requested_subtitles": null,
-    "_has_drm": null,
-    "epoch": 1747791956,
+    "epoch": 1747791967,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -6186,7 +6228,7 @@
   },
   "S20": {
     "id": "DbM5QHKHXPM",
-    "title": "4 am Study with me .Pomodoro 60/10 min . HSC 25 . board Exam in 36 Days . Target 96 marks out of 100 2025-05-21 01:45",
+    "title": "4 am Study with me .Pomodoro 60/10 min . HSC 25 . board Exam in 36 Days . Target 96 marks out of 100 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -6465,7 +6507,7 @@
       "night study",
       "study routing"
     ],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747778742,
@@ -6520,7 +6562,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791957,
+    "epoch": 1747791968,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -6531,7 +6573,7 @@
   },
   "S21": {
     "id": "fWovJF1xugs",
-    "title": "\ud83c\udf93 50/10 Pomodoro Timer | Study With Me Live Session | Deep Focus & Productivity Boost | ADHD 2025-05-21 01:45",
+    "title": "\ud83c\udf93 50/10 Pomodoro Timer | Study With Me Live Session | Deep Focus & Productivity Boost | ADHD 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -6840,7 +6882,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791958,
+    "epoch": 1747791969,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -6851,7 +6893,7 @@
   },
   "S22": {
     "id": "flHmQStenm8",
-    "title": "STUDY WITH ME at NEW YORK PUBLIC LIBRARY \ud83d\udcda\ud83d\udcda | [ LIVE 24/7 ] 2025-05-21 01:45",
+    "title": "STUDY WITH ME at NEW YORK PUBLIC LIBRARY \ud83d\udcda\ud83d\udcda | [ LIVE 24/7 ] 2025-05-21 01:46",
     "formats": [],
     "thumbnails": [
       {
@@ -7145,7 +7187,7 @@
       "live stream",
       "studylive"
     ],
-    "playable_in_embed": false,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1744258437,
@@ -7200,7 +7242,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791959,
+    "epoch": 1747791970,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -7491,7 +7533,7 @@
       "real motivation",
       "study strategy"
     ],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747743144,
@@ -7522,7 +7564,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 30,
-    "concurrent_view_count": 14,
+    "concurrent_view_count": 16,
     "channel": "Yashwant Kumar Live Study",
     "channel_follower_count": 13600,
     "uploader": "Yashwant Kumar Live Study",
@@ -7546,7 +7588,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791960,
+    "epoch": 1747791970,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -7835,7 +7877,7 @@
       "mate",
       "white noise"
     ],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747781446,
@@ -7881,7 +7923,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791960,
+    "epoch": 1747791971,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -8130,7 +8172,7 @@
     "description": "#studywithme #studyathome #\u0443\u0447\u0438\u0441\u044c\u0441\u043e\u043c\u043d\u043e\u0439 #\uc2a4\ud130\ub514\uc717\ubbf8 #\uc2a4\uc717\ubbf8 #\uacf5\uc2dc\uc0dd #\uacf5\uc2dc\uc0dd\ub77c\uc774\ube0c\n\ud55c \ub2ec \ub0a8\uc558\ub2e4. \ub0b4 \uc778\uc0dd \uacb0\uc815 \uc2dc\uac04.\nThis stream is created with #PRISMLiveStudio",
     "channel_id": "UCZ5qKB9-B7cUW7xjSOVQC1A",
     "channel_url": "https://www.youtube.com/channel/UCZ5qKB9-B7cUW7xjSOVQC1A",
-    "view_count": 29,
+    "view_count": 30,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=Jv76Brqerns",
@@ -8193,7 +8235,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791961,
+    "epoch": 1747791972,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -8455,7 +8497,7 @@
       "People & Blogs"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747787186,
@@ -8510,7 +8552,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791962,
+    "epoch": 1747791972,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -8772,7 +8814,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1732818356,
@@ -8827,7 +8869,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791963,
+    "epoch": 1747791973,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -9120,7 +9162,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 5,
-    "concurrent_view_count": 3,
+    "concurrent_view_count": 1,
     "channel": "DreamCT",
     "channel_follower_count": 6320,
     "uploader": "DreamCT",
@@ -9144,7 +9186,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791964,
+    "epoch": 1747791974,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -9461,7 +9503,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791965,
+    "epoch": 1747791975,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -9723,7 +9765,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747789656,
@@ -9754,7 +9796,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 6,
-    "concurrent_view_count": 7,
+    "concurrent_view_count": 5,
     "channel": "The UPSC Dervish ",
     "channel_follower_count": 189,
     "uploader": "The UPSC Dervish ",
@@ -9778,7 +9820,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791965,
+    "epoch": 1747791976,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -10096,7 +10138,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791966,
+    "epoch": 1747791976,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -10413,7 +10455,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791967,
+    "epoch": 1747791977,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -10756,7 +10798,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791968,
+    "epoch": 1747791978,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -11076,7 +11118,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791969,
+    "epoch": 1747791979,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -11380,7 +11422,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 32,
-    "concurrent_view_count": 7,
+    "concurrent_view_count": 8,
     "channel": "SMStudy",
     "channel_follower_count": 3320,
     "uploader": "SMStudy",
@@ -11404,7 +11446,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791969,
+    "epoch": 1747791979,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -11414,6 +11456,350 @@
     }
   },
   "S36": {
+    "id": "azV9PMW5-Ro",
+    "title": "[24/7 study with me] chill study live stream - pomodoro timer | 25min focus blocks 2025-05-21 01:46",
+    "formats": [],
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/3_live.jpg",
+        "preference": -37,
+        "id": "0"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/3_live.webp",
+        "preference": -36,
+        "id": "1"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/2_live.jpg",
+        "preference": -35,
+        "id": "2"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/2_live.webp",
+        "preference": -34,
+        "id": "3"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/1_live.jpg",
+        "preference": -33,
+        "id": "4"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/1_live.webp",
+        "preference": -32,
+        "id": "5"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/mq3_live.jpg",
+        "preference": -31,
+        "id": "6"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/mq3_live.webp",
+        "preference": -30,
+        "id": "7"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/mq2_live.jpg",
+        "preference": -29,
+        "id": "8"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/mq2_live.webp",
+        "preference": -28,
+        "id": "9"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/mq1_live.jpg",
+        "preference": -27,
+        "id": "10"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/mq1_live.webp",
+        "preference": -26,
+        "id": "11"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hq3_live.jpg",
+        "preference": -25,
+        "id": "12"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/hq3_live.webp",
+        "preference": -24,
+        "id": "13"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hq2_live.jpg",
+        "preference": -23,
+        "id": "14"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/hq2_live.webp",
+        "preference": -22,
+        "id": "15"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hq1_live.jpg",
+        "preference": -21,
+        "id": "16"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/hq1_live.webp",
+        "preference": -20,
+        "id": "17"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/sd3_live.jpg",
+        "preference": -19,
+        "id": "18"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/sd3_live.webp",
+        "preference": -18,
+        "id": "19"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/sd2_live.jpg",
+        "preference": -17,
+        "id": "20"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/sd2_live.webp",
+        "preference": -16,
+        "id": "21"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/sd1_live.jpg",
+        "preference": -15,
+        "id": "22"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/sd1_live.webp",
+        "preference": -14,
+        "id": "23"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/default_live.jpg",
+        "preference": -13,
+        "id": "24"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/default_live.webp",
+        "preference": -12,
+        "id": "25"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/mqdefault_live.jpg",
+        "preference": -11,
+        "id": "26"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/mqdefault_live.webp",
+        "preference": -10,
+        "id": "27"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/0_live.jpg",
+        "preference": -9,
+        "id": "28"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/0_live.webp",
+        "preference": -8,
+        "id": "29"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hqdefault_live.jpg",
+        "preference": -7,
+        "id": "30"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hqdefault.jpg?v=6286e964&sqp=CJzgtMEG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBX7Wj5dxmsvnGvEAq4AR1rIi5tKA",
+        "height": 94,
+        "width": 168,
+        "preference": -7,
+        "id": "31",
+        "resolution": "168x94"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hqdefault.jpg?v=6286e964&sqp=CJzgtMEG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZZ7Npi4TwThxOerm-IBglbTiUTw",
+        "height": 110,
+        "width": 196,
+        "preference": -7,
+        "id": "32",
+        "resolution": "196x110"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hqdefault.jpg?v=6286e964&sqp=CJzgtMEG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdsPu04OhkBbBNp2Hjukw50B-cQw",
+        "height": 138,
+        "width": 246,
+        "preference": -7,
+        "id": "33",
+        "resolution": "246x138"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hqdefault.jpg?v=6286e964&sqp=CJzgtMEG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnD8AQ9XPrbM9KAHmgAii9i-WV8g",
+        "height": 188,
+        "width": 336,
+        "preference": -7,
+        "id": "34",
+        "resolution": "336x188"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/hqdefault_live.webp",
+        "preference": -6,
+        "id": "35"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/sddefault_live.jpg",
+        "preference": -5,
+        "id": "36"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/sddefault_live.webp",
+        "preference": -4,
+        "id": "37"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/hq720_live.jpg",
+        "preference": -3,
+        "id": "38"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/hq720_live.webp",
+        "preference": -2,
+        "id": "39"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/maxresdefault.jpg?v=6286e964",
+        "preference": -1,
+        "id": "40"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/maxresdefault_live.jpg",
+        "preference": -1,
+        "id": "41"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/azV9PMW5-Ro/maxresdefault.jpg",
+        "height": 1080,
+        "width": 1920,
+        "preference": -1,
+        "id": "42",
+        "resolution": "1920x1080"
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/azV9PMW5-Ro/maxresdefault_live.webp",
+        "preference": 0,
+        "id": "43"
+      }
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/azV9PMW5-Ro/maxresdefault.jpg",
+    "description": "Welcome to the new study stream! Study productively with Taiki by following the Pomodoro Technique to effectively manage your time  :)\n\nOur Pomodoro sessions are broken down into 25 minutes of study time and 5 minutes of break time, with a simple alarm to signal the start/end times.\n\nThe study timer starts every half hour (ie. 8:00, 8:30, 9:00, etc) to help you easily sync in.\n\nHappy studying!\n\nLearn more about the Pomodoro Technique: \nhttps://bit.ly/3tja6O1\n\nOur beats are carefully selected with BPMs between 70-80, which research shows is the most effective for work and study!\n\n\ud83d\udcf1 Follow Taiki's Socials\nInstagram - http://bit.ly/taiki-insta\nTwitter - http://bit.ly/taiki-twitter\nFacebook - http://bit.ly/taiki-facebook\n\n\ud83d\udd8c\ufe0f Illustration by @acornzzi\n\n\ud83d\udc8c Artist Submissions\nhttp://bit.ly/taiki-submissions\n\n#pomodoro #studywithme #pomodorostudy",
+    "channel_id": "UCKdURsjh1xT1vInYBy82n6g",
+    "channel_url": "https://www.youtube.com/channel/UCKdURsjh1xT1vInYBy82n6g",
+    "view_count": 993217,
+    "average_rating": null,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=azV9PMW5-Ro",
+    "categories": [
+      "Music"
+    ],
+    "tags": [
+      "chill with taiki",
+      "chill",
+      "with",
+      "taiki",
+      "chill with taiki lofi",
+      "chill with taiki lofi hip hop",
+      "lofi",
+      "lofi hip hop",
+      "chill lofi",
+      "chill lofi hip hop",
+      "247 lofi radio",
+      "chill lofi radio",
+      "taiki lofi",
+      "taiki lofi hip hop",
+      "chill taiki lofi",
+      "pomodoro",
+      "pomodoro study with me",
+      "pomodoro lofi",
+      "lofi pomodoro",
+      "study with me lofi",
+      "study me me lofi music",
+      "pomodoro study lofi",
+      "studying",
+      "pomodoro studying",
+      "pomodoro timer"
+    ],
+    "playable_in_embed": null,
+    "live_status": "is_live",
+    "media_type": "livestream",
+    "release_timestamp": 1646875493,
+    "_format_sort_fields": [
+      "quality",
+      "res",
+      "fps",
+      "hdr:12",
+      "source",
+      "vcodec",
+      "channels",
+      "acodec",
+      "lang",
+      "proto"
+    ],
+    "automatic_captions": {},
+    "subtitles": {
+      "live_chat": [
+        {
+          "url": "https://www.youtube.com/watch?v=azV9PMW5-Ro&bpctr=9999999999&has_verified=1",
+          "video_id": "azV9PMW5-Ro",
+          "ext": "json",
+          "protocol": "youtube_live_chat"
+        }
+      ]
+    },
+    "comment_count": null,
+    "chapters": null,
+    "heatmap": null,
+    "like_count": 19073,
+    "concurrent_view_count": 5,
+    "channel": "Chill with Taiki",
+    "channel_follower_count": 330000,
+    "channel_is_verified": true,
+    "uploader": "Chill with Taiki",
+    "uploader_id": "@ChillwithTaiki",
+    "uploader_url": "https://www.youtube.com/@ChillwithTaiki",
+    "upload_date": "20220309",
+    "timestamp": 1646855485,
+    "availability": "public",
+    "original_url": "https://www.youtube.com/watch?v=azV9PMW5-Ro",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist": null,
+    "playlist_index": null,
+    "display_id": "azV9PMW5-Ro",
+    "fulltitle": "[24/7 study with me] chill study live stream - pomodoro timer | 25min focus blocks",
+    "release_date": "20220310",
+    "release_year": 2022,
+    "is_live": true,
+    "was_live": false,
+    "requested_subtitles": null,
+    "_has_drm": null,
+    "epoch": 1747791980,
+    "_type": "video",
+    "_version": {
+      "version": "2025.04.30",
+      "current_git_head": null,
+      "release_git_head": "505b400795af557bdcfd9d4fa7e9133b26ef431c",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "S37": {
     "id": "cMmlbjdWtiQ",
     "title": "12 hour\u2618\ufe0f Study with me LIVE \u2615 calm cozy ambience\ud83e\ude7aPOMODORO\ud83d\udd25Real-time study #Medgirl 2025-05-21 01:46",
     "formats": [],
@@ -11697,7 +12083,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 245,
-    "concurrent_view_count": 5,
+    "concurrent_view_count": 6,
     "channel": "MEDGIRL \ud83e\ude7a",
     "channel_follower_count": 8730,
     "uploader": "MEDGIRL \ud83e\ude7a",
@@ -11721,7 +12107,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791970,
+    "epoch": 1747791981,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -11730,7 +12116,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S37": {
+  "S38": {
     "id": "xnuaUyUoUnc",
     "title": "Morning Study With Me Live | 6-Hour Pomodoro | May 21, 2025 DAY35 2025-05-21 01:46",
     "formats": [],
@@ -12038,7 +12424,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791971,
+    "epoch": 1747791982,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -12047,7 +12433,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S38": {
+  "S39": {
     "id": "a39AIyaFQhY",
     "title": "\ud83d\udd34LIVE STUDY WITH ME 90/15 SESSION I JEE II NEET II NDA II CA II UPSC II ft. | TITANIUM NIKHIL |#JEE 2025-05-21 01:46",
     "formats": [],
@@ -12355,7 +12741,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791972,
+    "epoch": 1747791983,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -12364,7 +12750,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S39": {
+  "S40": {
     "id": "zoVDSzfAgRQ",
     "title": "study with me ,with music 2025-05-21 01:46",
     "formats": [],
@@ -12617,7 +13003,7 @@
       "People & Blogs"
     ],
     "tags": [],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747791331,
@@ -12672,7 +13058,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791973,
+    "epoch": 1747791983,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -12681,7 +13067,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S40": {
+  "S41": {
     "id": "BJ6ajd0Zhas",
     "title": "\ud83c\udf40Study With Me \ud83d\udc36\uac19\uc774 \uacf5\ubd80\ud574 [LIVE \u23f0 : 60/10] \ud83c\udf31White Noise [21.05.2025] 2025-05-21 01:46",
     "formats": [],
@@ -12989,7 +13375,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791974,
+    "epoch": 1747791984,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -12998,7 +13384,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S41": {
+  "S42": {
     "id": "zlSKDeDJ9H0",
     "title": "\ud83c\udf1f Team Vegas Night | 50/10 Deep Focus Sessions | Chill Lofi Study With Me \ud83c\udfa7 [LIVE 24/7] 2025-05-21 01:46",
     "formats": [],
@@ -13339,7 +13725,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791975,
+    "epoch": 1747791985,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -13348,7 +13734,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S42": {
+  "S43": {
     "id": "AGv2i7cIJ04",
     "title": "DAY159/365: Study With Me LIVE | 60/10 Pomodoro 2025-05-21 01:46",
     "formats": [],
@@ -13682,7 +14068,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791975,
+    "epoch": 1747791986,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -13691,7 +14077,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S43": {
+  "S44": {
     "id": "08LDJgURx3o",
     "title": "\u52c9\u5f37\u52d5\u753b \u6bce\u65e524\u6642\u9593\u30fb\u65e5\u672c\u521d study with me \u30dd\u30e2\u30c9\u30fc\u30ed\u30bf\u30a4\u30de\u30fc\ud83c\udf45 2025-05-21 01:46",
     "formats": [],
@@ -14004,7 +14390,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791976,
+    "epoch": 1747791987,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -14013,7 +14399,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S44": {
+  "S45": {
     "id": "1_aGpgwbMS0",
     "title": "Study with me \ud83c\udf31 Pomodoro 30/5 + Soft Lofi & Morning Vibes | Perfect for Work/Study/Deep Focus 2025-05-21 01:46",
     "formats": [],
@@ -14300,7 +14686,7 @@
       "morning study",
       "calm background music"
     ],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747751604,
@@ -14355,7 +14741,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791977,
+    "epoch": 1747791988,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -14364,7 +14750,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S45": {
+  "S46": {
     "id": "iaEfsh09seU",
     "title": "\uc2a4\ud130\ub514\uc717\ubbf8 \ub77c\uc774\ube0c Study With Me Live 2025-05-21 01:46",
     "formats": [],
@@ -14672,7 +15058,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791978,
+    "epoch": 1747791988,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -14681,7 +15067,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S46": {
+  "S47": {
     "id": "Gvu_Q1bEVfU",
     "title": "[LIVE 24/7] Study With Me \ud83c\udfb6 lofi hip hop radio - chill beats to relax/study to 2025-05-21 01:46",
     "formats": [],
@@ -14970,7 +15356,7 @@
       "relaxing study music",
       "deep focus"
     ],
-    "playable_in_embed": true,
+    "playable_in_embed": null,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1741082456,
@@ -15025,7 +15411,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791979,
+    "epoch": 1747791989,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -15034,7 +15420,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S47": {
+  "S48": {
     "id": "pMB7HL539II",
     "title": "\ud83d\udd34LIVE STUDY WITH ME Day 37 ONLY STUDY !! RPSC !! UPSC !! RAS !! NEET \ud83d\udd34\u2747 RAIN Sounds, Pomodoro Time 2025-05-21 01:46",
     "formats": [],
@@ -15367,7 +15753,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791979,
+    "epoch": 1747791990,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -15376,7 +15762,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S48": {
+  "S49": {
     "id": "VWa6iptJtTI",
     "title": "\u0630\u0627\u0643\u0631 \u0645\u0639\u064a \u0628\u062b \u0645\u0628\u0627\u0634\u0631 \u0630\u0627\u0643\u0631 \u0628\u0646\u0638\u0627\u0645 \u0628\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0630\u0627\u0643\u0631 \u0645\u0639\u0627\u064a\u0627 \u0633\u0627\u0639\u0627\u062a \u062a\u0631\u0643\u064a\u0632  Study With Me 2025-05-21 01:46",
     "formats": [],
@@ -15624,7 +16010,7 @@
       "Entertainment"
     ],
     "tags": [],
-    "playable_in_embed": null,
+    "playable_in_embed": true,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747771495,
@@ -15655,7 +16041,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 26,
-    "concurrent_view_count": 2,
+    "concurrent_view_count": 3,
     "channel": "\u0645\u0635\u0637\u0641\u064a \u0623\u0628\u0648 \u0627\u0644\u0639\u0644\u0627 -\u0643\u0648\u0627\u0644\u064a\u0633",
     "channel_follower_count": 292,
     "uploader": "\u0645\u0635\u0637\u0641\u064a \u0623\u0628\u0648 \u0627\u0644\u0639\u0644\u0627 -\u0643\u0648\u0627\u0644\u064a\u0633",
@@ -15679,7 +16065,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791980,
+    "epoch": 1747791991,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -15688,7 +16074,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S49": {
+  "S50": {
     "id": "vpyNlkRSLRs",
     "title": "LIVE\u3163Study With Me\u316312hours\u23f0\u3163\ud83c\udf27 rain & thunder sounds\u3163Pomodoro: 60/10\u3163Study\u3163Work\u3163Learning a language\u3163 2025-05-21 01:46",
     "formats": [],
@@ -16031,7 +16417,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791981,
+    "epoch": 1747791991,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -16040,7 +16426,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S50": {
+  "S51": {
     "id": "ddgbADnkebE",
     "title": "\ud83c\udf80 STUDY WITH ME \ud83c\udf80 | CPA \ud68c\uc2dc\uc0dd | 2025.05.20. D - 2\ufe0f\u20e37\ufe0f\u20e38\ufe0f\u20e3 | Real Sound\u27b0 2025-05-21 01:46",
     "formats": [],
@@ -16293,7 +16679,7 @@
       "Entertainment"
     ],
     "tags": [],
-    "playable_in_embed": null,
+    "playable_in_embed": false,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747786533,
@@ -16348,7 +16734,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791982,
+    "epoch": 1747791992,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -16357,7 +16743,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S51": {
+  "S52": {
     "id": "NTVbK9qO-XQ",
     "title": "WAKE UP EARLY AND STUDY WITH ME | 5:15-6:45 AM | 90 minutes undisturbed Daily study \ud83d\udd25#live 2025-05-21 01:46",
     "formats": [],
@@ -16610,7 +16996,7 @@
       "People & Blogs"
     ],
     "tags": [],
-    "playable_in_embed": null,
+    "playable_in_embed": true,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747790017,
@@ -16641,7 +17027,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 1,
-    "concurrent_view_count": 1,
+    "concurrent_view_count": 3,
     "channel": "MedMukul",
     "channel_follower_count": 244,
     "uploader": "MedMukul",
@@ -16665,7 +17051,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791983,
+    "epoch": 1747791993,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -16674,7 +17060,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S52": {
+  "S53": {
     "id": "yOFY2Ant1Yk",
     "title": "study with me live 25. 5. 21 | \ube57\uc18c\ub9ac \ucc9c\ub465\uc8fc\uc758\u26c8\ufe0f\u26a1| \uc624\ub298\ub3c4 \ud30c\uc774\ud305\u2764\ufe0f\ud83d\udd25 2025-05-21 01:46",
     "formats": [],
@@ -16922,7 +17308,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": null,
+    "playable_in_embed": false,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747788455,
@@ -16977,7 +17363,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791984,
+    "epoch": 1747791993,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -16986,7 +17372,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S53": {
+  "S54": {
     "id": "nyueEMAlvL4",
     "title": "Study with me live |2025-05-20CAT|MCAT Day 34 2025-05-21 01:46",
     "formats": [],
@@ -17294,7 +17680,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791984,
+    "epoch": 1747791994,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -17303,7 +17689,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S54": {
+  "S55": {
     "id": "PUnSRmoOhGI",
     "title": "LIVE \ud83d\udccd Study With Me \u2013 \u0627\u062f\u0631\u0633 \u0645\u0639\u064a 12 \u0633\u0627\u0639\u0629 \u0628\u0646\u0638\u0627\u0645 \u0628\u0648\u0645\u0648\u062f\u0648\u0631\u0648 | 60/10 \ud83e\ude77\ud83d\udcdd 2025-05-21 01:46",
     "formats": [],
@@ -17551,7 +17937,7 @@
       "Entertainment"
     ],
     "tags": [],
-    "playable_in_embed": null,
+    "playable_in_embed": false,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747783686,
@@ -17606,7 +17992,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791985,
+    "epoch": 1747791995,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -17615,7 +18001,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S55": {
+  "S56": {
     "id": "-Y9-8z4xrb4",
     "title": "\ud83d\udd34Study With Me live | Pomodoro | CGL | NEET | JEE #studywithme #live #studywithmelive 2025-05-21 01:46",
     "formats": [],
@@ -17894,7 +18280,7 @@
       "study with music",
       "study with me india"
     ],
-    "playable_in_embed": null,
+    "playable_in_embed": true,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747758196,
@@ -17949,7 +18335,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791986,
+    "epoch": 1747791996,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -17958,7 +18344,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S56": {
+  "S57": {
     "id": "hG7NCZU4XjQ",
     "title": "LIVE | Study for UPSC CSE with me | 9+hrs  (50/10) | no mic BUT chat during breaks 2025-05-21 01:46",
     "formats": [],
@@ -18211,7 +18597,7 @@
       "Education"
     ],
     "tags": [],
-    "playable_in_embed": null,
+    "playable_in_embed": true,
     "live_status": "is_live",
     "media_type": "livestream",
     "release_timestamp": 1747754961,
@@ -18266,7 +18652,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791987,
+    "epoch": 1747791996,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -18275,7 +18661,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S57": {
+  "S58": {
     "id": "uffXhmcIHvc",
     "title": "\u3010study with me\u3011Live 12:00\u9803\u307e\u3067 \uff085\u670821\u65e5\uff09\u3010\u52c9\u5f37\u914d\u4fe1\u3011 2025-05-21 01:46",
     "formats": [],
@@ -18580,321 +18966,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791987,
-    "_type": "video",
-    "_version": {
-      "version": "2025.04.30",
-      "current_git_head": null,
-      "release_git_head": "505b400795af557bdcfd9d4fa7e9133b26ef431c",
-      "repository": "yt-dlp/yt-dlp"
-    }
-  },
-  "S58": {
-    "id": "DeC6Q6hqc2U",
-    "title": "study with me | Live Study | pomodoro 50/10| Junayed chisty | HSC |College Student Bangladesh 2025-05-21 01:46",
-    "formats": [],
-    "thumbnails": [
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/3_live.jpg",
-        "preference": -37,
-        "id": "0"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/3_live.webp",
-        "preference": -36,
-        "id": "1"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/2_live.jpg",
-        "preference": -35,
-        "id": "2"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/2_live.webp",
-        "preference": -34,
-        "id": "3"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/1_live.jpg",
-        "preference": -33,
-        "id": "4"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/1_live.webp",
-        "preference": -32,
-        "id": "5"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/mq3_live.jpg",
-        "preference": -31,
-        "id": "6"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/mq3_live.webp",
-        "preference": -30,
-        "id": "7"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/mq2_live.jpg",
-        "preference": -29,
-        "id": "8"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/mq2_live.webp",
-        "preference": -28,
-        "id": "9"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/mq1_live.jpg",
-        "preference": -27,
-        "id": "10"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/mq1_live.webp",
-        "preference": -26,
-        "id": "11"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hq3_live.jpg",
-        "preference": -25,
-        "id": "12"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/hq3_live.webp",
-        "preference": -24,
-        "id": "13"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hq2_live.jpg",
-        "preference": -23,
-        "id": "14"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/hq2_live.webp",
-        "preference": -22,
-        "id": "15"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hq1_live.jpg",
-        "preference": -21,
-        "id": "16"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/hq1_live.webp",
-        "preference": -20,
-        "id": "17"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/sd3_live.jpg",
-        "preference": -19,
-        "id": "18"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/sd3_live.webp",
-        "preference": -18,
-        "id": "19"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/sd2_live.jpg",
-        "preference": -17,
-        "id": "20"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/sd2_live.webp",
-        "preference": -16,
-        "id": "21"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/sd1_live.jpg",
-        "preference": -15,
-        "id": "22"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/sd1_live.webp",
-        "preference": -14,
-        "id": "23"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/default_live.jpg",
-        "preference": -13,
-        "id": "24"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/default_live.webp",
-        "preference": -12,
-        "id": "25"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/mqdefault_live.jpg",
-        "preference": -11,
-        "id": "26"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/mqdefault_live.webp",
-        "preference": -10,
-        "id": "27"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/0_live.jpg",
-        "preference": -9,
-        "id": "28"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/0_live.webp",
-        "preference": -8,
-        "id": "29"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault_live.jpg",
-        "preference": -7,
-        "id": "30"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault.jpg?v=682d156e&sqp=CJzgtMEG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAajPua4QalbzvlihaTSSyVJh20hA",
-        "height": 94,
-        "width": 168,
-        "preference": -7,
-        "id": "31",
-        "resolution": "168x94"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault.jpg?v=682d156e&sqp=CJzgtMEG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxMJCfEGrc1YQnxJcX8HhkgWTwyg",
-        "height": 110,
-        "width": 196,
-        "preference": -7,
-        "id": "32",
-        "resolution": "196x110"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault.jpg?v=682d156e&sqp=CJzgtMEG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4fdH8jU5ffO2gLRCf7Xlam-WWkQ",
-        "height": 138,
-        "width": 246,
-        "preference": -7,
-        "id": "33",
-        "resolution": "246x138"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault.jpg?v=682d156e&sqp=CJzgtMEG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrS1BkXBKs6cih7Nt3xN1Ta-xB4A",
-        "height": 188,
-        "width": 336,
-        "preference": -7,
-        "id": "34",
-        "resolution": "336x188"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault.jpg?v=682d156e",
-        "height": 360,
-        "width": 480,
-        "preference": -7,
-        "id": "35",
-        "resolution": "480x360"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/hqdefault_live.webp",
-        "preference": -6,
-        "id": "36"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/sddefault_live.jpg",
-        "preference": -5,
-        "id": "37"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/sddefault_live.webp",
-        "preference": -4,
-        "id": "38"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hq720_live.jpg",
-        "preference": -3,
-        "id": "39"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/hq720_live.webp",
-        "preference": -2,
-        "id": "40"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/DeC6Q6hqc2U/maxresdefault_live.jpg",
-        "preference": -1,
-        "id": "41"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/DeC6Q6hqc2U/maxresdefault_live.webp",
-        "preference": 0,
-        "id": "42"
-      }
-    ],
-    "thumbnail": "https://i.ytimg.com/vi/DeC6Q6hqc2U/hqdefault.jpg?v=682d156e",
-    "description": "telegram group https://t.me/+BJFkbtMasXA2MzQ1\nLet\u2019s study together! - https://link.yeolpumta.com/P3R5cGU9eXB0SW52aXRlJmlkPTA=\nStudy with me in beautiful Glasgow!\nI hope this study video helps you avoid using social media while you study. You will find a quiet and cosy study room ambience in this video when studying at your home. Hopefully, this will get you motivated more to study. You might hear the rain, birds, typing sounds and the flipping of pages (and cars too, unfortunately) from time to time, and I hope that helps you know that I'm there studying with you!\n\nWhat are you studying and where are you joining from? I also wonder what type of videos you like, study at the library or study at home? Your opinions are quite important to me; and, if you let me know what type of videos you like to watch, I would be happy. \n\nFrequently asked questions: \n\n\nStudy method today: 50 min study/10 min break \n\nChat rules:\nBeing nice and respectful is mandatory!\nSpamming, harassment, trolling, bullying, repeating, and all capital messages are definitely prohibited!\nPlease feel encouraged to write in English so no one would feel excluded in the chat :)\nPlease check YouTube's Community Guidelines\n\nPenalties:\n1) Warning\n2) Time out for 300 seconds\n3) Ban\nDepending on the gravity of the violation, the said steps may not be followed in the given order.\n\nThe description contains affiliate links which means I receive a small commission on a purchase without additional cost to you, if you buy something through my links. Thank you for supporting the channel!\n\n#Studywithmebangladesh #hsc2025 #collegestudent #hscdhakaboard #studywithme #livestudy #rainsoundstudy \n#studywithmerve #studyathome #realtimestudysessionv\n\n#studywithme\n\n#liveclass\n\n#foryou\n\n#fyp\n\n#studytok\n\n#motivation\n\n#focusmode#studywithme\n\n#liveclass\n\n#foryou\n\n#fyp\n\n#studytok\n\n#motivation\n\n#focusmode",
-    "channel_id": "UC5YI8GBRNiunWyU5PqVsMbw",
-    "channel_url": "https://www.youtube.com/channel/UC5YI8GBRNiunWyU5PqVsMbw",
-    "view_count": 24,
-    "average_rating": null,
-    "age_limit": 0,
-    "webpage_url": "https://www.youtube.com/watch?v=DeC6Q6hqc2U",
-    "categories": [
-      "Education"
-    ],
-    "tags": [
-      "#studylive #livestudy #studyblog"
-    ],
-    "playable_in_embed": true,
-    "live_status": "is_live",
-    "media_type": "livestream",
-    "release_timestamp": 1747785374,
-    "_format_sort_fields": [
-      "quality",
-      "res",
-      "fps",
-      "hdr:12",
-      "source",
-      "vcodec",
-      "channels",
-      "acodec",
-      "lang",
-      "proto"
-    ],
-    "automatic_captions": {},
-    "subtitles": {
-      "live_chat": [
-        {
-          "url": "https://www.youtube.com/watch?v=DeC6Q6hqc2U&bpctr=9999999999&has_verified=1",
-          "video_id": "DeC6Q6hqc2U",
-          "ext": "json",
-          "protocol": "youtube_live_chat"
-        }
-      ]
-    },
-    "comment_count": null,
-    "chapters": null,
-    "heatmap": null,
-    "like_count": 4,
-    "concurrent_view_count": 1,
-    "channel": "Junayed Bro",
-    "channel_follower_count": 2470,
-    "uploader": "Junayed Bro",
-    "uploader_id": "@Junayedbro-Alif",
-    "uploader_url": "https://www.youtube.com/@Junayedbro-Alif",
-    "upload_date": "20250520",
-    "timestamp": 1747785069,
-    "availability": "public",
-    "original_url": "https://www.youtube.com/watch?v=DeC6Q6hqc2U",
-    "webpage_url_basename": "watch",
-    "webpage_url_domain": "youtube.com",
-    "extractor": "youtube",
-    "extractor_key": "Youtube",
-    "playlist": null,
-    "playlist_index": null,
-    "display_id": "DeC6Q6hqc2U",
-    "fulltitle": "study with me | Live Study | pomodoro 50/10| Junayed chisty | HSC |College Student Bangladesh",
-    "release_date": "20250520",
-    "release_year": 2025,
-    "is_live": true,
-    "was_live": false,
-    "requested_subtitles": null,
-    "_has_drm": null,
-    "epoch": 1747791988,
+    "epoch": 1747791997,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -18904,323 +18976,6 @@
     }
   },
   "S59": {
-    "id": "79AHSGR3rIQ",
-    "title": "study with me 2025-05-21 01:46",
-    "formats": [],
-    "thumbnails": [
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/3_live.jpg",
-        "preference": -37,
-        "id": "0"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/3_live.webp",
-        "preference": -36,
-        "id": "1"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/2_live.jpg",
-        "preference": -35,
-        "id": "2"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/2_live.webp",
-        "preference": -34,
-        "id": "3"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/1_live.jpg",
-        "preference": -33,
-        "id": "4"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/1_live.webp",
-        "preference": -32,
-        "id": "5"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/mq3_live.jpg",
-        "preference": -31,
-        "id": "6"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/mq3_live.webp",
-        "preference": -30,
-        "id": "7"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/mq2_live.jpg",
-        "preference": -29,
-        "id": "8"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/mq2_live.webp",
-        "preference": -28,
-        "id": "9"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/mq1_live.jpg",
-        "preference": -27,
-        "id": "10"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/mq1_live.webp",
-        "preference": -26,
-        "id": "11"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hq3_live.jpg",
-        "preference": -25,
-        "id": "12"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/hq3_live.webp",
-        "preference": -24,
-        "id": "13"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hq2_live.jpg",
-        "preference": -23,
-        "id": "14"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/hq2_live.webp",
-        "preference": -22,
-        "id": "15"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hq1_live.jpg",
-        "preference": -21,
-        "id": "16"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/hq1_live.webp",
-        "preference": -20,
-        "id": "17"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/sd3_live.jpg",
-        "preference": -19,
-        "id": "18"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/sd3_live.webp",
-        "preference": -18,
-        "id": "19"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/sd2_live.jpg",
-        "preference": -17,
-        "id": "20"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/sd2_live.webp",
-        "preference": -16,
-        "id": "21"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/sd1_live.jpg",
-        "preference": -15,
-        "id": "22"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/sd1_live.webp",
-        "preference": -14,
-        "id": "23"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/default_live.jpg",
-        "preference": -13,
-        "id": "24"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/default_live.webp",
-        "preference": -12,
-        "id": "25"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/mqdefault_live.jpg",
-        "preference": -11,
-        "id": "26"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/mqdefault_live.webp",
-        "preference": -10,
-        "id": "27"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/0_live.jpg",
-        "preference": -9,
-        "id": "28"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/0_live.webp",
-        "preference": -8,
-        "id": "29"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hqdefault_live.jpg",
-        "preference": -7,
-        "id": "30"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hqdefault.jpg?v=9&sqp=CJzgtMEG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYiMzFqL2l8j2gNAWijZieTP4ALQ",
-        "height": 94,
-        "width": 168,
-        "preference": -7,
-        "id": "31",
-        "resolution": "168x94"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hqdefault.jpg?v=9&sqp=CJzgtMEG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBewcTdXxak4-gEjAfC4FtS8WsorQ",
-        "height": 110,
-        "width": 196,
-        "preference": -7,
-        "id": "32",
-        "resolution": "196x110"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hqdefault.jpg?v=9&sqp=CJzgtMEG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2YSQP8Iz8xb66q68VIMJupkSO0A",
-        "height": 138,
-        "width": 246,
-        "preference": -7,
-        "id": "33",
-        "resolution": "246x138"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hqdefault.jpg?v=9&sqp=CJzgtMEG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI0UIWF1E-uMQTrALDgbKeg3R0EA",
-        "height": 188,
-        "width": 336,
-        "preference": -7,
-        "id": "34",
-        "resolution": "336x188"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/hqdefault_live.webp",
-        "preference": -6,
-        "id": "35"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/sddefault_live.jpg",
-        "preference": -5,
-        "id": "36"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/sddefault_live.webp",
-        "preference": -4,
-        "id": "37"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/hq720_live.jpg",
-        "preference": -3,
-        "id": "38"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/hq720_live.webp",
-        "preference": -2,
-        "id": "39"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/maxresdefault.jpg?v=9",
-        "preference": -1,
-        "id": "40"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/maxresdefault_live.jpg",
-        "preference": -1,
-        "id": "41"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/79AHSGR3rIQ/maxresdefault.jpg",
-        "height": 1080,
-        "width": 1920,
-        "preference": -1,
-        "id": "42",
-        "resolution": "1920x1080"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/79AHSGR3rIQ/maxresdefault_live.webp",
-        "preference": 0,
-        "id": "43"
-      }
-    ],
-    "thumbnail": "https://i.ytimg.com/vi/79AHSGR3rIQ/maxresdefault.jpg",
-    "description": "\u6bce\u65e5\u914d\u4fe1\u3057\u3066\u3044\u308b\u5b66\u751f\u3067\u3059\uff01\n\u4e00\u7dd2\u306b\u52c9\u5f37\u9811\u5f35\u308a\u307e\u3057\u3087\u3046\uff01\n\nBGM\u306f\u81ea\u7136\u97f3\u3067\u3059\n\u4e0b\u306e\u30dd\u30e2\u30c9\u30fc\u30ed\u30bf\u30a4\u30de\u30fc\u306f50/10\u3067\u3059\n\n\n#studywithme #\u4e00\u7dd2\u306b\u52c9\u5f37\u3057\u3088\u3046",
-    "channel_id": "UCTFI4-3I5Al18YNq394l9Sw",
-    "channel_url": "https://www.youtube.com/channel/UCTFI4-3I5Al18YNq394l9Sw",
-    "view_count": 8,
-    "average_rating": null,
-    "age_limit": 0,
-    "webpage_url": "https://www.youtube.com/watch?v=79AHSGR3rIQ",
-    "categories": [
-      "Education"
-    ],
-    "tags": [],
-    "playable_in_embed": null,
-    "live_status": "is_live",
-    "media_type": "livestream",
-    "release_timestamp": 1747789393,
-    "_format_sort_fields": [
-      "quality",
-      "res",
-      "fps",
-      "hdr:12",
-      "source",
-      "vcodec",
-      "channels",
-      "acodec",
-      "lang",
-      "proto"
-    ],
-    "automatic_captions": {},
-    "subtitles": {
-      "live_chat": [
-        {
-          "url": "https://www.youtube.com/watch?v=79AHSGR3rIQ&bpctr=9999999999&has_verified=1",
-          "video_id": "79AHSGR3rIQ",
-          "ext": "json",
-          "protocol": "youtube_live_chat"
-        }
-      ]
-    },
-    "comment_count": null,
-    "chapters": null,
-    "heatmap": null,
-    "like_count": 0,
-    "concurrent_view_count": 3,
-    "channel": "\u51e1\u4eba",
-    "channel_follower_count": 185,
-    "uploader": "\u51e1\u4eba",
-    "uploader_id": "@\u51e1\u4eba-w2n",
-    "uploader_url": "https://www.youtube.com/@\u51e1\u4eba-w2n",
-    "upload_date": "20250521",
-    "timestamp": 1747789376,
-    "availability": "public",
-    "original_url": "https://www.youtube.com/watch?v=79AHSGR3rIQ",
-    "webpage_url_basename": "watch",
-    "webpage_url_domain": "youtube.com",
-    "extractor": "youtube",
-    "extractor_key": "Youtube",
-    "playlist": null,
-    "playlist_index": null,
-    "display_id": "79AHSGR3rIQ",
-    "fulltitle": "study with me",
-    "release_date": "20250521",
-    "release_year": 2025,
-    "is_live": true,
-    "was_live": false,
-    "requested_subtitles": null,
-    "_has_drm": null,
-    "epoch": 1747791989,
-    "_type": "video",
-    "_version": {
-      "version": "2025.04.30",
-      "current_git_head": null,
-      "release_git_head": "505b400795af557bdcfd9d4fa7e9133b26ef431c",
-      "repository": "yt-dlp/yt-dlp"
-    }
-  },
-  "S60": {
     "id": "T0tL-nsqX-Y",
     "title": "Study With Me!! Live for NEET 2026 \ud83d\udd34 | Silent Study Session | Join & Grind 2025-05-21 01:46",
     "formats": [],
@@ -19465,7 +19220,7 @@
     "description": "\"\ud83d\udcda Welcome to Rise & Study ,Your Ultimate Study Companion!  \n\n\ud83c\udf1f Join our virtual study room, where motivation meets productivity, and success is a collective journey.  \n\n\ud83c\udf93 What to Expect:  \n\n\ud83d\ude80 Live Study Sessions: Immerse yourself in focused study sessions, designed to keep distractions at bay and boost your productivity. Get your burning study questions answered live, and participate in interactive discussions with fellow learners.  \n\n\u23f0 Timings:\n\n\ud83d\udca1 Study Tips and Tricks: Explore effective study techniques, time management strategies, and hacks to enhance your learning experience.  \n\n\ud83c\udf10 Study Community: Connect with a global community of learners, share your goals, and support each other on your academic journeys.  \n\n\ud83d\udd25 Motivational Breaks: Take rejuvenating breaks with motivational content, quotes, and challenges to keep your spirits high.  \n\n\ud83c\udfc6 Goal Setting: Achieve your academic goals with our goal-setting sessions and progress tracking tips.\n\n\ud83c\udf08 Ready to elevate your study game? Hit that subscribe button, join our study community, and let's conquer academic challenges together. \ud83d\ude80\u2728\"\n  \nBoard exam tips \nlast days for boards\nclass 12th board exam tips \nclass 10th board exam tips \nRevision kaise kare \nPre Boards exam \nLive study with me \nBoard Exam motivation \nMotivation for exam\nMotivation for study \nClass 10th board exam Motivation \nClass 12th board exam Motivation \nStudy with me \nMotivation for study \nStudy motivation \nMotivation video \nMotivation \n#boardexam \n#class10exam\n#class12th\nLive motivation \nStudy with me\nstudy with me live stream\nstudy with me live\nstudy with me live india\nstudy with me live pomodoro\nstudy with me live now\nstudy live with me\nstudy with me live neet\nstudy with me live iit\nindia study with me\nstudy with me lofi music\nstudy with me music\nstudy with me live neet ug\nreal time study with me\nstudy with me real time\nstudy with me motivation\nstudy with me vlog\nstudy with me in hindi\nstudy with me indian\nstudy live stream india\nstudy with me ca\nstudy live stream\nstudy with me live neet student\nyoutube live study\nstudy with me neet\nstudy with me pomodoro\nstudy with me 12 hours\nstudy with me jee\nstudy with me india live\nneet study with me\nstudy with me live korean\nstudy with me night\nstudy with me live stream now\nstudy with me upsc\nstudy with me gate\nstudy with me ssc\nstudy with me ssc\nlive study with me\nstudy with me board\nlive neet study\njee main admission\nneet 2025 latest news\nneet 2025 admit card\nstudy with me livestream\npomodoro timer\npomodoro technique\npomodoro live\nneet 2025\njee 2025\nlive pomodoro\nChallenge \ud83c\udfaf\nneet live\njeel live\niit live\nstudy vlog\nphysics wallah\nlive study in india \nstudy with me now\nindia study live\na day in the life of a neet aspirant\naiims delhi\nstudy with me live india neet\nindia pomodoro\nlive study now\nindia live study neet\nstudy live\nneet preparation in hindi\ntest \nlive\nexam\nneet study live\nstudy with me vlog\nlive study\ntest seriesstudy with me live\nlive stream studying\nstudy vibes live stream\nstudy with me in real-time\nstudy with me live\nstudy with me live India\nreal time study session\nstudy with me pomodoro\npomodoro study with me\npomodoro technique\nstudy music 24/7\nstudy with live board\njee 2025 dates\nNeet 2025 dates\nstudy with me ssc\nstudt with me\nstudy with me ssc\nlive study with me\nstudy with me ssc\nlive neet study\njee main admission\nstudy with me livestream\npomodoro timer\nmotivation for board exam \nboard exam motivation \n10th board exam motivation\n12th exam motivation\nmotivaton for 12th exam\nmotivation for 10 exam \nlive motivation for 10 exam \nlive motivation for 12 exam \n#iitjee #neet #studylive #anojpawar #prayas2025 #yakeen2025 #motivation \n#neet2025 #jee2025 #mhtcet #boards2025 #cbse #hscboard #mhtcet2025 \n#studywithmepomodoro #livestudywithme #Studylivewithme #Studywithmelivestream#studywithme #studywithmenomusic #studywithmelivepomodoro12hours #pomodorostudywithme #studywithme #study#Livestudygroup #livestudy #studylive #realtimestudywithme #studyalongwithme #morningStudy #Consistency #motivation #energy\n#Study\n#MedStudent #studybuddy #NCERT\n#Studywithme #thestrivestudies\n#NEET #AIIMS  #JEE #UPSC #BOARDS #CA\n#studywithmelive #NDA #unacademy\n#studywithmepomodoro\n#studywithmeindian #jamesscholz\n#studywithme5hours #studyvibes\n#studywithmelivestream #arihoresh\n#studywithmewithmusic #serra\n#studywithmeindia\n#yakeenbatch #livestreams \n#studywithmeneetaspirant\n #NEETaspirant #studyvlog #onlineclass\n#selfstudy #motivation #focus #motivationvideo\n#studywithmelivestream #physicswallah #arvindarora\n#studywithmewithmusic #letscrackit #amandhattarwal\n#studywithmeindia #NEET2025 #staymotivated\n#latenightstudy #howtofocus #yakeenian #biomentors\n #sankapbharatlivestudy",
     "channel_id": "UCbwCjPg28mpMtWPtW6zx0MQ",
     "channel_url": "https://www.youtube.com/channel/UCbwCjPg28mpMtWPtW6zx0MQ",
-    "view_count": 7,
+    "view_count": 8,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=T0tL-nsqX-Y",
@@ -19528,7 +19283,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791990,
+    "epoch": 1747791998,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -19537,7 +19292,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S61": {
+  "S60": {
     "id": "0fK_6Cftj-o",
     "title": "JEE Drop Year Study Stream with brown noise sumliminals #study #studywithme #live #jeelivedaily 2025-05-21 01:46",
     "formats": [],
@@ -19833,7 +19588,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791990,
+    "epoch": 1747791998,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -19842,7 +19597,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S62": {
+  "S61": {
     "id": "IYhPfKSuiDU",
     "title": "Study with me Live\ud83d\udd34day 2  | \ud83d\udcd6session for | NEET | JEE | UPSC | 10th  | 12th | SSC  Pomodoro\u23f1\ufe0f#neet 2025-05-21 01:46",
     "formats": [],
@@ -20126,7 +19881,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 29,
-    "concurrent_view_count": 2,
+    "concurrent_view_count": 3,
     "channel": "Nagesh gaud live ",
     "channel_follower_count": 1630,
     "uploader": "Nagesh gaud live ",
@@ -20150,7 +19905,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791991,
+    "epoch": 1747791999,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -20159,7 +19914,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S63": {
+  "S62": {
     "id": "uGMSiGFc4yc",
     "title": "Study with me \ud83d\udd25 50/10 Pomodoro \ud83c\udf0a 24/7 bonfire & waves sounds 2025-05-21 01:46",
     "formats": [],
@@ -20470,7 +20225,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791992,
+    "epoch": 1747792000,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -20479,7 +20234,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S64": {
+  "S63": {
     "id": "mMr7Yn_3enY",
     "title": "\u2615 STUDY WITH ME | tokyo night cafe | pomodoro timer 25 / 5 2025-05-21 01:46",
     "formats": [],
@@ -20787,7 +20542,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791993,
+    "epoch": 1747792001,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -20796,7 +20551,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S65": {
+  "S64": {
     "id": "7paO9t1KFU4",
     "title": "Study With Me | Live | 11th grader | Day 11/75| Neet | Medical 2025-05-21 01:46",
     "formats": [],
@@ -21104,7 +20859,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791994,
+    "epoch": 1747792002,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -21113,7 +20868,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S66": {
+  "S65": {
     "id": "hUobUE1xYF8",
     "title": "study with me \ub77c\uc774\ube0c \ubc29\uc1a1 2025-05-21 01:46",
     "formats": [],
@@ -21416,7 +21171,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791995,
+    "epoch": 1747792002,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -21425,7 +21180,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S67": {
+  "S66": {
     "id": "f-OI7hqs9dY",
     "title": "Study with me - quran lofi - no noise - \u0630\u0627\u0643\u0631 \u0645\u0639\u064a - \u0628\u062f\u0648\u0646 \u0636\u062c\u064a\u062c - \u0642\u0631\u0627\u0646 \u0641\u0642\u0637 2025-05-21 01:46",
     "formats": [],
@@ -21734,7 +21489,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791995,
+    "epoch": 1747792003,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -21743,7 +21498,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S68": {
+  "S67": {
     "id": "m7qbe1IZ1Qo",
     "title": "Study with me (3 am ) morning study 2025-05-21 01:46",
     "formats": [],
@@ -22051,7 +21806,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791996,
+    "epoch": 1747792003,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -22060,7 +21815,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S69": {
+  "S68": {
     "id": "pO7T9d-1Zps",
     "title": "\ud83d\udcd5 STUDY WITH ME | 45/15 Finish What You Start / \u0423\u0427\u0418\u041c\u0421\u042f \u0412\u041c\u0415\u0421\u0422\u0415 | 45/15 \u0414\u043e\u0432\u043e\u0434\u0438 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \ud83d\udccc\ud83e\udde0 2025-05-21 01:46",
     "formats": [],
@@ -22393,7 +22148,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791997,
+    "epoch": 1747792004,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -22402,319 +22157,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S70": {
-    "id": "chPyU8j3ktM",
-    "title": "5 Hour Study with me\ud83d\udcda\ud83d\udcaf\u2705SSC CGL 2025|| UPSC motivation #upsc #pcs #ssc #neet #exam #studyvibes 2025-05-21 01:46",
-    "formats": [],
-    "thumbnails": [
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/3_live.jpg",
-        "preference": -37,
-        "id": "0"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/3_live.webp",
-        "preference": -36,
-        "id": "1"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/2_live.jpg",
-        "preference": -35,
-        "id": "2"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/2_live.webp",
-        "preference": -34,
-        "id": "3"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/1_live.jpg",
-        "preference": -33,
-        "id": "4"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/1_live.webp",
-        "preference": -32,
-        "id": "5"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/mq3_live.jpg",
-        "preference": -31,
-        "id": "6"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/mq3_live.webp",
-        "preference": -30,
-        "id": "7"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/mq2_live.jpg",
-        "preference": -29,
-        "id": "8"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/mq2_live.webp",
-        "preference": -28,
-        "id": "9"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/mq1_live.jpg",
-        "preference": -27,
-        "id": "10"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/mq1_live.webp",
-        "preference": -26,
-        "id": "11"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hq3_live.jpg",
-        "preference": -25,
-        "id": "12"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/hq3_live.webp",
-        "preference": -24,
-        "id": "13"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hq2_live.jpg",
-        "preference": -23,
-        "id": "14"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/hq2_live.webp",
-        "preference": -22,
-        "id": "15"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hq1_live.jpg",
-        "preference": -21,
-        "id": "16"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/hq1_live.webp",
-        "preference": -20,
-        "id": "17"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/sd3_live.jpg",
-        "preference": -19,
-        "id": "18"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/sd3_live.webp",
-        "preference": -18,
-        "id": "19"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/sd2_live.jpg",
-        "preference": -17,
-        "id": "20"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/sd2_live.webp",
-        "preference": -16,
-        "id": "21"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/sd1_live.jpg",
-        "preference": -15,
-        "id": "22"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/sd1_live.webp",
-        "preference": -14,
-        "id": "23"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/default_live.jpg",
-        "preference": -13,
-        "id": "24"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/default_live.webp",
-        "preference": -12,
-        "id": "25"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/mqdefault_live.jpg",
-        "preference": -11,
-        "id": "26"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/mqdefault_live.webp",
-        "preference": -10,
-        "id": "27"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/0_live.jpg",
-        "preference": -9,
-        "id": "28"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/0_live.webp",
-        "preference": -8,
-        "id": "29"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault_live.jpg",
-        "preference": -7,
-        "id": "30"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault.jpg?v=682c9b18&sqp=CJzgtMEG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0tYh97EVyTghEy94jNKKsmWwe9w",
-        "height": 94,
-        "width": 168,
-        "preference": -7,
-        "id": "31",
-        "resolution": "168x94"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault.jpg?v=682c9b18&sqp=CJzgtMEG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCopYeykIokpPYgXpmT6YW2Z0P91g",
-        "height": 110,
-        "width": 196,
-        "preference": -7,
-        "id": "32",
-        "resolution": "196x110"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault.jpg?v=682c9b18&sqp=CJzgtMEG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmA5cp_0O2B4shkqn2xcNPpZ2V6Q",
-        "height": 138,
-        "width": 246,
-        "preference": -7,
-        "id": "33",
-        "resolution": "246x138"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault.jpg?v=682c9b18&sqp=CJzgtMEG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB-60apEJ4rG3b57JJGJwH3yFSBw",
-        "height": 188,
-        "width": 336,
-        "preference": -7,
-        "id": "34",
-        "resolution": "336x188"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault.jpg?v=682c9b18",
-        "height": 360,
-        "width": 480,
-        "preference": -7,
-        "id": "35",
-        "resolution": "480x360"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/hqdefault_live.webp",
-        "preference": -6,
-        "id": "36"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/sddefault_live.jpg",
-        "preference": -5,
-        "id": "37"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/sddefault_live.webp",
-        "preference": -4,
-        "id": "38"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/hq720_live.jpg",
-        "preference": -3,
-        "id": "39"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/hq720_live.webp",
-        "preference": -2,
-        "id": "40"
-      },
-      {
-        "url": "https://i.ytimg.com/vi/chPyU8j3ktM/maxresdefault_live.jpg",
-        "preference": -1,
-        "id": "41"
-      },
-      {
-        "url": "https://i.ytimg.com/vi_webp/chPyU8j3ktM/maxresdefault_live.webp",
-        "preference": 0,
-        "id": "42"
-      }
-    ],
-    "thumbnail": "https://i.ytimg.com/vi/chPyU8j3ktM/hqdefault.jpg?v=682c9b18",
-    "description": "5 Hour Study with me\ud83d\udcda\ud83d\udcaf\u2705SSC CGL 2025|| UPSC motivation #upsc #pcs #ssc #neet #exam #studyvibes\n\nWhy streaming ?\ud83e\udd14\n- To record the journey \u263a\ufe0f\n- To inspire people \ud83d\udcab\n- To make few friends \u2728\n- To prove to myself that I can study as well \u2764\ufe0f\u200d\ud83e\ude79 \n\nI Truly appreciate all your support and understanding during this period. Your encouragement has been a huge part of my study routine and I hope you continue to Join me in these sessions as we all work towards our goals..\nThank you for your support and understanding.\nLet's stay focused and keep pushing forward together \ud83e\udef0 \n\n\u2728 Wanna Support me\ud83e\udef8\ud83e\udef7\n\nYoutube https://youtube.com/@Success2.0pp?si=KkFpW_Zmm65s5__a\n\n\nLive study with me, Library, Library study, Realtime, Study motivation, Pomodoro, Live, Aspirants, Motivation, Motivation for exam, Motivation for study, Study motivation, Motivation video, Live motivation, Study with Me live stream, Study with Me live, Study with me live India, Study with me live pomodoro, Study with me live now, Study with me vlog, Study with me music, Rainfall concentration music, Concentration music, Rainfall music, Study with me real time, Study with me hindi, Real time study, Upsc motivation, Pcs aspirants, Pcs motivation, Pcs aspirants live study, Live stream studying, Real time study session, Explore more, Live stream, studying motivation\n\n#studywithme #stidychannel #latenightstudy #librarystudy #10hour #dailystudy #livestudy\n#studymotivation #ssc #jee #neet #sscaspirant #aspirant #study #studywithme #ssccgl2024 #studywithme4hours #studywithme2hours #studywithme1hour #withoutmusicstudy #promodaro #studywithmechannel #sscchsl #2024target #studychannel #nomusicstudywithme #nomusicstudy #youtubelivestudy #upscstudy #ibpsstudy #studywithme  #livestudy #dailylivestudy\n#studywithme #studymotivation #studyvlog #studymusic #studybroad #studying #studywithmewithmusic #studymotivationvideo #pomodoro #pomodorotechniqe #pomodorostudy #pomodorotimer #pomodorostudywithme #productivity #concentration #exams #exampreparation #alevel #studytips #studygram #onlinestudy #pcs #pcsaspirants #pcsmotivation #carrerwill #prayas2025 #yakeen2025 #studywithmelivestream #studywithmerainfallmusic #studyalongwithme #realtimestudywithme #energy #studywithmeindian #upsc #studyvlogs #onlineclass #focus #selfstudy #studywithmelivestream #letscrackit #staymotivation #howtofocus #upscaspirants #upscmotivation #realtimestudy #library #librarystudy #librarystudent \n\n\n\u2705 Subscribe to my channel and be a part of this journey :)\n\n\u2705 Like \n\u2705 Share\n\u2705 Subscribe \ud83e\udef8\ud83e\udef7",
-    "channel_id": "UCDwOYQL-WagE1G5jtYdKNkw",
-    "channel_url": "https://www.youtube.com/channel/UCDwOYQL-WagE1G5jtYdKNkw",
-    "view_count": 892,
-    "average_rating": null,
-    "age_limit": 0,
-    "webpage_url": "https://www.youtube.com/watch?v=chPyU8j3ktM",
-    "categories": [
-      "People & Blogs"
-    ],
-    "tags": [],
-    "playable_in_embed": true,
-    "live_status": "is_live",
-    "media_type": "livestream",
-    "release_timestamp": 1747753769,
-    "_format_sort_fields": [
-      "quality",
-      "res",
-      "fps",
-      "hdr:12",
-      "source",
-      "vcodec",
-      "channels",
-      "acodec",
-      "lang",
-      "proto"
-    ],
-    "automatic_captions": {},
-    "subtitles": {
-      "live_chat": [
-        {
-          "url": "https://www.youtube.com/watch?v=chPyU8j3ktM&bpctr=9999999999&has_verified=1",
-          "video_id": "chPyU8j3ktM",
-          "ext": "json",
-          "protocol": "youtube_live_chat"
-        }
-      ]
-    },
-    "comment_count": null,
-    "chapters": null,
-    "heatmap": null,
-    "like_count": 8,
-    "concurrent_view_count": 1,
-    "channel": "Success2.0\ud83e\uddff",
-    "channel_follower_count": 22700,
-    "uploader": "Success2.0\ud83e\uddff",
-    "uploader_id": "@Success2.0pp",
-    "uploader_url": "https://www.youtube.com/@Success2.0pp",
-    "upload_date": "20250520",
-    "timestamp": 1747750996,
-    "availability": "public",
-    "original_url": "https://www.youtube.com/watch?v=chPyU8j3ktM",
-    "webpage_url_basename": "watch",
-    "webpage_url_domain": "youtube.com",
-    "extractor": "youtube",
-    "extractor_key": "Youtube",
-    "playlist": null,
-    "playlist_index": null,
-    "display_id": "chPyU8j3ktM",
-    "fulltitle": "5 Hour Study with me\ud83d\udcda\ud83d\udcaf\u2705SSC CGL 2025|| UPSC motivation #upsc #pcs #ssc #neet #exam #studyvibes",
-    "release_date": "20250520",
-    "release_year": 2025,
-    "is_live": true,
-    "was_live": false,
-    "requested_subtitles": null,
-    "_has_drm": null,
-    "epoch": 1747791998,
-    "_type": "video",
-    "_version": {
-      "version": "2025.04.30",
-      "current_git_head": null,
-      "release_git_head": "505b400795af557bdcfd9d4fa7e9133b26ef431c",
-      "repository": "yt-dlp/yt-dlp"
-    }
-  },
-  "S71": {
+  "S69": {
     "id": "93bkl_4mLLU",
     "title": "study with me 90/10, estudia conmigo, parte 2 2025-05-21 01:46",
     "formats": [],
@@ -23022,7 +22465,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747791999,
+    "epoch": 1747792005,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -23031,7 +22474,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S72": {
+  "S70": {
     "id": "tBnKY7EYK1Y",
     "title": "24-HOUR STUDY WITH ME \ud83c\udfb5 Cozy Morning at a Cafe / Calm Lo-Fi / Pomodoro 50/10 [Music ver.] 2025-05-21 01:46",
     "formats": [],
@@ -23362,7 +22805,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792000,
+    "epoch": 1747792006,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -23371,7 +22814,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S73": {
+  "S71": {
     "id": "7ejP6ZcFYkw",
     "title": "\"LIVE Study With Me |Deep Focus + Chill Music | Real-Time Pomodoro Session | Focus & Study Together\" 2025-05-21 01:46",
     "formats": [],
@@ -23679,7 +23122,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792001,
+    "epoch": 1747792006,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -23688,7 +23131,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S74": {
+  "S72": {
     "id": "sELXcRIEuqU",
     "title": "Study with me live\ud83c\udfa5\ud83c\uddee\ud83c\uddf3DAY 1/120|120/20 POMODORO||NEET|JEE preparation\u272815hrs study Every day||1AM\u23f1\ufe0f4AM 2025-05-21 01:46",
     "formats": [],
@@ -23996,7 +23439,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792002,
+    "epoch": 1747792007,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -24005,7 +23448,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S75": {
+  "S73": {
     "id": "FJS9wmzwf44",
     "title": "Study with me 5h \ud83d\udc95yukii 2025-05-21 01:46",
     "formats": [],
@@ -24284,7 +23727,7 @@
     "chapters": null,
     "heatmap": null,
     "like_count": 0,
-    "concurrent_view_count": 2,
+    "concurrent_view_count": 1,
     "channel": "Yuki\ud83d\udda4\ud83c\udf80",
     "channel_follower_count": 45,
     "uploader": "Yuki\ud83d\udda4\ud83c\udf80",
@@ -24308,7 +23751,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792002,
+    "epoch": 1747792008,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -24317,7 +23760,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S76": {
+  "S74": {
     "id": "FS48lN097IA",
     "title": "Study with me | 24/7 Live 2025-05-21 01:46",
     "formats": [],
@@ -24620,7 +24063,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792003,
+    "epoch": 1747792008,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -24629,7 +24072,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S77": {
+  "S75": {
     "id": "f6IgF11WlR4",
     "title": "IRL MARATHON!!! | H-4 \"OSCE\" STUDY WITH US! - free konsul kesehatan #studywithme #marathon 2025-05-21 01:46",
     "formats": [],
@@ -24937,7 +24380,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792004,
+    "epoch": 1747792009,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -24946,7 +24389,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S78": {
+  "S76": {
     "id": "o9HHJ9ykEt0",
     "title": "Study With Me 5 hours \ud83c\udf8b  Countdown Timer | Heavy Rain Sounds | SUBSCRIBE for more Focus timers 2025-05-21 01:46",
     "formats": [],
@@ -25255,7 +24698,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792005,
+    "epoch": 1747792010,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -25264,7 +24707,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S79": {
+  "S77": {
     "id": "TZecMH6Tzhg",
     "title": "Study with me 4 HOURS LIVE | 17/3 method | Day 63 2025-05-21 01:46",
     "formats": [],
@@ -25584,7 +25027,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792005,
+    "epoch": 1747792011,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -25593,7 +25036,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S80": {
+  "S78": {
     "id": "N5NNnXauP5M",
     "title": "Study with Me\ud83c\udf40Chill Lofi Vibes for a Productive Day ~ Relax, Focus, and Achieve 2025-05-21 01:46",
     "formats": [],
@@ -25838,7 +25281,7 @@
     "description": "Join this channel to get exclusive wallpaper access:\nhttps://www.youtube.com/channel/UCUPtXVFrec5nezlgYzjX9eg/join\n\nYT Lofi Beats : https://www.youtube.com/ @ytlofibeats  \n--------------------------------------------\n#lofi #chill #lofimusic \n- - - - - - - - - - - - - - - - - - - - - - - \nYou will listen to some of the best lofi hip hop, chill, jazz songs that will help you relax, study, or unwind and get rid of insomnia and even anxiety. This channel has it all!\n\n\u2192 stress relief, sleep relaxing, deep sleep music\n\u2192 beats for relaxation / learning to / work\n\nWe would be very happy if you like and subscribe to our channel, we would really appreciate it, thank you very much.\n\n\u00a9 Copyright YT Lofi beats",
     "channel_id": "UCUPtXVFrec5nezlgYzjX9eg",
     "channel_url": "https://www.youtube.com/channel/UCUPtXVFrec5nezlgYzjX9eg",
-    "view_count": 53,
+    "view_count": 54,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=N5NNnXauP5M",
@@ -25936,7 +25379,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792006,
+    "epoch": 1747792012,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -25945,7 +25388,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S81": {
+  "S79": {
     "id": "uY7hbd5V2MI",
     "title": "Study with Me \u2013 Relaxing Lofi for Studying 2025-05-21 01:46",
     "formats": [],
@@ -26269,7 +25712,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792007,
+    "epoch": 1747792012,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -26278,7 +25721,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S82": {
+  "S80": {
     "id": "LJhAIreHexk",
     "title": "Estudia/Chismea conmigo | Study With Me | #pomodoro (50|10) #study #studywithme #estudiaconmigo 2025-05-21 01:46",
     "formats": [],
@@ -26523,7 +25966,7 @@
     "description": "Hacemos uso de la t\u00e9cnica pomodoro \ud83c\udf45 con periodos de \u23f2\ufe0f 50 minutos de trabajo/estudio/productividad, en los que puedes realizar alguna actividad en modo de concentraci\u00f3n y despu\u00e9s:\n\n\u23f2\ufe0f 10 o 15 minutos de descanso/break en los que platicamos, chismeamos o jugamos alg\u00fan juego. Si madrugamos los breaks ser\u00e1n de 5 minutos, solo los primeros 4\n\nVeras un temporalizador con el tiempo restante del bloque, adem\u00e1s de ver el bloque actual y el numero de bloques totales de la jornada de trabajo.\n\n-Quieres aprovechar el tiempo y concetrarte te invitamos a acompa\u00f1arnos en el  stream de Study With Me\nhttps://www.twitch.tv/estudiandoenlosvolcanes\n\n-Canal normal para jueguitos:\nhttps://www.twitch.tv/onedrako\n\n-Twittter:\nhttps://twitter.com/OneDrako\n\n-Instagram\nhttps://www.instagram.com/onedrako\n\n-Unete al servidor de discord, sea buena persona dentro de la comunidad.\nhttps://discord.gg/YGZS3rh",
     "channel_id": "UCnG4LaLD2kvDLKDX-kpTRMQ",
     "channel_url": "https://www.youtube.com/channel/UCnG4LaLD2kvDLKDX-kpTRMQ",
-    "view_count": 10,
+    "view_count": 11,
     "average_rating": null,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=LJhAIreHexk",
@@ -26586,7 +26029,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792008,
+    "epoch": 1747792013,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -26595,7 +26038,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S83": {
+  "S81": {
     "id": "rZFPOSc5_H0",
     "title": "Study with Me in the Jungle | River Soundscape Background Focus Ambience 2025-05-21 01:46",
     "formats": [],
@@ -26937,7 +26380,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792009,
+    "epoch": 1747792014,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
@@ -26946,7 +26389,7 @@
       "repository": "yt-dlp/yt-dlp"
     }
   },
-  "S84": {
+  "S82": {
     "id": "J3maTyDhimo",
     "title": "[2025.05.21] \uc2a4\ud130\ub514\uc717\ubbf8\u3163study with me live\u3163\u30b9\u30bf\u30c7\u30a3\u30a6\u30a3\u30ba\u30df\u30fc\u3163 2025-05-21 01:46",
     "formats": [],
@@ -27280,7 +26723,7 @@
     "was_live": false,
     "requested_subtitles": null,
     "_has_drm": null,
-    "epoch": 1747792010,
+    "epoch": 1747792015,
     "_type": "video",
     "_version": {
       "version": "2025.04.30",
