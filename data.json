@@ -99,17 +99,6 @@
     "title": "6.10.TUE [\ubc95\ubb34\uc0ac \uc218\ud5d8\uc0dd] Study with Me in Jeju / \uc7a5\uc791asmr\ud83d\udd25 / 1991 / INFJ / \ub178\ub825\uae30\ub85d / effort / record"
   },
   "S10": {
-    "name": "\ub2e4\uc628 Daon",
-    "url": "https://www.youtube.com/watch?v=fn0aVLV5akU",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749512579,
-    "icon": "https://i.ytimg.com/vi/fn0aVLV5akU/maxresdefault.jpg",
-    "release_date": "20250609",
-    "id": "fn0aVLV5akU",
-    "title": "\ud83c\udf4025.06.10.\ud654\ud83c\udf40study with me\u3163~18:00\u3163CPA\u3163\ud68c\uc2dc\uc0dd\u3163real sound"
-  },
-  "S11": {
     "name": "Sunnie's Study Caf\u00e9",
     "url": "https://www.youtube.com/watch?v=37-ZACYUWr4",
     "live_status": true,
@@ -120,18 +109,7 @@
     "id": "37-ZACYUWr4",
     "title": "|\ud83d\udd34 REAL LIVE|study with me|\ud83d\udd25 Study Sprint | Let\u2019s Hit 100% Focus! \ud83e\udde0 | DAY 132| 60/10 pomo| 25.06.10."
   },
-  "S12": {
-    "name": "\uc18c\uae61\uc774",
-    "url": "https://www.youtube.com/watch?v=8aIXep6MVQw",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749522239,
-    "icon": "https://i.ytimg.com/vi/8aIXep6MVQw/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "8aIXep6MVQw",
-    "title": "D-165 \ud3ec\uae30\ub9cc \ud558\uc9c0\ub9d0\uae30 | \uc2a4\ud130\ub514\uc717\ubbf8, study with me, 50/10 \ubf40\ubaa8\ub3c4\ub85c, pomodoro, \uc784\uace0\uc0dd, \uc784\uc6a9\uace0\uc2dc, asmr"
-  },
-  "S13": {
+  "S11": {
     "name": " Issac Newton\ud83d\udcda\ud83c\udf4e",
     "url": "https://www.youtube.com/watch?v=ca09-pafIic",
     "live_status": true,
@@ -142,7 +120,7 @@
     "id": "ca09-pafIic",
     "title": "|\ud83d\udcda\u0627\u062f\u0631\u0633 \u0645\u0639\u064a \u0645\u0628\u0627\u0634\u0631 \u0628\u0635\u0648\u062a \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645\ud83c\udf24\ufe0fstudy with me live|\u062a\u0648\u062c\u064a\u0647\u064a|\u0633\u0627\u062f\u0633|\u062b\u0627\u0644\u062b \u062b\u0627\u0646\u0648\u064a|\u062b\u0627\u0646\u0648\u064a\u0629\u0639\u0627\u0645\u0629|60/8"
   },
-  "S14": {
+  "S12": {
     "name": "\ub85c\ud14c\ub514 Lawteady",
     "url": "https://www.youtube.com/watch?v=1SkF2S7ECo8",
     "live_status": true,
@@ -152,6 +130,28 @@
     "release_date": "20250609",
     "id": "1SkF2S7ECo8",
     "title": "\ud83d\udea86.10 \ud654 I D-81 | \uc2a4\ud130\ub514\uc717\ubbf8 \uc2e4\uc2dc\uac04 study with me | 80/10 \ud0c0\uc774\uba38\ud83d\udd25"
+  },
+  "S13": {
+    "name": "Essential New York",
+    "url": "https://www.youtube.com/watch?v=flHmQStenm8",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1744258437,
+    "icon": "https://i.ytimg.com/vi/flHmQStenm8/maxresdefault.jpg",
+    "release_date": "20250410",
+    "id": "flHmQStenm8",
+    "title": "STUDY WITH ME at NEW YORK PUBLIC LIBRARY \ud83d\udcda\ud83d\udcda | [ LIVE 24/7 ]"
+  },
+  "S14": {
+    "name": "\uc18c\uae61\uc774",
+    "url": "https://www.youtube.com/watch?v=8aIXep6MVQw",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749522239,
+    "icon": "https://i.ytimg.com/vi/8aIXep6MVQw/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "8aIXep6MVQw",
+    "title": "D-165 \ud3ec\uae30\ub9cc \ud558\uc9c0\ub9d0\uae30 | \uc2a4\ud130\ub514\uc717\ubbf8, study with me, 50/10 \ubf40\ubaa8\ub3c4\ub85c, pomodoro, \uc784\uace0\uc0dd, \uc784\uc6a9\uace0\uc2dc, asmr"
   },
   "S15": {
     "name": "wait... why don't we study together?",
@@ -165,17 +165,6 @@
     "title": "\ud83d\udcda\u30107HOUR study with me.\u3011\ud83d\udcdapomodoro REAL SOUND SOUND\u4e00\u8d77\u5b66\u4e60\u5427 \u3044\u3063\u3057\u3087\u306b\u52c9\u5f37\u3057\u3088\u3046\u270f\ufe0f"
   },
   "S16": {
-    "name": "Essential New York",
-    "url": "https://www.youtube.com/watch?v=flHmQStenm8",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1744258437,
-    "icon": "https://i.ytimg.com/vi/flHmQStenm8/maxresdefault.jpg",
-    "release_date": "20250410",
-    "id": "flHmQStenm8",
-    "title": "STUDY WITH ME at NEW YORK PUBLIC LIBRARY \ud83d\udcda\ud83d\udcda | [ LIVE 24/7 ]"
-  },
-  "S17": {
     "name": "Dr Prerana Somra",
     "url": "https://www.youtube.com/watch?v=9pPmOlpyoNw",
     "live_status": true,
@@ -186,18 +175,7 @@
     "id": "9pPmOlpyoNw",
     "title": "\ud83d\udd34LIVE | \u23f3(54 DAYS) NEET PG | UPSC-CMS | STUDY WITH ME \ud83d\udcda| \u23f0 180/30"
   },
-  "S18": {
-    "name": "Study with Elaine",
-    "url": "https://www.youtube.com/watch?v=Qw-yBeWAkO8",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1745418566,
-    "icon": "https://i.ytimg.com/vi/Qw-yBeWAkO8/maxresdefault.jpg",
-    "release_date": "20250423",
-    "id": "Qw-yBeWAkO8",
-    "title": "Study With Me Livestream \ud83d\udcd6 60/10 Pomodoro Sessions \u231b | cozy fireplace sounds"
-  },
-  "S19": {
+  "S17": {
     "name": "venus\u2019 study journal",
     "url": "https://www.youtube.com/watch?v=QkTRF4S2bU8",
     "live_status": true,
@@ -208,18 +186,7 @@
     "id": "QkTRF4S2bU8",
     "title": "17 hours Live Study With Me|No talking |DEEP Focus + background sounds| Pomodoro timer 60-10"
   },
-  "S20": {
-    "name": "study with nooreldean",
-    "url": "https://www.youtube.com/watch?v=K6egMUbUVOc",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749524445,
-    "icon": "https://i.ytimg.com/vi/K6egMUbUVOc/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "K6egMUbUVOc",
-    "title": "|\ud83d\udd34LIVE|\ud83d\udcdaSTUDY WITH ME |\ud83c\udf45POMODORO |\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0627\u0644\u062b \u0645\u0646 \u0644\u064a\u0627\u0644\u064a \u0627\u0645\u062a\u062d\u0627\u0646 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 (part1)"
-  },
-  "S21": {
+  "S18": {
     "name": "Twinkle - Study With Me",
     "url": "https://www.youtube.com/watch?v=PUq859uVMBI",
     "live_status": true,
@@ -230,7 +197,18 @@
     "id": "PUq859uVMBI",
     "title": "Study With Me LIVE \ud83d\udcda 15 Hr | Pomodoro 90/15 + Alarm \u23f3 | Rain & Thunder Sound \ud83c\udf27\ufe0f | Day 76/100"
   },
-  "S22": {
+  "S19": {
+    "name": "Study with Elaine",
+    "url": "https://www.youtube.com/watch?v=Qw-yBeWAkO8",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1745418566,
+    "icon": "https://i.ytimg.com/vi/Qw-yBeWAkO8/maxresdefault.jpg",
+    "release_date": "20250423",
+    "id": "Qw-yBeWAkO8",
+    "title": "Study With Me Livestream \ud83d\udcd6 60/10 Pomodoro Sessions \u231b | cozy fireplace sounds"
+  },
+  "S20": {
     "name": "\ud835\ude4a\ud835\ude4b\ud835\ude4a \u2661 \ud835\ude3c\ud835\ude4d\ud835\ude4f \u2661 \ud835\ude4e\ud835\ude4f\ud835\ude50\ud835\ude3f\ud835\ude54",
     "url": "https://www.youtube.com/watch?v=6AwD6S2dhOg",
     "live_status": true,
@@ -240,6 +218,28 @@
     "release_date": "20250610",
     "id": "6AwD6S2dhOg",
     "title": "STUDY WITH ME \ud83d\udcd3\u2615\ud83c\udfa74 HORAS \u231b\u2728 t\u00e9cnica pomodoro \ud83c\udf45\ud83d\udc97 \u00a1m\u00e1xima productividad! \ud83d\udcad\ud83c\udfaf"
+  },
+  "S21": {
+    "name": "Do something lucky ",
+    "url": "https://www.youtube.com/watch?v=Ca5zft2-FHY",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749545587,
+    "icon": "https://i.ytimg.com/vi/Ca5zft2-FHY/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "Ca5zft2-FHY",
+    "title": "Day 4 of Study with me \ud83e\udd78 21 Days Consistently Study \ud83d\ude0e #study"
+  },
+  "S22": {
+    "name": "study with nooreldean",
+    "url": "https://www.youtube.com/watch?v=K6egMUbUVOc",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749524445,
+    "icon": "https://i.ytimg.com/vi/K6egMUbUVOc/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "K6egMUbUVOc",
+    "title": "|\ud83d\udd34LIVE|\ud83d\udcdaSTUDY WITH ME |\ud83c\udf45POMODORO |\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0627\u0644\u062b \u0645\u0646 \u0644\u064a\u0627\u0644\u064a \u0627\u0645\u062a\u062d\u0627\u0646 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 (part1)"
   },
   "S23": {
     "name": "\uc774 \uc5ec\ub984 thissummer",
@@ -253,17 +253,6 @@
     "title": "\ud83c\udf80 STUDY WITH ME \ud83c\udf80 | CPA \ud68c\uc2dc\uc0dd | 2025.06.10. D - 2\ufe0f\u20e35\ufe0f\u20e37\ufe0f\u20e3 | \ub3c5\uc11c\uc2e4 Real Sound \u27b0 (feat. \uacc4\uc0b0\uae30 \uc18c\ub9ac)"
   },
   "S24": {
-    "name": "\ud558\ub8e82\ud2c0",
-    "url": "https://www.youtube.com/watch?v=GASX883rjPw",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749509505,
-    "icon": "https://i.ytimg.com/vi/GASX883rjPw/maxresdefault.jpg",
-    "release_date": "20250609",
-    "id": "GASX883rjPw",
-    "title": "\uc2a4\ud130\ub514\uc717\ubbf8 LIVE study with me 6/10\ud83d\udd25 \ud654\uacf5\ud30c !"
-  },
-  "S25": {
     "name": "Hilary - Study With Me",
     "url": "https://www.youtube.com/watch?v=sEGOogpgm_c",
     "live_status": true,
@@ -273,6 +262,17 @@
     "release_date": "20250303",
     "id": "sEGOogpgm_c",
     "title": "Study With Me 4K | 5 Hours of Productivity with Pomodoro (50/10) & Gentle Rain - Cat cute"
+  },
+  "S25": {
+    "name": "\ud558\ub8e82\ud2c0",
+    "url": "https://www.youtube.com/watch?v=GASX883rjPw",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749509505,
+    "icon": "https://i.ytimg.com/vi/GASX883rjPw/maxresdefault.jpg",
+    "release_date": "20250609",
+    "id": "GASX883rjPw",
+    "title": "\uc2a4\ud130\ub514\uc717\ubbf8 LIVE study with me 6/10\ud83d\udd25 \ud654\uacf5\ud30c !"
   },
   "S26": {
     "name": "Studyistic",
@@ -297,17 +297,6 @@
     "title": "15 hour\u2618\ufe0f Study with me LIVE \u2615 calm cozy ambience\ud83e\ude7aPOMODORO\ud83d\udd25Real-time study #Medgirl"
   },
   "S28": {
-    "name": "Lost in Awww",
-    "url": "https://www.youtube.com/watch?v=OmJxaCsSkS0",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749525003,
-    "icon": "https://i.ytimg.com/vi/OmJxaCsSkS0/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "OmJxaCsSkS0",
-    "title": "DAY167/365: Study With Me LIVE | 60/10 Pomodoro"
-  },
-  "S29": {
     "name": "Tina Lin\u2019s database \ud83d\udcf7",
     "url": "https://www.youtube.com/watch?v=pfjCLV96_jE",
     "live_status": true,
@@ -318,18 +307,18 @@
     "id": "pfjCLV96_jE",
     "title": "STUDY WITH Me \u2728 | Med student and her cats \ud83d\udc08 | 60/10"
   },
-  "S30": {
-    "name": "Bahaa Taibi",
-    "url": "https://www.youtube.com/watch?v=ZBAvzrrzc1E",
+  "S29": {
+    "name": "Lost in Awww",
+    "url": "https://www.youtube.com/watch?v=OmJxaCsSkS0",
     "live_status": true,
     "concurrent_view_count": 0,
-    "release_timestamp": 1749526171,
-    "icon": "https://i.ytimg.com/vi/ZBAvzrrzc1E/maxresdefault.jpg",
+    "release_timestamp": 1749525003,
+    "icon": "https://i.ytimg.com/vi/OmJxaCsSkS0/maxresdefault.jpg",
     "release_date": "20250610",
-    "id": "ZBAvzrrzc1E",
-    "title": "\u0627\u062f\u0631\u0633 \u0645\u0639\u064a \u0644 12  \u0633\u0627\u0639\u0627\u062a study with me for 12  hours \u0628\u0648\u0645\u0648\u062f\u0648\u0631\u0648 50/10 \u060cPomodoro \u0641\u064a \u0627\u0644\u0635\u0628\u0627\u062d  \u0644\u0644\u0639\u0645\u0644 \u0648 \u0627\u0644\u062f\u0631\u0627\u0633\u0629"
+    "id": "OmJxaCsSkS0",
+    "title": "DAY167/365: Study With Me LIVE | 60/10 Pomodoro"
   },
-  "S31": {
+  "S30": {
     "name": "SscJourney With Rahul ",
     "url": "https://www.youtube.com/watch?v=6HTLreQgRK8",
     "live_status": true,
@@ -339,6 +328,17 @@
     "release_date": "20250610",
     "id": "6HTLreQgRK8",
     "title": "|\ud83d\udd34LIVE|\ud83d\udcdaSTUDY WITH ME\ud83e\uddd1\u200d\ud83c\udf93\ud83c\udf99\ufe0f| PROMODORO TIMER 60/10||12 HOURS| BREAK TALK|DAILY LIVE"
+  },
+  "S31": {
+    "name": "Bahaa Taibi",
+    "url": "https://www.youtube.com/watch?v=ZBAvzrrzc1E",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749526171,
+    "icon": "https://i.ytimg.com/vi/ZBAvzrrzc1E/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "ZBAvzrrzc1E",
+    "title": "\u0627\u062f\u0631\u0633 \u0645\u0639\u064a \u0644 12  \u0633\u0627\u0639\u0627\u062a study with me for 12  hours \u0628\u0648\u0645\u0648\u062f\u0648\u0631\u0648 50/10 \u060cPomodoro \u0641\u064a \u0627\u0644\u0635\u0628\u0627\u062d  \u0644\u0644\u0639\u0645\u0644 \u0648 \u0627\u0644\u062f\u0631\u0627\u0633\u0629"
   },
   "S32": {
     "name": "Husein / \u062d\u0633\u064a\u0646 ",
@@ -352,6 +352,17 @@
     "title": "Study with me live 50/10 mins | 2 hours  \u0627\u062f\u0631\u0633 \u0645\u0639\u064a \u0637\u0627\u0644\u0628 \u0627\u0645\u0646 \u0633\u064a\u0628\u0631\u0627\u0646\u064a"
   },
   "S33": {
+    "name": "Yashwant Kumar Live Study",
+    "url": "https://www.youtube.com/watch?v=3Fx5OcypIec",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749482324,
+    "icon": "https://i.ytimg.com/vi/3Fx5OcypIec/maxresdefault.jpg",
+    "release_date": "20250609",
+    "id": "3Fx5OcypIec",
+    "title": "STUDY WITH ME LIVE INDIA UPSC | 15 HOURS \u2728, Chill Work With Me, Rain Sounds, Pomodoro Timer"
+  },
+  "S34": {
     "name": "Alexander Mayhue",
     "url": "https://www.youtube.com/watch?v=DjeSLIiveVc",
     "live_status": true,
@@ -362,7 +373,7 @@
     "id": "DjeSLIiveVc",
     "title": "STUDY WITH ME \ud83d\udcda 24/7 (choose your background sound)"
   },
-  "S34": {
+  "S35": {
     "name": "Yasmine Study",
     "url": "https://www.youtube.com/watch?v=uGMSiGFc4yc",
     "live_status": true,
@@ -372,17 +383,6 @@
     "release_date": "20250107",
     "id": "uGMSiGFc4yc",
     "title": "Study with me \ud83d\udd25 50/10 Pomodoro \ud83c\udf0a 24/7 bonfire & waves sounds"
-  },
-  "S35": {
-    "name": "Yashwant Kumar Live Study",
-    "url": "https://www.youtube.com/watch?v=3Fx5OcypIec",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749482324,
-    "icon": "https://i.ytimg.com/vi/3Fx5OcypIec/maxresdefault.jpg",
-    "release_date": "20250609",
-    "id": "3Fx5OcypIec",
-    "title": "STUDY WITH ME LIVE INDIA UPSC | 15 HOURS \u2728, Chill Work With Me, Rain Sounds, Pomodoro Timer"
   },
   "S36": {
     "name": "Abdullah Firas",
@@ -418,6 +418,17 @@
     "title": "25.06.10.\uace0\ub3c5\ud55c \uacf5\ubd80\ubc29\ud83c\udf0fstudy with me \u5b78\u7fd2\u966a\u4f34/\uc18c\ub9acx\ud83d\udd15/\ucc44\ud305x\ud83e\udd2b"
   },
   "S39": {
+    "name": "\uc544\uc784\ud30c\uc778I'm fine",
+    "url": "https://www.youtube.com/watch?v=p8KgcDt_Qj0",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749521416,
+    "icon": "https://i.ytimg.com/vi/p8KgcDt_Qj0/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "p8KgcDt_Qj0",
+    "title": "[6.10] D-53 | STUDY WITH ME\u2503LIVE\u2503CTA\u2503\uc138\uc2dc\uc0dd\u2503\uc2a4\ud130\ub514\uc717\ubbf8\u2503\uc2e4\uc2dc\uac04\u2503realsound\u2503\uce74\ud398\uc18c\uc74c"
+  },
+  "S40": {
     "name": "\uc575\ub450\uc0c8",
     "url": "https://www.youtube.com/watch?v=rCCdtGNNln8",
     "live_status": true,
@@ -428,7 +439,7 @@
     "id": "rCCdtGNNln8",
     "title": "study with me live 25. 6. 10 | \ube57\uc18c\ub9ac \ucc9c\ub465\uc8fc\uc758\u26c8\ufe0f\u26a1| \uc624\ub298\ub3c4 \ud30c\uc774\ud305\u2764\ufe0f\ud83d\udd25"
   },
-  "S40": {
+  "S41": {
     "name": "The Sherry Formula",
     "url": "https://www.youtube.com/watch?v=zlSKDeDJ9H0",
     "live_status": true,
@@ -439,7 +450,7 @@
     "id": "zlSKDeDJ9H0",
     "title": "\ud83c\udf1f Team Vegas Night | 50/10 Deep Focus Sessions | Chill Lofi Study With Me \ud83c\udfa7 [LIVE 24/7]"
   },
-  "S41": {
+  "S42": {
     "name": "CHETHANA \ud83e\ude75",
     "url": "https://www.youtube.com/watch?v=31tE-4yJj3s",
     "live_status": true,
@@ -450,18 +461,18 @@
     "id": "31tE-4yJj3s",
     "title": "18 HOURS\ud83d\udca5 \ud83e\ude75 \ud83e\ude7a | Study with me LIVE \ud83d\udd34 | Pomodoro 50/10 | Medical Student \ud83e\ude7a"
   },
-  "S42": {
-    "name": "Masked Medic",
-    "url": "https://www.youtube.com/watch?v=_qdTK9Spufg",
+  "S43": {
+    "name": " Titanium Nikhil  ",
+    "url": "https://www.youtube.com/watch?v=fLf820lJGm0",
     "live_status": true,
     "concurrent_view_count": 0,
-    "release_timestamp": 1749537930,
-    "icon": "https://i.ytimg.com/vi/_qdTK9Spufg/maxresdefault.jpg",
+    "release_timestamp": 1749538945,
+    "icon": "https://i.ytimg.com/vi/fLf820lJGm0/hqdefault.jpg?v=6847d74d",
     "release_date": "20250610",
-    "id": "_qdTK9Spufg",
-    "title": "\ud83d\udd34 LIVE | Study With Me \u2013 Silent Focus Session | Day 90 | 60/10 Pomodoro | UPSC \u2022 NEET \u2022 Boards"
+    "id": "fLf820lJGm0",
+    "title": "\ud83d\udd34LIVE STUDY WITH ME 90/15 SESSION I JEE II NEET II NDA II CA II UPSC II ft. | TITANIUM NIKHIL|#EHCB"
   },
-  "S43": {
+  "S44": {
     "name": "\u3086\u3063\u304b / yucca",
     "url": "https://www.youtube.com/watch?v=b5rVsvt200s",
     "live_status": true,
@@ -472,7 +483,7 @@
     "id": "b5rVsvt200s",
     "title": "6/10\u2614\ufe0f Study with me! / study live / \u52c9\u5f37\u30e9\u30a4\u30d6 / \u53d7\u9a13\u751f \u2764\ufe0f\u200d\ud83d\udd25"
   },
-  "S44": {
+  "S45": {
     "name": "Learning Journey",
     "url": "https://www.youtube.com/watch?v=bTpljKc4ws0",
     "live_status": true,
@@ -483,7 +494,7 @@
     "id": "bTpljKc4ws0",
     "title": "STUDY WITH ME LIVE 8h \ud83d\udcaa  / POMODORO 50/10 / \ud83d\udc40"
   },
-  "S45": {
+  "S46": {
     "name": "Study with danbia",
     "url": "https://www.youtube.com/watch?v=q5SxHx00LQE",
     "live_status": true,
@@ -494,7 +505,18 @@
     "id": "q5SxHx00LQE",
     "title": "LIVE\u3163Study With Me\u316312hours\u23f0\u3163\ud83c\udf27 rain & thunder sounds\u3163Pomodoro: 60/10\u3163Study\u3163Work\u3163Learning a language\u3163"
   },
-  "S46": {
+  "S47": {
+    "name": "Masked Medic",
+    "url": "https://www.youtube.com/watch?v=_qdTK9Spufg",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749537930,
+    "icon": "https://i.ytimg.com/vi/_qdTK9Spufg/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "_qdTK9Spufg",
+    "title": "\ud83d\udd34 LIVE | Study With Me \u2013 Silent Focus Session | Day 90 | 60/10 Pomodoro | UPSC \u2022 NEET \u2022 Boards"
+  },
+  "S48": {
     "name": "\ud560 \uc218 \uc788\ub2e4 [PRINCE]",
     "url": "https://www.youtube.com/watch?v=G0pD1qE_2Es",
     "live_status": true,
@@ -505,7 +527,7 @@
     "id": "G0pD1qE_2Es",
     "title": "\uc2a4\ud130\ub514\uc717\ubbf8 \ub77c\uc774\ube0c | Study with me Live | I will become a K-pop artist! 250610"
   },
-  "S47": {
+  "S49": {
     "name": "STP",
     "url": "https://www.youtube.com/watch?v=GAlWfKgy6ho",
     "live_status": true,
@@ -516,7 +538,7 @@
     "id": "GAlWfKgy6ho",
     "title": "Pusheen LoFi for Studying & Relaxing | ASMR LoFi, Focus Music, Study with Me for Anxiety Relief"
   },
-  "S48": {
+  "S50": {
     "name": "purple",
     "url": "https://www.youtube.com/watch?v=doVv4ggwLxE",
     "live_status": true,
@@ -527,7 +549,7 @@
     "id": "doVv4ggwLxE",
     "title": "live study with me rain sounds \ud83c\udf27\ufe0f pomodoro"
   },
-  "S49": {
+  "S51": {
     "name": "mrdot",
     "url": "https://www.youtube.com/watch?v=cwhCHtRYwTM",
     "live_status": true,
@@ -538,18 +560,7 @@
     "id": "cwhCHtRYwTM",
     "title": "STUDY WITH ME | Adjustable music\ud83c\udfa7 &  pomodoro 60/10\ud83c\udf40\u2728"
   },
-  "S50": {
-    "name": "Dr V",
-    "url": "https://www.youtube.com/watch?v=HI-jkqMBHFk",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749529199,
-    "icon": "https://i.ytimg.com/vi/HI-jkqMBHFk/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "HI-jkqMBHFk",
-    "title": "live study with me for neetpg |10 Hours| 120/20 Pomodoro #studywithme #pomodoro #nomusic   #neetpg"
-  },
-  "S51": {
+  "S52": {
     "name": "Akira",
     "url": "https://www.youtube.com/watch?v=W6ZB0zeZHz0",
     "live_status": true,
@@ -560,7 +571,7 @@
     "id": "W6ZB0zeZHz0",
     "title": "Study With Me Live Pomodoro 50/10 | 10 hours"
   },
-  "S52": {
+  "S53": {
     "name": "just-Nico",
     "url": "https://www.youtube.com/watch?v=Y_I_o6P9g10",
     "live_status": true,
@@ -570,17 +581,6 @@
     "release_date": "20250513",
     "id": "Y_I_o6P9g10",
     "title": "Study with Me | 24/7 Live Stream | Pomodoro 60/10 | fire cracking Sound | Focus & Motivation"
-  },
-  "S53": {
-    "name": " Titanium Nikhil  ",
-    "url": "https://www.youtube.com/watch?v=fLf820lJGm0",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749538945,
-    "icon": "https://i.ytimg.com/vi/fLf820lJGm0/hqdefault.jpg?v=6847d74d",
-    "release_date": "20250610",
-    "id": "fLf820lJGm0",
-    "title": "\ud83d\udd34LIVE STUDY WITH ME 90/15 SESSION I JEE II NEET II NDA II CA II UPSC II ft. | TITANIUM NIKHIL|#EHCB"
   },
   "S54": {
     "name": "Gaurav Mahor Extra",
@@ -616,94 +616,6 @@
     "title": "Day 34 Study with Me | June, 10 2025 | #study #studywithme #studymotivation #studymusic"
   },
   "S57": {
-    "name": "\bgoldenbear\ud83e\uddf8",
-    "url": "https://www.youtube.com/watch?v=e0jJKup04g8",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749536565,
-    "icon": "https://i.ytimg.com/vi/e0jJKup04g8/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "e0jJKup04g8",
-    "title": "06.10 2\ubd80 \uc2e4\uc2dc\uac04 \uac19\uc774 \uacf5\ubd80\ud574\uc694! study with me // Calm music \ud83c\udfbb"
-  },
-  "S58": {
-    "name": "\uc544\uc784\ud30c\uc778I'm fine",
-    "url": "https://www.youtube.com/watch?v=p8KgcDt_Qj0",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749521416,
-    "icon": "https://i.ytimg.com/vi/p8KgcDt_Qj0/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "p8KgcDt_Qj0",
-    "title": "[6.10] D-53 | STUDY WITH ME\u2503LIVE\u2503CTA\u2503\uc138\uc2dc\uc0dd\u2503\uc2a4\ud130\ub514\uc717\ubbf8\u2503\uc2e4\uc2dc\uac04\u2503realsound\u2503\uce74\ud398\uc18c\uc74c"
-  },
-  "S59": {
-    "name": "Khushboo Kumari",
-    "url": "https://www.youtube.com/watch?v=vyLrryaD9oQ",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749531174,
-    "icon": "https://i.ytimg.com/vi/vyLrryaD9oQ/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "vyLrryaD9oQ",
-    "title": "\ud83d\udd34 LIVE | STUDY WITH ME\ud83d\udcda | INICET |NEETPG | FMGE PREPARATIONS | DAY 1/50| pomedoro 90/15 |"
-  },
-  "S60": {
-    "name": "The last player ashu",
-    "url": "https://www.youtube.com/watch?v=lwc_d1mKhfA",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749544687,
-    "icon": "https://i.ytimg.com/vi/lwc_d1mKhfA/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "lwc_d1mKhfA",
-    "title": "Study with me live The last player ashu #upsc #study #live #ssccgl #ntpc #neet #ips #bpsc #ssc #jee"
-  },
-  "S61": {
-    "name": "Anjali Sharma",
-    "url": "https://www.youtube.com/watch?v=Vi_7slMGXgk",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749532843,
-    "icon": "https://i.ytimg.com/vi/Vi_7slMGXgk/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "Vi_7slMGXgk",
-    "title": "STUDY WITH ME LIVE | REAL TIME | POMODORO | NEETUG/NEET2026/JEE2026/UPSC"
-  },
-  "S62": {
-    "name": "Swati Singh",
-    "url": "https://www.youtube.com/watch?v=9SrglJIBCPY",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749520979,
-    "icon": "https://i.ytimg.com/vi/9SrglJIBCPY/hqdefault.jpg?v=68478f97",
-    "release_date": "20250610",
-    "id": "9SrglJIBCPY",
-    "title": "STUDY WITH ME LIVE  | 12+ hours | #pomodoro 60/10 Day 59/120days Challenge #banking #upsc #ssc #po"
-  },
-  "S63": {
-    "name": "SEMISUN",
-    "url": "https://www.youtube.com/watch?v=wToAjvRHZao",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749537701,
-    "icon": "https://i.ytimg.com/vi/wToAjvRHZao/hqdefault.jpg?v=6847d393",
-    "release_date": "20250610",
-    "id": "wToAjvRHZao",
-    "title": "Study With Me Live\ud83c\udf3b, Pomodoro50/10, Crackling Fire Sounds, 78"
-  },
-  "S64": {
-    "name": "study focus",
-    "url": "https://www.youtube.com/watch?v=sGForBHdHvU",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749543082,
-    "icon": "https://i.ytimg.com/vi/sGForBHdHvU/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "sGForBHdHvU",
-    "title": "Live, time to study, study with me! 2 hour deep focus session"
-  },
-  "S65": {
     "name": "Dr. Harry",
     "url": "https://www.youtube.com/watch?v=Y-0ieTrTX_Q",
     "live_status": true,
@@ -714,7 +626,106 @@
     "id": "Y-0ieTrTX_Q",
     "title": "LIVE | NEET PG | 7-HOUR Study With Me at Hogwarts \ud83d\udcda\u26a1\ufe0f | Rainy Day in the Library | Pomodoro 50/10"
   },
+  "S58": {
+    "name": "\bgoldenbear\ud83e\uddf8",
+    "url": "https://www.youtube.com/watch?v=e0jJKup04g8",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749536565,
+    "icon": "https://i.ytimg.com/vi/e0jJKup04g8/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "e0jJKup04g8",
+    "title": "06.10 2\ubd80 \uc2e4\uc2dc\uac04 \uac19\uc774 \uacf5\ubd80\ud574\uc694! study with me // Calm music \ud83c\udfbb"
+  },
+  "S59": {
+    "name": "Safar UPSC Kaa",
+    "url": "https://www.youtube.com/watch?v=jyU25dlAUtU",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749537001,
+    "icon": "https://i.ytimg.com/vi/jyU25dlAUtU/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "jyU25dlAUtU",
+    "title": "\ud83d\udd34Study With Me for 10 Hours: Time-Lapse & Motivation| Rain sounds #livestudy, #pomodoro #studylive"
+  },
+  "S60": {
+    "name": "Dr V",
+    "url": "https://www.youtube.com/watch?v=HI-jkqMBHFk",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749529199,
+    "icon": "https://i.ytimg.com/vi/HI-jkqMBHFk/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "HI-jkqMBHFk",
+    "title": "live study with me for neetpg |10 Hours| 120/20 Pomodoro #studywithme #pomodoro #nomusic   #neetpg"
+  },
+  "S61": {
+    "name": "Khushboo Kumari",
+    "url": "https://www.youtube.com/watch?v=vyLrryaD9oQ",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749531174,
+    "icon": "https://i.ytimg.com/vi/vyLrryaD9oQ/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "vyLrryaD9oQ",
+    "title": "\ud83d\udd34 LIVE | STUDY WITH ME\ud83d\udcda | INICET |NEETPG | FMGE PREPARATIONS | DAY 1/50| pomedoro 90/15 |"
+  },
+  "S62": {
+    "name": "Anjali Sharma",
+    "url": "https://www.youtube.com/watch?v=Vi_7slMGXgk",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749532843,
+    "icon": "https://i.ytimg.com/vi/Vi_7slMGXgk/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "Vi_7slMGXgk",
+    "title": "STUDY WITH ME LIVE | REAL TIME | POMODORO | NEETUG/NEET2026/JEE2026/UPSC"
+  },
+  "S63": {
+    "name": "Swati Singh",
+    "url": "https://www.youtube.com/watch?v=9SrglJIBCPY",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749520979,
+    "icon": "https://i.ytimg.com/vi/9SrglJIBCPY/hqdefault.jpg?v=68478f97",
+    "release_date": "20250610",
+    "id": "9SrglJIBCPY",
+    "title": "STUDY WITH ME LIVE  | 12+ hours | #pomodoro 60/10 Day 59/120days Challenge #banking #upsc #ssc #po"
+  },
+  "S64": {
+    "name": "Daily Preparing Dreams",
+    "url": "https://www.youtube.com/watch?v=sd6545ecCOs",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749526217,
+    "icon": "https://i.ytimg.com/vi/sd6545ecCOs/hqdefault.jpg?v=6847a6ad",
+    "release_date": "20250610",
+    "id": "sd6545ecCOs",
+    "title": "Study With Me l UPSC Aspirants l IIT JEE l NEET l Pomodoro l Daily Preparing Dreams is live!"
+  },
+  "S65": {
+    "name": "SEMISUN",
+    "url": "https://www.youtube.com/watch?v=wToAjvRHZao",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749537701,
+    "icon": "https://i.ytimg.com/vi/wToAjvRHZao/hqdefault.jpg?v=6847d393",
+    "release_date": "20250610",
+    "id": "wToAjvRHZao",
+    "title": "Study With Me Live\ud83c\udf3b, Pomodoro50/10, Crackling Fire Sounds, 78"
+  },
   "S66": {
+    "name": "\u041a\u0430\u043d\u0430\u043b \u0421\u043e\u0444\u0438\u044e\u0448\u043a\u0438",
+    "url": "https://www.youtube.com/watch?v=BP0yBr-eNSw",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749546028,
+    "icon": "https://i.ytimg.com/vi/BP0yBr-eNSw/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "BP0yBr-eNSw",
+    "title": "study with me\\\u0443\u0447\u0438\u0441\u044c \u0441\u043e \u043c\u043d\u043e\u0439 \u2116 395 \"\u0436\u0435\u043d\u0430 \u0433\u0440\u0438\u043d\u0447\u0430 \"\u0432\u0442  11.06.2025 )"
+  },
+  "S67": {
     "name": "Sam is here ",
     "url": "https://www.youtube.com/watch?v=ONxzdW6d-x8",
     "live_status": true,
@@ -724,17 +735,6 @@
     "release_date": "20250610",
     "id": "ONxzdW6d-x8",
     "title": "STUDY WITH ME | \ud83d\ude80| 10 HOURS LIVE"
-  },
-  "S67": {
-    "name": "StudywithVandu",
-    "url": "https://www.youtube.com/watch?v=5O7GVpm5SmE",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749544336,
-    "icon": "https://i.ytimg.com/vi/5O7GVpm5SmE/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "5O7GVpm5SmE",
-    "title": "14H\ud83c\udfafSTUDY WITH ME LIVE | Work & Study Boost: Enhance Productivity, Reduce Stress! Date: 10 June 2025"
   },
   "S68": {
     "name": "Junayed Bro",
@@ -748,17 +748,6 @@
     "title": "study with me | Live Study | pomodoro 60/10| Junayed chisty | HSC |College Student Bangladesh Board"
   },
   "S69": {
-    "name": "Safar UPSC Kaa",
-    "url": "https://www.youtube.com/watch?v=jyU25dlAUtU",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749537001,
-    "icon": "https://i.ytimg.com/vi/jyU25dlAUtU/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "jyU25dlAUtU",
-    "title": "\ud83d\udd34Study With Me for 10 Hours: Time-Lapse & Motivation| Rain sounds #livestudy, #pomodoro #studylive"
-  },
-  "S70": {
     "name": "Shady Shadi",
     "url": "https://www.youtube.com/watch?v=z1Z68ptY36Y",
     "live_status": true,
@@ -769,40 +758,18 @@
     "id": "z1Z68ptY36Y",
     "title": "Study with me Until The Pile is Gone | Pomodoro and Salah"
   },
+  "S70": {
+    "name": "study focus",
+    "url": "https://www.youtube.com/watch?v=sGForBHdHvU",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749543082,
+    "icon": "https://i.ytimg.com/vi/sGForBHdHvU/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "sGForBHdHvU",
+    "title": "Live, time to study, study with me! 2 hour deep focus session"
+  },
   "S71": {
-    "name": "urmila choudhary 8k",
-    "url": "https://www.youtube.com/watch?v=H7PSzrL-IiY",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749543292,
-    "icon": "https://i.ytimg.com/vi/H7PSzrL-IiY/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "H7PSzrL-IiY",
-    "title": "Study with me/live study 1Hour motivation \ud83d\udcda\ud83c\udfaf#youtube#live#student#study#motivation"
-  },
-  "S72": {
-    "name": "Do something lucky ",
-    "url": "https://www.youtube.com/watch?v=Ca5zft2-FHY",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749545587,
-    "icon": "https://i.ytimg.com/vi/Ca5zft2-FHY/maxresdefault.jpg",
-    "release_date": "20250610",
-    "id": "Ca5zft2-FHY",
-    "title": "Day 4 of Study with me \ud83e\udd78 21 Days Consistently Study \ud83d\ude0e #study"
-  },
-  "S73": {
-    "name": "Daily Preparing Dreams",
-    "url": "https://www.youtube.com/watch?v=sd6545ecCOs",
-    "live_status": true,
-    "concurrent_view_count": 0,
-    "release_timestamp": 1749526217,
-    "icon": "https://i.ytimg.com/vi/sd6545ecCOs/hqdefault.jpg?v=6847a6ad",
-    "release_date": "20250610",
-    "id": "sd6545ecCOs",
-    "title": "Study With Me l UPSC Aspirants l IIT JEE l NEET l Pomodoro l Daily Preparing Dreams is live!"
-  },
-  "S74": {
     "name": "PWN",
     "url": "https://www.youtube.com/watch?v=00wjcA7X-Qg",
     "live_status": true,
@@ -813,18 +780,18 @@
     "id": "00wjcA7X-Qg",
     "title": "\ud83d\udd34 Live | STUDY WITH ME [Mic ON] | POMODORO | [ID/ENG/\u4e2d\u6587]"
   },
-  "S75": {
+  "S72": {
     "name": "Coolarmyeditor",
-    "url": "https://www.youtube.com/watch?v=zLd_sLpJbso",
+    "url": "https://www.youtube.com/watch?v=paeV4vcd2Yc",
     "live_status": true,
     "concurrent_view_count": 0,
-    "release_timestamp": 1749538271,
-    "icon": "https://i.ytimg.com/vi/zLd_sLpJbso/maxresdefault.jpg",
+    "release_timestamp": 1749527768,
+    "icon": "https://i.ytimg.com/vi/paeV4vcd2Yc/maxresdefault.jpg",
     "release_date": "20250610",
-    "id": "zLd_sLpJbso",
+    "id": "paeV4vcd2Yc",
     "title": "study with me ..."
   },
-  "S76": {
+  "S73": {
     "name": "S\u00f3 50 minutos",
     "url": "https://www.youtube.com/watch?v=rAy0drHTJec",
     "live_status": true,
@@ -835,7 +802,7 @@
     "id": "rAy0drHTJec",
     "title": "Study with me | Estude /Trabalhe comigo em TEMPO REAL ( 24 horas ) | S\u00f3 50 minutos"
   },
-  "S77": {
+  "S74": {
     "name": "Sync\u2019d Sessions",
     "url": "https://www.youtube.com/watch?v=KDrSQeoRVlM",
     "live_status": true,
@@ -846,7 +813,7 @@
     "id": "KDrSQeoRVlM",
     "title": "STUDY WITH ME LIVE\ud83d\udd34 ||* DAILY *|| WITH Pomodoro \u23f2\ufe0f 30/5 \u231b || Lofi sound track \ud83d\udd0a"
   },
-  "S78": {
+  "S75": {
     "name": "Brokie Student",
     "url": "https://www.youtube.com/watch?v=Iy6_Ai58LVU",
     "live_status": true,
@@ -857,18 +824,40 @@
     "id": "Iy6_Ai58LVU",
     "title": "My first livestream |\ud83d\udcda Study with me  | \ud83c\udfa4 Mic OFF, Ambient sound's"
   },
-  "S79": {
+  "S76": {
+    "name": "Los directos de VdSnow",
+    "url": "https://www.youtube.com/watch?v=7W5DxD-8ljw",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749546112,
+    "icon": "https://i.ytimg.com/vi/7W5DxD-8ljw/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "7W5DxD-8ljw",
+    "title": "A SALVAR EL SEMESTRE EN UNA SEMANA | STUDY WITH ME - WORKSPACE"
+  },
+  "S77": {
+    "name": "StudywithVandu",
+    "url": "https://www.youtube.com/watch?v=5O7GVpm5SmE",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749544336,
+    "icon": "https://i.ytimg.com/vi/5O7GVpm5SmE/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "5O7GVpm5SmE",
+    "title": "14H\ud83c\udfafSTUDY WITH ME LIVE | Work & Study Boost: Enhance Productivity, Reduce Stress! Date: 10 June 2025"
+  },
+  "S78": {
     "name": "Lane Nick",
     "url": "https://www.youtube.com/watch?v=BjUwjqr393U",
     "live_status": true,
     "concurrent_view_count": 0,
     "release_timestamp": 1749538810,
-    "icon": "https://i.ytimg.com/vi/BjUwjqr393U/hqdefault.jpg?v=17",
+    "icon": "https://i.ytimg.com/vi/BjUwjqr393U/hqdefault.jpg?v=19",
     "release_date": "20250610",
     "id": "BjUwjqr393U",
     "title": "Study with me | 24/7 Live"
   },
-  "S80": {
+  "S79": {
     "name": "Dr. Emma Cruz | NerdyDoc: Study, Learn & Write",
     "url": "https://www.youtube.com/watch?v=TbNKm7vQeMI",
     "live_status": true,
@@ -879,7 +868,7 @@
     "id": "TbNKm7vQeMI",
     "title": "STUDY WITH ME in the Netherlands \ud83d\udcda Med Doctor \ud83e\ude7a Timer \u23f0 Rain Sounds \ud83c\udf27\ufe0f Write Focus & Productivity"
   },
-  "S81": {
+  "S80": {
     "name": "Study with shiva",
     "url": "https://www.youtube.com/watch?v=qrzjUo-KuTY",
     "live_status": true,
@@ -890,7 +879,7 @@
     "id": "qrzjUo-KuTY",
     "title": "\ud83d\ude80 10 HOUR LIVE \ud83d\udd34 STUDY WITH ME \ud83d\udcda || Day-18/90 || \u23f3 POMODORO 120/40 || \ud83d\udd25 Cozy Fire Sounds"
   },
-  "S82": {
+  "S81": {
     "name": "velvet.",
     "url": "https://www.youtube.com/watch?v=rQgnTYrORh0",
     "live_status": true,
@@ -901,7 +890,7 @@
     "id": "rQgnTYrORh0",
     "title": "study with me \ud83c\udf75 matcha latte | 30 min focus + 10 min break | LIVE pomodoro timer | focus lofi"
   },
-  "S83": {
+  "S82": {
     "name": "jaandaarwall",
     "url": "https://www.youtube.com/watch?v=z6C2Qa5Zurs",
     "live_status": true,
@@ -912,7 +901,7 @@
     "id": "z6C2Qa5Zurs",
     "title": "LIVE |Study With Me(JEE/NEET/UPSC/GATE & Programming) | 8-Hours(2025-06-10)"
   },
-  "S84": {
+  "S83": {
     "name": "Cram Crusader",
     "url": "https://www.youtube.com/watch?v=_AEFsv98W9U",
     "live_status": true,
@@ -922,6 +911,17 @@
     "release_date": "20250610",
     "id": "_AEFsv98W9U",
     "title": "JEE Drop Year Study Stream with brown noise sumliminals #study #studywithme #live #jeelivedaily"
+  },
+  "S84": {
+    "name": "urmila choudhary 8k",
+    "url": "https://www.youtube.com/watch?v=H7PSzrL-IiY",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749543292,
+    "icon": "https://i.ytimg.com/vi/H7PSzrL-IiY/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "H7PSzrL-IiY",
+    "title": "Study with me/live study 1Hour motivation \ud83d\udcda\ud83c\udfaf#youtube#live#student#study#motivation"
   },
   "S85": {
     "name": "biypo",
@@ -1034,6 +1034,17 @@
     "title": "EXAM TOMORROW! - study with me live pomodoro \ud83e\udd78\u200b\ud83e\udd78"
   },
   "S95": {
+    "name": "The D Corner",
+    "url": "https://www.youtube.com/watch?v=V-oDwYKqw9E",
+    "live_status": true,
+    "concurrent_view_count": 0,
+    "release_timestamp": 1749545797,
+    "icon": "https://i.ytimg.com/vi/V-oDwYKqw9E/maxresdefault.jpg",
+    "release_date": "20250610",
+    "id": "V-oDwYKqw9E",
+    "title": "Study With Me | Calm Study Vibes"
+  },
+  "S96": {
     "name": "Nibir Sankar",
     "url": "https://www.youtube.com/watch?v=BhLJHCscexw",
     "live_status": true,
@@ -1054,81 +1065,81 @@
     "UsbbprlUrtI": "S7",
     "dT1elauU28M": "S8",
     "sg7073pZeJk": "S9",
-    "fn0aVLV5akU": "S10",
-    "37-ZACYUWr4": "S11",
-    "8aIXep6MVQw": "S12",
-    "ca09-pafIic": "S13",
-    "1SkF2S7ECo8": "S14",
+    "37-ZACYUWr4": "S10",
+    "ca09-pafIic": "S11",
+    "1SkF2S7ECo8": "S12",
+    "flHmQStenm8": "S13",
+    "8aIXep6MVQw": "S14",
     "WAv2rOw7Qoo": "S15",
-    "flHmQStenm8": "S16",
-    "9pPmOlpyoNw": "S17",
-    "Qw-yBeWAkO8": "S18",
-    "QkTRF4S2bU8": "S19",
-    "K6egMUbUVOc": "S20",
-    "PUq859uVMBI": "S21",
-    "6AwD6S2dhOg": "S22",
+    "9pPmOlpyoNw": "S16",
+    "QkTRF4S2bU8": "S17",
+    "PUq859uVMBI": "S18",
+    "Qw-yBeWAkO8": "S19",
+    "6AwD6S2dhOg": "S20",
+    "Ca5zft2-FHY": "S21",
+    "K6egMUbUVOc": "S22",
     "dW0uQ1LVrk4": "S23",
-    "GASX883rjPw": "S24",
-    "sEGOogpgm_c": "S25",
+    "sEGOogpgm_c": "S24",
+    "GASX883rjPw": "S25",
     "1OtdnQEVqG8": "S26",
     "m0Fn_1K5Z4Q": "S27",
-    "OmJxaCsSkS0": "S28",
-    "pfjCLV96_jE": "S29",
-    "ZBAvzrrzc1E": "S30",
-    "6HTLreQgRK8": "S31",
+    "pfjCLV96_jE": "S28",
+    "OmJxaCsSkS0": "S29",
+    "6HTLreQgRK8": "S30",
+    "ZBAvzrrzc1E": "S31",
     "Wjptbek-_Fg": "S32",
-    "DjeSLIiveVc": "S33",
-    "uGMSiGFc4yc": "S34",
-    "3Fx5OcypIec": "S35",
+    "3Fx5OcypIec": "S33",
+    "DjeSLIiveVc": "S34",
+    "uGMSiGFc4yc": "S35",
     "wSvzWrywwyc": "S36",
     "te9_oc9_pkU": "S37",
     "OJ56i4jjRNk": "S38",
-    "rCCdtGNNln8": "S39",
-    "zlSKDeDJ9H0": "S40",
-    "31tE-4yJj3s": "S41",
-    "_qdTK9Spufg": "S42",
-    "b5rVsvt200s": "S43",
-    "bTpljKc4ws0": "S44",
-    "q5SxHx00LQE": "S45",
-    "G0pD1qE_2Es": "S46",
-    "GAlWfKgy6ho": "S47",
-    "doVv4ggwLxE": "S48",
-    "cwhCHtRYwTM": "S49",
-    "HI-jkqMBHFk": "S50",
-    "W6ZB0zeZHz0": "S51",
-    "Y_I_o6P9g10": "S52",
-    "fLf820lJGm0": "S53",
+    "p8KgcDt_Qj0": "S39",
+    "rCCdtGNNln8": "S40",
+    "zlSKDeDJ9H0": "S41",
+    "31tE-4yJj3s": "S42",
+    "fLf820lJGm0": "S43",
+    "b5rVsvt200s": "S44",
+    "bTpljKc4ws0": "S45",
+    "q5SxHx00LQE": "S46",
+    "_qdTK9Spufg": "S47",
+    "G0pD1qE_2Es": "S48",
+    "GAlWfKgy6ho": "S49",
+    "doVv4ggwLxE": "S50",
+    "cwhCHtRYwTM": "S51",
+    "W6ZB0zeZHz0": "S52",
+    "Y_I_o6P9g10": "S53",
     "HX2tifX1lTg": "S54",
     "hHD0Vu0fayM": "S55",
     "AhFOJv4KFVw": "S56",
-    "e0jJKup04g8": "S57",
-    "p8KgcDt_Qj0": "S58",
-    "vyLrryaD9oQ": "S59",
-    "lwc_d1mKhfA": "S60",
-    "Vi_7slMGXgk": "S61",
-    "9SrglJIBCPY": "S62",
-    "wToAjvRHZao": "S63",
-    "sGForBHdHvU": "S64",
-    "Y-0ieTrTX_Q": "S65",
-    "ONxzdW6d-x8": "S66",
-    "5O7GVpm5SmE": "S67",
+    "Y-0ieTrTX_Q": "S57",
+    "e0jJKup04g8": "S58",
+    "jyU25dlAUtU": "S59",
+    "HI-jkqMBHFk": "S60",
+    "vyLrryaD9oQ": "S61",
+    "Vi_7slMGXgk": "S62",
+    "9SrglJIBCPY": "S63",
+    "sd6545ecCOs": "S64",
+    "wToAjvRHZao": "S65",
+    "BP0yBr-eNSw": "S66",
+    "ONxzdW6d-x8": "S67",
     "dPfBIGUQh8Y": "S68",
-    "jyU25dlAUtU": "S69",
-    "z1Z68ptY36Y": "S70",
-    "H7PSzrL-IiY": "S71",
-    "Ca5zft2-FHY": "S72",
-    "sd6545ecCOs": "S73",
-    "00wjcA7X-Qg": "S74",
-    "zLd_sLpJbso": "S75",
-    "rAy0drHTJec": "S76",
-    "KDrSQeoRVlM": "S77",
-    "Iy6_Ai58LVU": "S78",
-    "BjUwjqr393U": "S79",
-    "TbNKm7vQeMI": "S80",
-    "qrzjUo-KuTY": "S81",
-    "rQgnTYrORh0": "S82",
-    "z6C2Qa5Zurs": "S83",
-    "_AEFsv98W9U": "S84",
+    "z1Z68ptY36Y": "S69",
+    "sGForBHdHvU": "S70",
+    "00wjcA7X-Qg": "S71",
+    "paeV4vcd2Yc": "S72",
+    "rAy0drHTJec": "S73",
+    "KDrSQeoRVlM": "S74",
+    "Iy6_Ai58LVU": "S75",
+    "7W5DxD-8ljw": "S76",
+    "5O7GVpm5SmE": "S77",
+    "BjUwjqr393U": "S78",
+    "TbNKm7vQeMI": "S79",
+    "qrzjUo-KuTY": "S80",
+    "rQgnTYrORh0": "S81",
+    "z6C2Qa5Zurs": "S82",
+    "_AEFsv98W9U": "S83",
+    "H7PSzrL-IiY": "S84",
     "44QFyNiPgDQ": "S85",
     "ppTULSMbnow": "S86",
     "KQggKpg2XrA": "S87",
@@ -1139,6 +1150,7 @@
     "nkmS2mp3zi0": "S92",
     "fifQC8jHP3Y": "S93",
     "mumw3YonOpU": "S94",
-    "BhLJHCscexw": "S95"
+    "V-oDwYKqw9E": "S95",
+    "BhLJHCscexw": "S96"
   }
 }
